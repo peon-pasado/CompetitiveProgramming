@@ -6,7 +6,7 @@
  * @idea
  *      - we can use the idea small to large and
  *      maintain the maximum number of elements with sum <= m,
- *      the merge take O(nlogn), the final complexity es O(nlog^2n).
+ *      the merge take O(nlogn), the final complexity is O(nlog^2n).
  */
 
 #include <string>
