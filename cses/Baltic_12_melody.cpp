@@ -1,6 +1,6 @@
 /**
  * @author Miguel Mini
- * @tag dp, brute_force, bitset
+ * @tag dp, brute_force, bitset, sorting
  * @idea
  *      - we can do a simple dp in O (l n^2), 
  *      but it is not enough for the time limits.
@@ -14,12 +14,13 @@
  *
  *      - to do this we can order the dp(i-1) in O(n \log n).
  *
- *      - then we can see that the smallest must take all possible k.
+ *      - then we can see that the smallest must take all possible k,
+ *	and continue with the following minors.
  *
  *      - we can see these as a set S_t, and we will only have to 
  *      consider the elements of S_t \ {U S_i | i < t}
  *
- *      - we can make these intersections in O (n / 32)
+ *      - we can make these intersections in O (n / 32).
  *
  * @complexity O(l * (n \log n + n^2 / 32))
 **/
