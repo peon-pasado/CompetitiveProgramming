@@ -16,7 +16,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int maxn = 1e7 + 10;
+const int maxn = 1.2e7 + 10;
 int dp[maxn];
 int link[maxn];
 
