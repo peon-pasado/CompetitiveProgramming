@@ -6,12 +6,12 @@
  *      is 2 * n / p.
  *
  *      - note that for each b % p, the total number of
- *      edges is at most 2 * n / p. for p1 < p2, we dont
- *      need edges from p2 to i < p1 or edges from
- *      p1 to i > p2.
+ *      edges is at most 2 * n / p. for b1 < b2, we dont
+ *      need edges from b2 to i < b1 or edges from
+ *      b1 to i > b2.
  *
  *      - therefor for each p, the number of distinct b % p
- *      is p, such that the worst case is take ps:
+ *      is p, such that the worst case is take ps (with distinct b):
  *        
  *          {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, ...}
  *
