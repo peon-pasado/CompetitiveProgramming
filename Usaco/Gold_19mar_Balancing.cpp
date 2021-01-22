@@ -143,14 +143,12 @@ public:
     void solveOne(istream& in, ostream& out) {
       in >> n;
       rep(i, 2 * n) in >> a[i];
-      build();
       auto sol = []()->ll {
           return abs(query(0, n-1).inv - query(n, 2*n-1).inv);
       };
-      ll ans = sol();
       auto func = [&](int x) {
-        ll ans = 1e18, acc = 0;
         build();
+        ll ans = sol(), acc = 0;
         for (int l=n-1, r=n; ; --l, ++r) {
           while (l >= 0 && a[l] == x) l--;
           while (r < 2*n && a[r] == !x) r++;
@@ -161,6 +159,7 @@ public:
         }
         return ans;
       };
+      ll ans = 1e18;
       rep(i, 2) ans = min(ans, func(i));
       out << ans << endl;
     }
