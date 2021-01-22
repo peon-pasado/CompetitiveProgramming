@@ -95,7 +95,7 @@ struct Node {
     ll inv;
     int zero, one;
 } st[maxn<<2];
-bitset<maxn> a;
+int a[maxn];
 
 Node merge(Node p, Node q) {
   return {
@@ -142,48 +142,26 @@ class Gold_19mar_Balancing {
 public:
     void solveOne(istream& in, ostream& out) {
       in >> n;
-      n <<= 1;
-      rep(i, n) {
-        int x;
-        in >> x;
-        a[i] = x;
-      }
+      rep(i, 2 * n) in >> a[i];
       build();
       auto sol = []()->ll {
-          return abs(query(0, n/2-1).inv - query(n/2, n-1).inv);
+          return abs(query(0, n-1).inv - query(n, 2*n-1).inv);
       };
       ll ans = sol();
-      int l = n/2-1;
-      int r = n/2;
-      ll acc = 0;
-      for (int i = 1; ; ++i) {
-        while (l >= 0 && a[l] == 0) l -= 1;
-        if (l < 0 || a[l] == 0) break;
-        while (r < n && a[r] == 1) r += 1;
-        if (r >= n || a[r] == 1) break;
-        acc += ((n/2-i)-l) + (r-(n/2+i-1));
-        update(l, 0);
-        update(r, 1);
-        ans = min(ans, acc + i *1ll* i + sol());
-        l -= 1;
-        r += 1;
-      }
-      build();
-      l = n/2-1;
-      r = n/2;
-      acc = 0;
-      for (int i = 1; ; ++i) {
-        while (l >= 0 && a[l] == 1) l -= 1;
-        if (l < 0 || a[l] == 1) break;
-        while (r < n && a[r] == 0) r += 1;
-        if (r >= n || a[r] == 0) break;
-        acc += ((n / 2 - i) - l) + (r - (n / 2 + i - 1));
-        update(l, 1);
-        update(r, 0);
-        ans = min(ans, acc + i *1ll* i + abs(sol()));
-        l -= 1;
-        r += 1;
-      }
+      auto func = [&](int x) {
+        ll ans = 1e18, acc = 0;
+        build();
+        for (int l=n-1, r=n; ; --l, ++r) {
+          while (l >= 0 && a[l] == x) l--;
+          while (r < 2*n && a[r] == !x) r++;
+          if (r >= 2*n || l < 0) break;
+          acc += r - l;
+          update(l, x); update(r, !x);
+          ans = min(ans, acc + sol());
+        }
+        return ans;
+      };
+      rep(i, 2) ans = min(ans, func(i));
       out << ans << endl;
     }
 
