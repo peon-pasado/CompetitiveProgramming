@@ -106,7 +106,7 @@ Node merge(Node p, Node q) {
 }
 
 int n;
-void build(int nx=1, int l=0, int r=n-1) {
+void build(int nx=1, int l=0, int r=2*n-1) {
   if (l == r) {
     st[nx] = {0, !a[r], a[r]};
     return;
@@ -117,7 +117,7 @@ void build(int nx=1, int l=0, int r=n-1) {
   st[nx] = merge(st[nx<<1], st[nx<<1|1]);
 }
 
-Node query(int ll, int rr, int nx=1, int l=0, int r=n-1) {
+Node query(int ll, int rr, int nx=1, int l=0, int r=2*n-1) {
   if (rr < l || r < ll) return {0ll, 0, 0};
   if (ll <= l && r <= rr) return st[nx];
   int mid = (l + r) / 2;
@@ -126,7 +126,7 @@ Node query(int ll, int rr, int nx=1, int l=0, int r=n-1) {
           query(ll, rr, nx << 1 | 1, mid + 1, r));
 }
 
-void update(int pos, int v, int nx=1, int l=0, int r=n-1) {
+void update(int pos, int v, int nx=1, int l=0, int r=2*n-1) {
   if (pos < l || r < pos) return;
   if (l == r) {
     st[nx] = {0, !v, v};
