@@ -24,23 +24,11 @@ using namespace std;
 
 const int mod = 1e9 + 7;
 
-int qpow(int a, int b) {
-	int r = 1;
-	while (b > 0) {
-		if (b&1) r = r*1ll*a%mod;
-		a = a*1ll*a%mod;
-		b >>= 1;
-	}
-	return r;
-}
-
 vector<vector<int>> solve(string X) {
 	int ans = 0;
-	int inv10 = qpow(10, mod-2);
+	int inv10 = (7ll*mod + 1) / 10;
 	int t = 1;
-	for (auto d : X) {
-		ans = (ans * 10ll + d - '0') % mod;
-	} 
+	for (auto d : X) ans = (ans*10ll+d-'0') % mod;
 	int sub = 0;
 	reverse(X.begin(), X.end());
 	vector<vector<int>> mat(X.size(), vector<int>(10)); 
