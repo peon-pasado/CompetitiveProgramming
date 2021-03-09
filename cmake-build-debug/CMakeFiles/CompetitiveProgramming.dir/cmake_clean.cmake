@@ -653,6 +653,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_09_Ograda.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Savez.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj"

@@ -395,6 +395,7 @@ add_executable(CompetitiveProgramming
         dmoj/COCI_09_Ograda.cpp
         dmoj/COCI_15_Savez.cpp
         dmoj/COCI_15_Slon.cpp
+        dmoj/UTSOpen_15_Pogo.cpp
         dunjudge/inheritance/inheritance.cpp
         dunjudge/median/ans.cpp
         dunjudge/median/device.h

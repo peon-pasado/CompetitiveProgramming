@@ -5508,10 +5508,24 @@ CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dmoj\COCI_15_Slon.cpp -o CMakeFiles\CompetitiveProgramming.dir\dmoj\COCI_15_Slon.cpp.s
 
+CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
+CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj: ../dmoj/UTSOpen_15_Pogo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dmoj\UTSOpen_15_Pogo.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dmoj\UTSOpen_15_Pogo.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dmoj\UTSOpen_15_Pogo.cpp > CMakeFiles\CompetitiveProgramming.dir\dmoj\UTSOpen_15_Pogo.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dmoj\UTSOpen_15_Pogo.cpp -o CMakeFiles\CompetitiveProgramming.dir\dmoj\UTSOpen_15_Pogo.cpp.s
+
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj: ../dunjudge/inheritance/inheritance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\inheritance\inheritance.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\inheritance\inheritance.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.i: cmake_force
@@ -5525,7 +5539,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj: ../dunjudge/median/ans.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\median\ans.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\median\ans.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.i: cmake_force
@@ -5539,7 +5553,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj: ../dunjudge/median/grader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\median\grader.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\median\grader.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.i: cmake_force
@@ -5553,7 +5567,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj: ../dunjudge/APIO_08_dna.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\APIO_08_dna.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\APIO_08_dna.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.i: cmake_force
@@ -5567,7 +5581,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/APIO_08_dna.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj: ../dunjudge/COCI_09_snowwhite.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\COCI_09_snowwhite.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\COCI_09_snowwhite.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.i: cmake_force
@@ -5581,7 +5595,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_09_snowwhite.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj: ../dunjudge/COCI_13_Parovi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\COCI_13_Parovi.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\COCI_13_Parovi.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.i: cmake_force
@@ -5595,7 +5609,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/COCI_13_Parovi.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.obj: ../dunjudge/IOIPractice_17_Coins.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\IOIPractice_17_Coins.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\IOIPractice_17_Coins.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.i: cmake_force
@@ -5609,7 +5623,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/IOIPractice_17_Coins.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.obj: ../dunjudge/MCO_16-acorn.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\MCO_16-acorn.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\MCO_16-acorn.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.i: cmake_force
@@ -5623,7 +5637,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/MCO_16-acorn.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.obj: ../dunjudge/NOI_17_RMQ.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\NOI_17_RMQ.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\NOI_17_RMQ.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.i: cmake_force
@@ -5637,7 +5651,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/NOI_17_RMQ.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.obj: ../dunjudge/TOKIOpen_18_GroupChat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\dunjudge\TOKIOpen_18_GroupChat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\dunjudge\TOKIOpen_18_GroupChat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.i: cmake_force
@@ -5651,7 +5665,7 @@ CMakeFiles/CompetitiveProgramming.dir/dunjudge/TOKIOpen_18_GroupChat.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.obj: ../e-olymp/1303.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\1303.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\1303.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.i: cmake_force
@@ -5665,7 +5679,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/1303.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.obj: ../e-olymp/2379.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\2379.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\2379.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.i: cmake_force
@@ -5679,7 +5693,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/2379.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.obj: ../e-olymp/4142.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\4142.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\4142.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.i: cmake_force
@@ -5693,7 +5707,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/4142.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.obj: ../e-olymp/4261.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\4261.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\4261.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.i: cmake_force
@@ -5707,7 +5721,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/4261.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.obj: ../e-olymp/6828.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\6828.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\6828.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.i: cmake_force
@@ -5721,7 +5735,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/6828.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.obj: ../e-olymp/7031.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\7031.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\7031.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.i: cmake_force
@@ -5735,7 +5749,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/7031.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.obj: ../e-olymp/8735.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\8735.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\8735.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.i: cmake_force
@@ -5749,7 +5763,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/8735.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.obj: ../e-olymp/9088.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\9088.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\9088.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.i: cmake_force
@@ -5763,7 +5777,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/9088.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.obj: ../e-olymp/9098.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\9098.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\9098.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.i: cmake_force
@@ -5777,7 +5791,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/9098.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.obj: ../e-olymp/973.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\e-olymp\973.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\e-olymp\973.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.i: cmake_force
@@ -5791,7 +5805,7 @@ CMakeFiles/CompetitiveProgramming.dir/e-olymp/973.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.obj: ../FbHkrCup/2017/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2017\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2017\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.i: cmake_force
@@ -5805,7 +5819,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.obj: ../FbHkrCup/2017/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2017\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2017\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.i: cmake_force
@@ -5819,7 +5833,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.obj: ../FbHkrCup/2017/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2017\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2017\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.i: cmake_force
@@ -5833,7 +5847,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.obj: ../FbHkrCup/2017/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2017\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2017\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.i: cmake_force
@@ -5847,7 +5861,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/D.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.obj: ../FbHkrCup/2017/ta.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2017\ta.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2017\ta.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.i: cmake_force
@@ -5861,7 +5875,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2017/ta.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.obj: ../FbHkrCup/2018/18-R1-A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2018\18-R1-A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2018\18-R1-A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.i: cmake_force
@@ -5875,7 +5889,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.obj: ../FbHkrCup/2018/18-R1-B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2018\18-R1-B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2018\18-R1-B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.i: cmake_force
@@ -5889,7 +5903,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.obj: ../FbHkrCup/2018/18-R1-C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\2018\18-R1-C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\2018\18-R1-C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.i: cmake_force
@@ -5903,7 +5917,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/2018/18-R1-C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.obj: ../FbHkrCup/AA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\AA.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\AA.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.i: cmake_force
@@ -5917,7 +5931,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.obj: ../FbHkrCup/AA2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\AA2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\AA2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.i: cmake_force
@@ -5931,7 +5945,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AA2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.obj: ../FbHkrCup/AR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\AR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\AR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.i: cmake_force
@@ -5945,7 +5959,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/AR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.obj: ../FbHkrCup/CC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\CC.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\CC.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.i: cmake_force
@@ -5959,7 +5973,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CC.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.obj: ../FbHkrCup/CR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\CR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\CR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.i: cmake_force
@@ -5973,7 +5987,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/CR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.obj: ../FbHkrCup/DR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FbHkrCup\DR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FbHkrCup\DR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.i: cmake_force
@@ -5987,7 +6001,7 @@ CMakeFiles/CompetitiveProgramming.dir/FbHkrCup/DR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.obj: ../FHC/2017/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\2017\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\2017\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.i: cmake_force
@@ -6001,7 +6015,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/2017/A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.obj: ../FHC/2017/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\2017\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\2017\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.i: cmake_force
@@ -6015,7 +6029,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/2017/B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.obj: ../FHC/2017/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\2017\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\2017\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.i: cmake_force
@@ -6029,7 +6043,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/2017/C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.obj: ../FHC/2017/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\2017\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\2017\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.i: cmake_force
@@ -6043,7 +6057,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/2017/D.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.obj: ../FHC/2017/ta.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\2017\ta.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\2017\ta.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.i: cmake_force
@@ -6057,7 +6071,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/2017/ta.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.obj: ../FHC/AA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\AA.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\AA.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.i: cmake_force
@@ -6071,7 +6085,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/AA.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.obj: ../FHC/AA2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\AA2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\AA2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.i: cmake_force
@@ -6085,7 +6099,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/AA2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.obj: ../FHC/AR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\AR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\AR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.i: cmake_force
@@ -6099,7 +6113,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/AR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.obj: ../FHC/CC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\CC.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\CC.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.i: cmake_force
@@ -6113,7 +6127,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/CC.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.obj: ../FHC/CR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\CR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\CR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.i: cmake_force
@@ -6127,7 +6141,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/CR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.obj: ../FHC/DR1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\FHC\DR1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\FHC\DR1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.i: cmake_force
@@ -6141,7 +6155,7 @@ CMakeFiles/CompetitiveProgramming.dir/FHC/DR1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.obj: ../hackerearth/MarchClass15-CountingOnTree1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerearth\MarchClass15-CountingOnTree1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerearth\MarchClass15-CountingOnTree1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.cpp.i: cmake_force
@@ -6155,7 +6169,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerearth/MarchClass15-CountingOnTree1.c
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.obj: ../hackerrank/infinitum17/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\infinitum17\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\infinitum17\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.i: cmake_force
@@ -6169,7 +6183,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/A.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.obj: ../hackerrank/infinitum17/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\infinitum17\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\infinitum17\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.i: cmake_force
@@ -6183,7 +6197,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/B.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.obj: ../hackerrank/infinitum17/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\infinitum17\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\infinitum17\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.i: cmake_force
@@ -6197,7 +6211,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/C.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.obj: ../hackerrank/infinitum17/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\infinitum17\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\infinitum17\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.i: cmake_force
@@ -6211,7 +6225,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/D.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.obj: ../hackerrank/infinitum17/E.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\infinitum17\E.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\infinitum17\E.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.i: cmake_force
@@ -6225,7 +6239,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/infinitum17/E.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.obj: ../hackerrank/Balkan_16_Conference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\Balkan_16_Conference.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\Balkan_16_Conference.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.i: cmake_force
@@ -6239,7 +6253,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/Balkan_16_Conference.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.obj: ../hackerrank/breaking_the_records.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\breaking_the_records.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\breaking_the_records.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.i: cmake_force
@@ -6253,7 +6267,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/breaking_the_records.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.obj: ../hackerrank/dog_walking.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\dog_walking.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\dog_walking.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.i: cmake_force
@@ -6267,7 +6281,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/dog_walking.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.obj: ../hackerrank/Equal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\Equal.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\Equal.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.i: cmake_force
@@ -6281,7 +6295,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/Equal.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.obj: ../hackerrank/flower_games.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\flower_games.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\flower_games.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.i: cmake_force
@@ -6295,7 +6309,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/flower_games.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.obj: ../hackerrank/game_of_two_stacks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\game_of_two_stacks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\game_of_two_stacks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.i: cmake_force
@@ -6309,7 +6323,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/game_of_two_stacks.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.obj: ../hackerrank/hyperspace_travel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\hyperspace_travel.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\hyperspace_travel.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.i: cmake_force
@@ -6323,7 +6337,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/hyperspace_travel.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.obj: ../hackerrank/inti_sets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\inti_sets.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\inti_sets.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.i: cmake_force
@@ -6337,7 +6351,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/inti_sets.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.obj: ../hackerrank/leonardo's_prime_factors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\CompetitiveProgramming.dir\hackerrank\leonardo's_prime_factors.cpp.obj" -c "C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\leonardo's_prime_factors.cpp"
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.i: cmake_force
@@ -6351,7 +6365,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/leonardo's_prime_factors.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.obj: ../hackerrank/minimum_mst_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\minimum_mst_graph.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\minimum_mst_graph.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.i: cmake_force
@@ -6365,7 +6379,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.obj: ../hackerrank/minimum_mst_graph_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\minimum_mst_graph_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\minimum_mst_graph_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.i: cmake_force
@@ -6379,7 +6393,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/minimum_mst_graph_2.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.obj: ../hackerrank/mouse_vs_mouse.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\mouse_vs_mouse.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\mouse_vs_mouse.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.i: cmake_force
@@ -6393,7 +6407,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/mouse_vs_mouse.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.obj: ../hackerrank/mst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\mst.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\mst.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.i: cmake_force
@@ -6407,7 +6421,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/mst.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.obj: ../hackerrank/mysterious_maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\mysterious_maze.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\mysterious_maze.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.i: cmake_force
@@ -6421,7 +6435,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/mysterious_maze.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.obj: ../hackerrank/n_palindromes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\n_palindromes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\n_palindromes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.i: cmake_force
@@ -6435,7 +6449,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/n_palindromes.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.obj: ../hackerrank/painters_dilemma.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\painters_dilemma.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\painters_dilemma.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.i: cmake_force
@@ -6449,7 +6463,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/painters_dilemma.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.obj: ../hackerrank/parallelogram_connectivity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\parallelogram_connectivity.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\parallelogram_connectivity.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.i: cmake_force
@@ -6463,7 +6477,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity.cpp.
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.obj: ../hackerrank/parallelogram_connectivity_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\parallelogram_connectivity_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\parallelogram_connectivity_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cpp.i: cmake_force
@@ -6477,7 +6491,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_2.cp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.obj: ../hackerrank/parallelogram_connectivity_3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\parallelogram_connectivity_3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\parallelogram_connectivity_3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cpp.i: cmake_force
@@ -6491,7 +6505,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/parallelogram_connectivity_3.cp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.obj: ../hackerrank/playing_20.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\playing_20.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\playing_20.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.i: cmake_force
@@ -6505,7 +6519,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/playing_20.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.obj: ../hackerrank/querying_sums_on_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\querying_sums_on_strings.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\querying_sums_on_strings.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.i: cmake_force
@@ -6519,7 +6533,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/querying_sums_on_strings.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.obj: ../hackerrank/russian_peasant_exponentiation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\russian_peasant_exponentiation.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\russian_peasant_exponentiation.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.cpp.i: cmake_force
@@ -6533,7 +6547,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/russian_peasant_exponentiation.
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.obj: ../hackerrank/separate_the_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\separate_the_numbers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\separate_the_numbers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.i: cmake_force
@@ -6547,7 +6561,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/separate_the_numbers.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.obj: ../hackerrank/Sherlock_and_cost.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\Sherlock_and_cost.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\Sherlock_and_cost.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.i: cmake_force
@@ -6561,7 +6575,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/Sherlock_and_cost.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.obj: ../hackerrank/sherlocks_array_merging_algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\sherlocks_array_merging_algorithm.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\sherlocks_array_merging_algorithm.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorithm.cpp.i: cmake_force
@@ -6575,7 +6589,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/sherlocks_array_merging_algorit
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.obj: ../hackerrank/solve_equations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\solve_equations.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\solve_equations.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.i: cmake_force
@@ -6589,7 +6603,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/solve_equations.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.obj: ../hackerrank/sum2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\sum2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\sum2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.i: cmake_force
@@ -6603,7 +6617,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.obj: ../hackerrank/sum3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\sum3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\sum3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.i: cmake_force
@@ -6617,7 +6631,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.obj: ../hackerrank/sum_of_remainders.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\sum_of_remainders.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\sum_of_remainders.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.i: cmake_force
@@ -6631,7 +6645,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/sum_of_remainders.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.obj: ../hackerrank/the_story_of_a_tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\the_story_of_a_tree.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\the_story_of_a_tree.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.i: cmake_force
@@ -6645,7 +6659,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/the_story_of_a_tree.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.obj: ../hackerrank/tree_pruning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\tree_pruning.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\tree_pruning.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.i: cmake_force
@@ -6659,7 +6673,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/tree_pruning.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.obj: ../hackerrank/Vertical_sticks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\hackerrank\Vertical_sticks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\Vertical_sticks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.i: cmake_force
@@ -6673,7 +6687,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/Vertical_sticks.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.obj: ../hackerrank/xrange'_pancakes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\CompetitiveProgramming.dir\hackerrank\xrange'_pancakes.cpp.obj" -c "C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\hackerrank\xrange'_pancakes.cpp"
 
 CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.i: cmake_force
@@ -6687,7 +6701,7 @@ CMakeFiles/CompetitiveProgramming.dir/hackerrank/xrange'_pancakes.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.obj: ../HACKR/BILLBOARDS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\HACKR\BILLBOARDS.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\HACKR\BILLBOARDS.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.i: cmake_force
@@ -6701,7 +6715,7 @@ CMakeFiles/CompetitiveProgramming.dir/HACKR/BILLBOARDS.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.obj: ../HACKR/meeting_point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\HACKR\meeting_point.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\HACKR\meeting_point.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.i: cmake_force
@@ -6715,7 +6729,7 @@ CMakeFiles/CompetitiveProgramming.dir/HACKR/meeting_point.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.obj: ../HDU/4625.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\HDU\4625.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\HDU\4625.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.i: cmake_force
@@ -6729,7 +6743,7 @@ CMakeFiles/CompetitiveProgramming.dir/HDU/4625.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj: ../infoarena/amici2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\amici2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\amici2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.i: cmake_force
@@ -6743,7 +6757,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj: ../infoarena/arb.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\arb.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\arb.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.i: cmake_force
@@ -6757,7 +6771,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj: ../infoarena/Fibo4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\Fibo4.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\Fibo4.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.i: cmake_force
@@ -6771,7 +6785,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj: ../infoarena/interact.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\interact.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\interact.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.i: cmake_force
@@ -6785,7 +6799,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj: ../infoarena/karb.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\karb.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\karb.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.i: cmake_force
@@ -6799,7 +6813,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj: ../infoarena/lcdr.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\lcdr.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\lcdr.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.i: cmake_force
@@ -6813,7 +6827,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj: ../infoarena/password2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\password2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\password2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.i: cmake_force
@@ -6827,7 +6841,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj: ../infoarena/permsort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\permsort.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\permsort.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.i: cmake_force
@@ -6841,7 +6855,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj: ../infoarena/permsort2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\permsort2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\permsort2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.i: cmake_force
@@ -6855,7 +6869,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.obj: ../infoarena/pitici3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\pitici3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\pitici3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.i: cmake_force
@@ -6869,7 +6883,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/pitici3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.obj: ../infoarena/plimbare3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\plimbare3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\plimbare3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.i: cmake_force
@@ -6883,7 +6897,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/plimbare3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.obj: ../infoarena/retea3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\retea3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\retea3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.i: cmake_force
@@ -6897,7 +6911,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/retea3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.obj: ../infoarena/sormin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\infoarena\sormin.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\infoarena\sormin.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.i: cmake_force
@@ -6911,7 +6925,7 @@ CMakeFiles/CompetitiveProgramming.dir/infoarena/sormin.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.obj: ../ITMO/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ITMO\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ITMO\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.i: cmake_force
@@ -6925,7 +6939,7 @@ CMakeFiles/CompetitiveProgramming.dir/ITMO/A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.obj: ../ITMO/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ITMO\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ITMO\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.i: cmake_force
@@ -6939,7 +6953,7 @@ CMakeFiles/CompetitiveProgramming.dir/ITMO/B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.obj: ../ITMO/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ITMO\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ITMO\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.i: cmake_force
@@ -6953,7 +6967,7 @@ CMakeFiles/CompetitiveProgramming.dir/ITMO/D.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.obj: ../ITMO/E.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ITMO\E.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ITMO\E.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.i: cmake_force
@@ -6967,7 +6981,7 @@ CMakeFiles/CompetitiveProgramming.dir/ITMO/E.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.obj: ../ITMO/F.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ITMO\F.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ITMO\F.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.i: cmake_force
@@ -6981,7 +6995,7 @@ CMakeFiles/CompetitiveProgramming.dir/ITMO/F.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.obj: ../kattis/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.i: cmake_force
@@ -6995,7 +7009,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.obj: ../kattis/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.i: cmake_force
@@ -7009,7 +7023,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.obj: ../kattis/Baltic_17_Railway.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\Baltic_17_Railway.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\Baltic_17_Railway.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.i: cmake_force
@@ -7023,7 +7037,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/Baltic_17_Railway.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.obj: ../kattis/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.i: cmake_force
@@ -7037,7 +7051,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.obj: ../kattis/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_499) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.i: cmake_force
@@ -7051,7 +7065,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/D.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.obj: ../kattis/E.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_499) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_500) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\E.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\E.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.i: cmake_force
@@ -7065,7 +7079,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/E.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.obj: ../kattis/F.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_500) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_501) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\F.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\F.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.i: cmake_force
@@ -7079,7 +7093,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/F.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.obj: ../kattis/G.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_501) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_502) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\G.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\G.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.i: cmake_force
@@ -7093,7 +7107,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/G.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.obj: ../kattis/H.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_502) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_503) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\H.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\H.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.i: cmake_force
@@ -7107,7 +7121,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/H.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.obj: ../kattis/Kamp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_503) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_504) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\Kamp.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\Kamp.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.i: cmake_force
@@ -7121,7 +7135,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/Kamp.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.obj: ../kattis/nuremberg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_504) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_505) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\kattis\nuremberg.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\kattis\nuremberg.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.i: cmake_force
@@ -7135,7 +7149,7 @@ CMakeFiles/CompetitiveProgramming.dir/kattis/nuremberg.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.obj: ../live_archive/2481_silly_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_505) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_506) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\2481_silly_sort.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\2481_silly_sort.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.i: cmake_force
@@ -7149,7 +7163,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.obj: ../live_archive/2481_silly_sort_fast.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_506) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_507) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\2481_silly_sort_fast.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\2481_silly_sort_fast.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.i: cmake_force
@@ -7163,7 +7177,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/2481_silly_sort_fast.cpp.s: c
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.obj: ../live_archive/2942.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_507) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_508) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\2942.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\2942.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.i: cmake_force
@@ -7177,7 +7191,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/2942.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.obj: ../live_archive/2942_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_508) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_509) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\2942_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\2942_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.i: cmake_force
@@ -7191,7 +7205,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.obj: ../live_archive/2942_3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_509) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_510) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\2942_3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\2942_3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.i: cmake_force
@@ -7205,7 +7219,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/2942_3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.obj: ../live_archive/4787.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_510) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_511) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\4787.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\4787.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.i: cmake_force
@@ -7219,7 +7233,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/4787.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.obj: ../live_archive/4976.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_511) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_512) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\4976.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\4976.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.i: cmake_force
@@ -7233,7 +7247,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/4976.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.obj: ../live_archive/6436_the_busiest_city.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_512) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_513) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\6436_the_busiest_city.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\6436_the_busiest_city.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.i: cmake_force
@@ -7247,7 +7261,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/6436_the_busiest_city.cpp.s: 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.obj: ../live_archive/7205.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_513) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_514) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\7205.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\7205.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.i: cmake_force
@@ -7261,7 +7275,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/7205.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.obj: ../live_archive/7205_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_514) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_515) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\7205_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\7205_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.i: cmake_force
@@ -7275,7 +7289,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/7205_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.obj: ../live_archive/7225.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_515) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_516) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\7225.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\7225.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.i: cmake_force
@@ -7289,7 +7303,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/7225.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.obj: ../live_archive/7225_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_516) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_517) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\7225_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\7225_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.i: cmake_force
@@ -7303,7 +7317,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.obj: ../live_archive/7225_summation_and_divisor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_517) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_518) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\live_archive\7225_summation_and_divisor.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\live_archive\7225_summation_and_divisor.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cpp.i: cmake_force
@@ -7317,7 +7331,7 @@ CMakeFiles/CompetitiveProgramming.dir/live_archive/7225_summation_and_divisor.cp
 CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.obj: ../LOJ/528.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_518) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_519) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\LOJ\528.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\LOJ\528.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.i: cmake_force
@@ -7331,7 +7345,7 @@ CMakeFiles/CompetitiveProgramming.dir/LOJ/528.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.obj: ../LOJ/6160.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_519) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_520) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\LOJ\6160.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\LOJ\6160.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.i: cmake_force
@@ -7345,7 +7359,7 @@ CMakeFiles/CompetitiveProgramming.dir/LOJ/6160.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.obj: ../LOJ/6181.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_520) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_521) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\LOJ\6181.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\LOJ\6181.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.i: cmake_force
@@ -7359,7 +7373,7 @@ CMakeFiles/CompetitiveProgramming.dir/LOJ/6181.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.obj: ../LOJ/6244.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_521) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_522) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\LOJ\6244.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\LOJ\6244.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.i: cmake_force
@@ -7373,7 +7387,7 @@ CMakeFiles/CompetitiveProgramming.dir/LOJ/6244.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.obj: CMakeFiles/CompetitiveProgramming.dir/includes_C.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.obj: ../oj.uz/garden/garden.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_522) "Building C object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_523) "Building C object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\garden\garden.c.obj   -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\garden\garden.c
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.i: cmake_force
@@ -7387,7 +7401,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.c.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.obj: ../oj.uz/garden/garden.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_523) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_524) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\garden\garden.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\garden\garden.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.i: cmake_force
@@ -7401,7 +7415,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/garden.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.obj: CMakeFiles/CompetitiveProgramming.dir/includes_C.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.obj: ../oj.uz/garden/grader.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_524) "Building C object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_525) "Building C object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\garden\grader.c.obj   -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\garden\grader.c
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.i: cmake_force
@@ -7415,7 +7429,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.c.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.obj: ../oj.uz/garden/grader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_525) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_526) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\garden\grader.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\garden\grader.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.i: cmake_force
@@ -7429,7 +7443,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/garden/grader.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.obj: ../oj.uz/APIO_15_Skiscraper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_526) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_527) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\APIO_15_Skiscraper.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\APIO_15_Skiscraper.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.i: cmake_force
@@ -7443,7 +7457,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/APIO_15_Skiscraper.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.obj: ../oj.uz/Baltic_13-pipes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_527) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_528) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\Baltic_13-pipes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\Baltic_13-pipes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.i: cmake_force
@@ -7457,7 +7471,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13-pipes.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.obj: ../oj.uz/Baltic_13_Brunhilda.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_528) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_529) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\Baltic_13_Brunhilda.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\Baltic_13_Brunhilda.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.i: cmake_force
@@ -7471,7 +7485,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_13_Brunhilda.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.obj: ../oj.uz/Baltic_15_Net.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_529) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_530) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\Baltic_15_Net.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\Baltic_15_Net.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.i: cmake_force
@@ -7485,7 +7499,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_15_Net.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.obj: ../oj.uz/Baltic_19-valley.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_530) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_531) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\Baltic_19-valley.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\Baltic_19-valley.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.i: cmake_force
@@ -7499,7 +7513,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/Baltic_19-valley.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.obj: ../oj.uz/BOI19_nautilus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_531) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_532) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\BOI19_nautilus.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\BOI19_nautilus.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.i: cmake_force
@@ -7513,7 +7527,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/BOI19_nautilus.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.obj: ../oj.uz/CEOI_13_Treasure2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_532) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_533) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\CEOI_13_Treasure2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\CEOI_13_Treasure2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.i: cmake_force
@@ -7527,7 +7541,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/CEOI_13_Treasure2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.obj: ../oj.uz/COC_18_dostavljac.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_533) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_534) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COC_18_dostavljac.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COC_18_dostavljac.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.i: cmake_force
@@ -7541,7 +7555,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COC_18_dostavljac.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.obj: ../oj.uz/COCI_15_Vudu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_534) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_535) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_15_Vudu.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_15_Vudu.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.i: cmake_force
@@ -7555,7 +7569,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_15_Vudu.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.obj: ../oj.uz/COCI_16_Mag.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_535) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_536) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_16_Mag.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_16_Mag.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.i: cmake_force
@@ -7569,7 +7583,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_16_Mag.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.obj: ../oj.uz/COCI_17-ceste.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_536) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_537) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_17-ceste.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_17-ceste.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.i: cmake_force
@@ -7583,7 +7597,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17-ceste.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.obj: ../oj.uz/COCI_17_Rima.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_537) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_538) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_17_Rima.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_17_Rima.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.i: cmake_force
@@ -7597,7 +7611,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_17_Rima.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.obj: ../oj.uz/COCI_18_Pictionary.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_538) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_539) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_18_Pictionary.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_18_Pictionary.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.i: cmake_force
@@ -7611,7 +7625,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_Pictionary.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.obj: ../oj.uz/COCI_18_planinarenje.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_539) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_540) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_18_planinarenje.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_18_planinarenje.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.i: cmake_force
@@ -7625,7 +7639,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_18_planinarenje.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.obj: ../oj.uz/COCI_19_Strah.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_540) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_541) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COCI_19_Strah.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COCI_19_Strah.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.i: cmake_force
@@ -7639,7 +7653,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COCI_19_Strah.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.obj: ../oj.uz/COI-16-torrent.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_541) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_542) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\COI-16-torrent.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\COI-16-torrent.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.i: cmake_force
@@ -7653,7 +7667,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/COI-16-torrent.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.obj: ../oj.uz/IOI_11_Crocodrile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_542) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_543) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IOI_11_Crocodrile.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IOI_11_Crocodrile.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.i: cmake_force
@@ -7667,7 +7681,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_11_Crocodrile.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.obj: ../oj.uz/IOI_13_dreaming.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_543) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_544) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IOI_13_dreaming.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IOI_13_dreaming.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.i: cmake_force
@@ -7681,7 +7695,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_dreaming.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.obj: ../oj.uz/IOI_13_robots.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_544) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_545) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IOI_13_robots.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IOI_13_robots.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.i: cmake_force
@@ -7695,7 +7709,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_13_robots.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.obj: ../oj.uz/IOI_14_Friend.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_545) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_546) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IOI_14_Friend.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IOI_14_Friend.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.i: cmake_force
@@ -7709,7 +7723,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_Friend.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.obj: ../oj.uz/IOI_14_game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_546) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_547) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IOI_14_game.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IOI_14_game.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.i: cmake_force
@@ -7723,7 +7737,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IOI_14_game.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.obj: ../oj.uz/ioi_16_paint.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_547) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_548) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\ioi_16_paint.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\ioi_16_paint.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.i: cmake_force
@@ -7737,7 +7751,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_16_paint.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.obj: ../oj.uz/ioi_17_mountains.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_548) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_549) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\ioi_17_mountains.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\ioi_17_mountains.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.i: cmake_force
@@ -7751,7 +7765,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/ioi_17_mountains.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.obj: ../oj.uz/IZHO_12_Biochips.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_549) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_550) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IZHO_12_Biochips.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IZHO_12_Biochips.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.i: cmake_force
@@ -7765,7 +7779,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_12_Biochips.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.obj: ../oj.uz/IZHO_14_blocks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_550) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_551) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IZHO_14_blocks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IZHO_14_blocks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.i: cmake_force
@@ -7779,7 +7793,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_blocks.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.obj: ../oj.uz/IZHO_14_Shymbulak.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_551) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_552) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IZHO_14_Shymbulak.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IZHO_14_Shymbulak.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.i: cmake_force
@@ -7793,7 +7807,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_14_Shymbulak.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.obj: ../oj.uz/IZHO_18_plan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_552) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_553) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IZHO_18_plan.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IZHO_18_plan.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.i: cmake_force
@@ -7807,7 +7821,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_plan.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.obj: ../oj.uz/IZHO_18_Treearray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_553) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_554) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\IZHO_18_Treearray.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\IZHO_18_Treearray.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.i: cmake_force
@@ -7821,7 +7835,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/IZHO_18_Treearray.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.obj: ../oj.uz/JOI_17_joioi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_554) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_555) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\JOI_17_joioi.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\JOI_17_joioi.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.i: cmake_force
@@ -7835,7 +7849,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOI_17_joioi.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.obj: ../oj.uz/JOISC_19_Mergers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_555) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_556) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\JOISC_19_Mergers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\JOISC_19_Mergers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.i: cmake_force
@@ -7849,7 +7863,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/JOISC_19_Mergers.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.obj: ../oj.uz/krave.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_556) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_557) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\krave.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\krave.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.i: cmake_force
@@ -7863,7 +7877,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/krave.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.obj: ../oj.uz/museum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_557) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_558) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\museum.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\museum.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.i: cmake_force
@@ -7877,7 +7891,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/museum.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.obj: ../oj.uz/Olympiads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_558) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_559) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\Olympiads.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\Olympiads.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.i: cmake_force
@@ -7891,7 +7905,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/Olympiads.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.obj: ../oj.uz/POI_11_conductor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_559) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_560) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\POI_11_conductor.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\POI_11_conductor.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.i: cmake_force
@@ -7905,7 +7919,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/POI_11_conductor.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.obj: ../oj.uz/ruka.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_560) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_561) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\oj.uz\ruka.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\oj.uz\ruka.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.i: cmake_force
@@ -7919,7 +7933,7 @@ CMakeFiles/CompetitiveProgramming.dir/oj.uz/ruka.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.obj: ../Olympiads/OII_18_Cena.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_561) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_562) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Olympiads\OII_18_Cena.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Olympiads\OII_18_Cena.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.i: cmake_force
@@ -7933,7 +7947,7 @@ CMakeFiles/CompetitiveProgramming.dir/Olympiads/OII_18_Cena.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.obj: ../POJ/1887_testing_the_catcher.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_562) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_563) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\POJ\1887_testing_the_catcher.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\POJ\1887_testing_the_catcher.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.i: cmake_force
@@ -7947,7 +7961,7 @@ CMakeFiles/CompetitiveProgramming.dir/POJ/1887_testing_the_catcher.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.obj: ../POJ/1925_spiderman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_563) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_564) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\POJ\1925_spiderman.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\POJ\1925_spiderman.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.i: cmake_force
@@ -7961,7 +7975,7 @@ CMakeFiles/CompetitiveProgramming.dir/POJ/1925_spiderman.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.obj: ../POJ/2152.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_564) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_565) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\POJ\2152.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\POJ\2152.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.i: cmake_force
@@ -7975,7 +7989,7 @@ CMakeFiles/CompetitiveProgramming.dir/POJ/2152.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.obj: ../POJ/mediam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_565) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_566) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\POJ\mediam.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\POJ\mediam.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.i: cmake_force
@@ -7989,7 +8003,7 @@ CMakeFiles/CompetitiveProgramming.dir/POJ/mediam.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.obj: ../project_euler/10001st_prime.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_566) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_567) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\10001st_prime.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\10001st_prime.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.i: cmake_force
@@ -8003,7 +8017,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.obj: ../project_euler/10001st_prime_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_567) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_568) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\10001st_prime_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\10001st_prime_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.i: cmake_force
@@ -8017,7 +8031,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/10001st_prime_2.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.obj: ../project_euler/even_fibonacci_number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_568) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_569) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\even_fibonacci_number.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\even_fibonacci_number.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.i: cmake_force
@@ -8031,7 +8045,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/even_fibonacci_number.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.obj: ../project_euler/largest_palindrome_product.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_569) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_570) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\largest_palindrome_product.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\largest_palindrome_product.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.cpp.i: cmake_force
@@ -8045,7 +8059,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_palindrome_product.c
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.obj: ../project_euler/largest_prime_factor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_570) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_571) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\largest_prime_factor.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\largest_prime_factor.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.i: cmake_force
@@ -8059,7 +8073,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_prime_factor.cpp.s: 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.obj: ../project_euler/largest_product_in_a_series.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_571) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_572) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\largest_product_in_a_series.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\largest_product_in_a_series.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.cpp.i: cmake_force
@@ -8073,7 +8087,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/largest_product_in_a_series.
 CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.obj: ../project_euler/multiples_of_3_and_5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_572) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_573) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\multiples_of_3_and_5.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\multiples_of_3_and_5.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.i: cmake_force
@@ -8087,7 +8101,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/multiples_of_3_and_5.cpp.s: 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.obj: ../project_euler/smallest_multiple.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_573) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_574) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\smallest_multiple.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\smallest_multiple.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.i: cmake_force
@@ -8101,7 +8115,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/smallest_multiple.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.obj: ../project_euler/sum_square_difference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_574) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_575) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\project_euler\sum_square_difference.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\project_euler\sum_square_difference.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.i: cmake_force
@@ -8115,7 +8129,7 @@ CMakeFiles/CompetitiveProgramming.dir/project_euler/sum_square_difference.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.obj: ../RPC/A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_575) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_576) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\A.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\A.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.i: cmake_force
@@ -8129,7 +8143,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/A.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.obj: ../RPC/B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_576) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_577) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\B.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\B.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.i: cmake_force
@@ -8143,7 +8157,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/B.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.obj: ../RPC/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_577) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_578) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.i: cmake_force
@@ -8157,7 +8171,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.obj: ../RPC/D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_578) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_579) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\D.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\D.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.i: cmake_force
@@ -8171,7 +8185,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/D.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.obj: ../RPC/E.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_579) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_580) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\E.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\E.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.i: cmake_force
@@ -8185,7 +8199,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/E.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.obj: ../RPC/F.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_580) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_581) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\F.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\F.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.i: cmake_force
@@ -8199,7 +8213,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/F.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.obj: ../RPC/G.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_581) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_582) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\G.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\G.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.i: cmake_force
@@ -8213,7 +8227,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/G.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.obj: ../RPC/H.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_582) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_583) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\H.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\H.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.i: cmake_force
@@ -8227,7 +8241,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/H.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.obj: ../RPC/hardcode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_583) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_584) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\hardcode.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\hardcode.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.i: cmake_force
@@ -8241,7 +8255,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/hardcode.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.obj: ../RPC/I.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_584) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_585) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\I.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\I.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.i: cmake_force
@@ -8255,7 +8269,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/I.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.obj: ../RPC/J.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_585) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_586) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\J.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\J.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.i: cmake_force
@@ -8269,7 +8283,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/J.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.obj: ../RPC/K.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_586) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_587) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\K.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\K.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.i: cmake_force
@@ -8283,7 +8297,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/K.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.obj: ../RPC/L.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_587) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_588) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\L.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\L.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.i: cmake_force
@@ -8297,7 +8311,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/L.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.obj: ../RPC/two.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_588) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_589) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\RPC\two.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\RPC\two.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.i: cmake_force
@@ -8311,7 +8325,7 @@ CMakeFiles/CompetitiveProgramming.dir/RPC/two.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.obj: ../spoj/550B_preparing_olympiad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_589) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_590) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\550B_preparing_olympiad.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\550B_preparing_olympiad.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.i: cmake_force
@@ -8325,7 +8339,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/550B_preparing_olympiad.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.obj: ../spoj/AGGRCOW.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_590) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_591) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\AGGRCOW.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\AGGRCOW.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.i: cmake_force
@@ -8339,7 +8353,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/AGGRCOW.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.obj: ../spoj/AMBM.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_591) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_592) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\AMBM.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\AMBM.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.i: cmake_force
@@ -8353,7 +8367,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/AMBM.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.obj: ../spoj/ASSIGN_assignments.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_592) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_593) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\ASSIGN_assignments.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\ASSIGN_assignments.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.i: cmake_force
@@ -8367,7 +8381,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/ASSIGN_assignments.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.obj: ../spoj/B_T2011_black_and_white.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_593) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_594) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\B_T2011_black_and_white.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\B_T2011_black_and_white.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.i: cmake_force
@@ -8381,7 +8395,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/B_T2011_black_and_white.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.obj: ../spoj/BOMBER.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_594) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_595) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\BOMBER.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\BOMBER.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.i: cmake_force
@@ -8395,7 +8409,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/BOMBER.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.obj: ../spoj/BRICKS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_595) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_596) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\BRICKS.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\BRICKS.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.i: cmake_force
@@ -8409,7 +8423,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/BRICKS.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.obj: ../spoj/BUGLIFE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_596) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_597) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\BUGLIFE.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\BUGLIFE.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.i: cmake_force
@@ -8423,7 +8437,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/BUGLIFE.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.obj: ../spoj/C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_597) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_598) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\C.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\C.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.i: cmake_force
@@ -8437,7 +8451,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/C.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.obj: ../spoj/C_T2013_Little_red_cap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_598) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_599) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\C_T2013_Little_red_cap.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\C_T2013_Little_red_cap.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.i: cmake_force
@@ -8451,7 +8465,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/C_T2013_Little_red_cap.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.obj: ../spoj/CTRICK.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_599) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_600) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\CTRICK.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\CTRICK.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.i: cmake_force
@@ -8465,7 +8479,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/CTRICK.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.obj: ../spoj/FASTFLOW.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_600) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_601) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\FASTFLOW.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\FASTFLOW.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.i: cmake_force
@@ -8479,7 +8493,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/FASTFLOW.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.obj: ../spoj/FNRANK_rank_of_a_fraction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_601) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_602) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\FNRANK_rank_of_a_fraction.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\FNRANK_rank_of_a_fraction.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.i: cmake_force
@@ -8493,7 +8507,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/FNRANK_rank_of_a_fraction.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.obj: ../spoj/GSS1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_602) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_603) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\GSS1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\GSS1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.i: cmake_force
@@ -8507,7 +8521,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/GSS1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.obj: ../spoj/GSS2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_603) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_604) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\GSS2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\GSS2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.i: cmake_force
@@ -8521,7 +8535,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/GSS2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.obj: ../spoj/HORRIBLE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_604) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_605) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\HORRIBLE.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\HORRIBLE.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.i: cmake_force
@@ -8535,7 +8549,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/HORRIBLE.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.obj: ../spoj/IE1_sweets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_605) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_606) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\IE1_sweets.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\IE1_sweets.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.i: cmake_force
@@ -8549,7 +8563,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/IE1_sweets.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.obj: ../spoj/IE2_journey.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_606) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_607) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\IE2_journey.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\IE2_journey.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.i: cmake_force
@@ -8563,7 +8577,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/IE2_journey.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.obj: ../spoj/IE3_non_square_free_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_607) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_608) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\IE3_non_square_free_numbers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\IE3_non_square_free_numbers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.i: cmake_force
@@ -8577,7 +8591,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/IE3_non_square_free_numbers.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.obj: ../spoj/INCDSEQ.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_608) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_609) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\INCDSEQ.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\INCDSEQ.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.i: cmake_force
@@ -8591,7 +8605,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/INCDSEQ.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.obj: ../spoj/INCSEQ.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_609) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_610) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\INCSEQ.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\INCSEQ.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.i: cmake_force
@@ -8605,7 +8619,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/INCSEQ.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.obj: ../spoj/INTEGMAX.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_610) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_611) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\INTEGMAX.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\INTEGMAX.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.i: cmake_force
@@ -8619,7 +8633,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/INTEGMAX.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.obj: ../spoj/INVCNT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_611) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_612) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\INVCNT.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\INVCNT.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.i: cmake_force
@@ -8633,7 +8647,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/INVCNT.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.obj: ../spoj/IOPC2017.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_612) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_613) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\IOPC2017.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\IOPC2017.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.i: cmake_force
@@ -8647,7 +8661,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/IOPC2017.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.obj: ../spoj/MTRIAREA_maximum_triangle_area.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_613) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_614) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\MTRIAREA_maximum_triangle_area.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\MTRIAREA_maximum_triangle_area.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.i: cmake_force
@@ -8661,7 +8675,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/MTRIAREA_maximum_triangle_area.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.obj: ../spoj/NGM2_another_game_whit_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_614) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_615) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\NGM2_another_game_whit_numbers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\NGM2_another_game_whit_numbers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.i: cmake_force
@@ -8675,7 +8689,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/NGM2_another_game_whit_numbers.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.obj: ../spoj/NICEDAY.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_615) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_616) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\NICEDAY.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\NICEDAY.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.i: cmake_force
@@ -8689,7 +8703,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/NICEDAY.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.obj: ../spoj/NKMARS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_616) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_617) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\NKMARS.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\NKMARS.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.i: cmake_force
@@ -8703,7 +8717,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/NKMARS.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.obj: ../spoj/PERMUT1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_617) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_618) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\PERMUT1.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\PERMUT1.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.i: cmake_force
@@ -8717,7 +8731,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/PERMUT1.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj: CMakeFiles/CompetitiveProgramming.dir/includes_C.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj: ../spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_618) "Building C object CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_619) "Building C object CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.obj   -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\PESADA09_find_if_the_binary_search_tree_an_avl_tree.c
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tree_an_avl_tree.c.i: cmake_force
@@ -8731,7 +8745,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/PESADA09_find_if_the_binary_search_tr
 CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.obj: ../spoj/PGCD_primes_in_gcd_table.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_619) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_620) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\PGCD_primes_in_gcd_table.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\PGCD_primes_in_gcd_table.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.i: cmake_force
@@ -8745,7 +8759,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/PGCD_primes_in_gcd_table.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.obj: ../spoj/POLYNOM_polynomial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_620) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_621) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\POLYNOM_polynomial.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\POLYNOM_polynomial.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.i: cmake_force
@@ -8759,7 +8773,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/POLYNOM_polynomial.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj: ../spoj/qtree5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_621) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_622) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\qtree5.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\qtree5.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.i: cmake_force
@@ -8773,7 +8787,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.obj: ../spoj/SQFREE_square_free_integers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_622) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_623) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\SQFREE_square_free_integers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\SQFREE_square_free_integers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.i: cmake_force
@@ -8787,7 +8801,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/SQFREE_square_free_integers.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.obj: ../spoj/SUBST1_new_distinct_substrings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_623) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_624) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\SUBST1_new_distinct_substrings.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\SUBST1_new_distinct_substrings.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.i: cmake_force
@@ -8801,7 +8815,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.obj: ../spoj/SUBST1_new_distinct_substrings_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_624) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_625) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\SUBST1_new_distinct_substrings_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\SUBST1_new_distinct_substrings_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.i: cmake_force
@@ -8815,7 +8829,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/SUBST1_new_distinct_substrings_2.cpp.
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.obj: ../spoj/SUMITR.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_625) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_626) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\SUMITR.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\SUMITR.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.i: cmake_force
@@ -8829,7 +8843,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/SUMITR.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.obj: ../spoj/TREEISO.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_626) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_627) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\TREEISO.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\TREEISO.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.i: cmake_force
@@ -8843,7 +8857,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/TREEISO.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.obj: ../spoj/YODANESS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_627) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_628) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\YODANESS.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\YODANESS.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.i: cmake_force
@@ -8857,7 +8871,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/YODANESS.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj: ../spoj/ZOO.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_628) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_629) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\spoj\ZOO.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\spoj\ZOO.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.i: cmake_force
@@ -8871,7 +8885,7 @@ CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj: ../szkoput/CEOI_10_Tower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_629) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_630) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\CEOI_10_Tower.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\CEOI_10_Tower.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.i: cmake_force
@@ -8885,7 +8899,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj: ../szkoput/POI-04-Maximal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_630) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_631) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-04-Maximal.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-04-Maximal.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.i: cmake_force
@@ -8899,7 +8913,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj: ../szkoput/POI-04-tournament.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_631) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_632) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-04-tournament.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-04-tournament.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.i: cmake_force
@@ -8913,7 +8927,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj: ../szkoput/POI-05-Double-Row.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_632) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_633) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-05-Double-Row.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-05-Double-Row.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.i: cmake_force
@@ -8927,7 +8941,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.obj: ../szkoput/POI-05-Fibonacci.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_633) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_634) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-05-Fibonacci.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-05-Fibonacci.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.i: cmake_force
@@ -8941,7 +8955,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Fibonacci.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.obj: ../szkoput/POI-06-Invasion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_634) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_635) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-06-Invasion.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-06-Invasion.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.i: cmake_force
@@ -8955,7 +8969,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-06-Invasion.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.obj: ../szkoput/POI-07-Pipelines.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_635) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_636) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-07-Pipelines.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-07-Pipelines.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.i: cmake_force
@@ -8969,7 +8983,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Pipelines.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.obj: ../szkoput/POI-07-Tetris.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_636) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_637) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-07-Tetris.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-07-Tetris.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.i: cmake_force
@@ -8983,7 +8997,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-07-Tetris.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.obj: ../szkoput/POI-08-BBB.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_637) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_638) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-08-BBB.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-08-BBB.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.i: cmake_force
@@ -8997,7 +9011,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-08-BBB.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.obj: ../szkoput/POI-09-Walk.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_638) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_639) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-09-Walk.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-09-Walk.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.i: cmake_force
@@ -9011,7 +9025,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-09-Walk.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.obj: ../szkoput/POI-10-Beads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_639) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_640) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-10-Beads.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-10-Beads.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.i: cmake_force
@@ -9025,7 +9039,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-10-Beads.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.obj: ../szkoput/POI-14-Bricks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_640) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_641) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-14-Bricks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-14-Bricks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.i: cmake_force
@@ -9039,7 +9053,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Bricks.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.obj: ../szkoput/POI-14-Farmcraft.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_641) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_642) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI-14-Farmcraft.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI-14-Farmcraft.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.i: cmake_force
@@ -9053,7 +9067,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-14-Farmcraft.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.obj: ../szkoput/POI_04-East-West.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_642) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_643) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_04-East-West.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_04-East-West.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.i: cmake_force
@@ -9067,7 +9081,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04-East-West.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj: ../szkoput/POI_04_Passage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_643) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_644) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_04_Passage.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_04_Passage.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.i: cmake_force
@@ -9081,7 +9095,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj: ../szkoput/POI_05_Banknote.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_644) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_645) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_05_Banknote.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_05_Banknote.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.i: cmake_force
@@ -9095,7 +9109,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj: ../szkoput/POI_07-Weights.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_645) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_646) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_07-Weights.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_07-Weights.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.i: cmake_force
@@ -9109,7 +9123,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj: ../szkoput/POI_10-Sheep.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_646) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_647) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_10-Sheep.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_10-Sheep.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.i: cmake_force
@@ -9123,7 +9137,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj: ../szkoput/POI_10_sums.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_647) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_648) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_10_sums.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_10_sums.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.i: cmake_force
@@ -9137,7 +9151,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj: ../szkoput/POI_12-Festival.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_648) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_649) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_12-Festival.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_12-Festival.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.i: cmake_force
@@ -9151,7 +9165,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.obj: ../szkoput/POI_12-salaries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_649) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_650) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_12-salaries.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_12-salaries.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.i: cmake_force
@@ -9165,7 +9179,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-salaries.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.obj: ../szkoput/POI_12_Gluttons.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_650) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_651) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_12_Gluttons.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_12_Gluttons.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.i: cmake_force
@@ -9179,7 +9193,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12_Gluttons.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.obj: ../szkoput/POI_14-Panels.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_651) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_652) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_14-Panels.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_14-Panels.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.i: cmake_force
@@ -9193,7 +9207,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_14-Panels.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.obj: ../szkoput/poi_14_couriers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_652) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_653) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\poi_14_couriers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\poi_14_couriers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.i: cmake_force
@@ -9207,7 +9221,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/poi_14_couriers.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.obj: ../szkoput/POI_15_Trous.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_653) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_654) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\szkoput\POI_15_Trous.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\szkoput\POI_15_Trous.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.i: cmake_force
@@ -9221,7 +9235,7 @@ CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_15_Trous.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.obj: ../TC/SRM386-D2-1000.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_654) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_655) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TC\SRM386-D2-1000.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TC\SRM386-D2-1000.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.i: cmake_force
@@ -9235,7 +9249,7 @@ CMakeFiles/CompetitiveProgramming.dir/TC/SRM386-D2-1000.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.obj: ../TC/SRM393-D2-1000.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_655) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_656) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TC\SRM393-D2-1000.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TC\SRM393-D2-1000.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.i: cmake_force
@@ -9249,7 +9263,7 @@ CMakeFiles/CompetitiveProgramming.dir/TC/SRM393-D2-1000.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.obj: ../timus/1005_stone_pile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_656) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_657) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1005_stone_pile.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1005_stone_pile.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.i: cmake_force
@@ -9263,7 +9277,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1005_stone_pile.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.obj: ../timus/1018.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_657) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_658) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1018.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1018.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.i: cmake_force
@@ -9277,7 +9291,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1018.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.obj: ../timus/1039.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_658) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_659) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1039.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1039.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.i: cmake_force
@@ -9291,7 +9305,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1039.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.obj: ../timus/1060_4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_659) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_660) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1060_4.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1060_4.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.i: cmake_force
@@ -9305,7 +9319,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1060_4.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.obj: ../timus/1060_flip_game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_660) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_661) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1060_flip_game.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1060_flip_game.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.i: cmake_force
@@ -9319,7 +9333,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.obj: ../timus/1060_flip_game_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_661) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_662) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1060_flip_game_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1060_flip_game_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.i: cmake_force
@@ -9333,7 +9347,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.obj: ../timus/1060_flip_game_3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_662) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_663) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1060_flip_game_3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1060_flip_game_3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.i: cmake_force
@@ -9347,7 +9361,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1060_flip_game_3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.obj: ../timus/1064_binary_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_663) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_664) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1064_binary_search.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1064_binary_search.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.i: cmake_force
@@ -9361,7 +9375,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1064_binary_search.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.obj: ../timus/1119_metro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_664) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_665) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1119_metro.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1119_metro.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.i: cmake_force
@@ -9375,7 +9389,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1119_metro.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.obj: ../timus/1225.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_665) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_666) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1225.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1225.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.i: cmake_force
@@ -9389,7 +9403,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1225.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.obj: ../timus/1470_ufos.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_666) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_667) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\timus\1470_ufos.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\timus\1470_ufos.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.i: cmake_force
@@ -9403,7 +9417,7 @@ CMakeFiles/CompetitiveProgramming.dir/timus/1470_ufos.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.obj: ../TJU/1178_Fractal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_667) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_668) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\1178_Fractal.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\1178_Fractal.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.i: cmake_force
@@ -9417,7 +9431,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/1178_Fractal.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.obj: ../TJU/1208_fibonacci_numbers_tju.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_668) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_669) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\1208_fibonacci_numbers_tju.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\1208_fibonacci_numbers_tju.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.i: cmake_force
@@ -9431,7 +9445,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/1208_fibonacci_numbers_tju.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.obj: ../TJU/1226_painting_a_board.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_669) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_670) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\1226_painting_a_board.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\1226_painting_a_board.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.i: cmake_force
@@ -9445,7 +9459,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/1226_painting_a_board.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.obj: ../TJU/1406_the_sierpinski_fractal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_670) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_671) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\1406_the_sierpinski_fractal.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\1406_the_sierpinski_fractal.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.i: cmake_force
@@ -9459,7 +9473,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/1406_the_sierpinski_fractal.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.obj: ../TJU/2344.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_671) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_672) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\2344.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\2344.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.i: cmake_force
@@ -9473,7 +9487,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/2344.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.obj: ../TJU/3484_stones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_672) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_673) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\3484_stones.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\3484_stones.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.i: cmake_force
@@ -9487,7 +9501,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/3484_stones.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.obj: ../TJU/3488.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_673) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_674) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\TJU\3488.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\TJU\3488.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.i: cmake_force
@@ -9501,7 +9515,7 @@ CMakeFiles/CompetitiveProgramming.dir/TJU/3488.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.obj: ../toki/taming_a_bomb.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_674) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_675) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\toki\taming_a_bomb.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\toki\taming_a_bomb.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.i: cmake_force
@@ -9515,7 +9529,7 @@ CMakeFiles/CompetitiveProgramming.dir/toki/taming_a_bomb.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.obj: ../topcoder/CreatureTraining.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_675) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_676) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\CreatureTraining.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\CreatureTraining.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.i: cmake_force
@@ -9529,7 +9543,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/CreatureTraining.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.obj: ../topcoder/QuizShow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_676) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_677) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\QuizShow.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\QuizShow.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.i: cmake_force
@@ -9543,7 +9557,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/QuizShow.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.obj: ../topcoder/sorryMarco.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_677) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_678) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\sorryMarco.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\sorryMarco.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.i: cmake_force
@@ -9557,7 +9571,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/sorryMarco.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.obj: ../topcoder/SRM468-D1-500.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_678) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_679) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\SRM468-D1-500.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\SRM468-D1-500.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.i: cmake_force
@@ -9571,7 +9585,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM468-D1-500.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.obj: ../topcoder/SRM469-D1-1000.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_679) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_680) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\SRM469-D1-1000.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\SRM469-D1-1000.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.i: cmake_force
@@ -9585,7 +9599,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/SRM469-D1-1000.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.obj: ../topcoder/TCOpen2008-D1-500.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_680) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_681) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\TCOpen2008-D1-500.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\TCOpen2008-D1-500.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.i: cmake_force
@@ -9599,7 +9613,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/TCOpen2008-D1-500.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.obj: ../topcoder/weid_locations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_681) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_682) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\topcoder\weid_locations.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\topcoder\weid_locations.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.i: cmake_force
@@ -9613,7 +9627,7 @@ CMakeFiles/CompetitiveProgramming.dir/topcoder/weid_locations.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj: ../Usaco/16feb_Balancing_plat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_682) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_683) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\16feb_Balancing_plat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\16feb_Balancing_plat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.i: cmake_force
@@ -9627,7 +9641,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj: ../Usaco/17jansubrev-plat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_683) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_684) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\17jansubrev-plat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\17jansubrev-plat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.i: cmake_force
@@ -9641,7 +9655,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.obj: ../Usaco/cow_hopscotch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_684) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_685) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\cow_hopscotch.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\cow_hopscotch.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.i: cmake_force
@@ -9655,7 +9669,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/cow_hopscotch.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.obj: ../Usaco/dec17_platinum3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_685) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_686) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\dec17_platinum3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\dec17_platinum3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.i: cmake_force
@@ -9669,7 +9683,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/dec17_platinum3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.obj: ../Usaco/feb16_fencedin_plat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_686) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_687) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\feb16_fencedin_plat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\feb16_fencedin_plat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.i: cmake_force
@@ -9683,7 +9697,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/feb16_fencedin_plat.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.obj: ../Usaco/feb17_platinum3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_687) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_688) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\feb17_platinum3.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\feb17_platinum3.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.i: cmake_force
@@ -9697,7 +9711,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/feb17_platinum3.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.obj: ../Usaco/feb_15_gold2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_688) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_689) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\feb_15_gold2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\feb_15_gold2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.i: cmake_force
@@ -9711,7 +9725,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/feb_15_gold2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj: ../Usaco/Gold_19mar_Balancing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_689) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_690) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\Gold_19mar_Balancing.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\Gold_19mar_Balancing.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.i: cmake_force
@@ -9725,7 +9739,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.obj: ../Usaco/jan18_lifeguards_plat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_690) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_691) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\jan18_lifeguards_plat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\jan18_lifeguards_plat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.i: cmake_force
@@ -9739,7 +9753,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/jan18_lifeguards_plat.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.obj: ../Usaco/jan20_gold2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_691) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_692) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\jan20_gold2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\jan20_gold2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.i: cmake_force
@@ -9753,7 +9767,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/jan20_gold2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj: ../Usaco/USACO_17jan_tallbarn_plat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_692) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_693) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\USACO_17jan_tallbarn_plat.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\USACO_17jan_tallbarn_plat.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.i: cmake_force
@@ -9767,7 +9781,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.s: cma
 CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj: ../Usaco/You_ride_is_here.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_693) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_694) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Usaco\You_ride_is_here.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\Usaco\You_ride_is_here.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.i: cmake_force
@@ -9781,7 +9795,7 @@ CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.obj: ../UVA/01225_digit_counting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_694) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_695) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\01225_digit_counting.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\01225_digit_counting.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.i: cmake_force
@@ -9795,7 +9809,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/01225_digit_counting.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.obj: ../UVA/10005.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_695) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_696) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10005.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10005.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.i: cmake_force
@@ -9809,7 +9823,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10005.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.obj: ../UVA/10020_minimal_coverage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_696) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_697) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10020_minimal_coverage.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10020_minimal_coverage.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.i: cmake_force
@@ -9823,7 +9837,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10020_minimal_coverage.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.obj: ../UVA/10025_the123nproblem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_697) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_698) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10025_the123nproblem.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10025_the123nproblem.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.i: cmake_force
@@ -9837,7 +9851,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10025_the123nproblem.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.obj: ../UVA/10038_jolly_jumpers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_698) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_699) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10038_jolly_jumpers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10038_jolly_jumpers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.i: cmake_force
@@ -9851,7 +9865,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10038_jolly_jumpers.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.obj: ../UVA/10041-vitos_family.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_699) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_700) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10041-vitos_family.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10041-vitos_family.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.i: cmake_force
@@ -9865,7 +9879,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10041-vitos_family.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.obj: ../UVA/10055.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_700) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_701) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10055.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10055.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.i: cmake_force
@@ -9879,7 +9893,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10055.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.obj: ../UVA/10071.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_701) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_702) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10071.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10071.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.i: cmake_force
@@ -9893,7 +9907,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10071.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.obj: ../UVA/10077.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_702) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_703) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10077.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10077.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.i: cmake_force
@@ -9907,7 +9921,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10077.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.obj: ../UVA/10088_Trees_on_my_island.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_703) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_704) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10088_Trees_on_my_island.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10088_Trees_on_my_island.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.i: cmake_force
@@ -9921,7 +9935,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10088_Trees_on_my_island.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.obj: ../UVA/100_the_3n+1_problem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_704) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_705) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\100_the_3n+1_problem.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\100_the_3n+1_problem.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.i: cmake_force
@@ -9935,7 +9949,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/100_the_3n+1_problem.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.obj: ../UVA/10114_loansome_car_buyer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_705) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_706) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10114_loansome_car_buyer.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10114_loansome_car_buyer.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.i: cmake_force
@@ -9949,7 +9963,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10114_loansome_car_buyer.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.obj: ../UVA/10125-Sumsets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_706) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_707) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10125-Sumsets.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10125-Sumsets.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.i: cmake_force
@@ -9963,7 +9977,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10125-Sumsets.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.obj: ../UVA/10141_request_for_proposal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_707) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_708) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10141_request_for_proposal.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10141_request_for_proposal.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.i: cmake_force
@@ -9977,7 +9991,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10141_request_for_proposal.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.obj: ../UVA/10150.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_708) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_709) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10150.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10150.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.i: cmake_force
@@ -9991,7 +10005,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10150.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.obj: ../UVA/10167_birthday_cake.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_709) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_710) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10167_birthday_cake.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10167_birthday_cake.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.i: cmake_force
@@ -10005,7 +10019,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10167_birthday_cake.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.obj: ../UVA/10179-Irreducable_Basic_Fractions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_710) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_711) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10179-Irreducable_Basic_Fractions.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10179-Irreducable_Basic_Fractions.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.i: cmake_force
@@ -10019,7 +10033,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10179-Irreducable_Basic_Fractions.cpp.
 CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.obj: ../UVA/10189_Minesweeper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_711) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_712) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10189_Minesweeper.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10189_Minesweeper.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.i: cmake_force
@@ -10033,7 +10047,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10189_Minesweeper.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.obj: ../UVA/10209.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_712) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_713) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10209.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10209.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.i: cmake_force
@@ -10047,7 +10061,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10209.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.obj: ../UVA/10258_contest_scoreboard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_713) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_714) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10258_contest_scoreboard.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10258_contest_scoreboard.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.i: cmake_force
@@ -10061,7 +10075,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10258_contest_scoreboard.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.obj: ../UVA/10260_soundex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_714) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_715) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10260_soundex.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10260_soundex.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.i: cmake_force
@@ -10075,7 +10089,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10260_soundex.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.obj: ../UVA/10263.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_715) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_716) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10263.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10263.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.i: cmake_force
@@ -10089,7 +10103,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10263.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.obj: ../UVA/10264_the_most_potent_corner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_716) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_717) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10264_the_most_potent_corner.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10264_the_most_potent_corner.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.i: cmake_force
@@ -10103,7 +10117,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10264_the_most_potent_corner.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.obj: ../UVA/10281.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_717) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_718) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10281.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10281.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.i: cmake_force
@@ -10117,7 +10131,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10281.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.obj: ../UVA/10284_chessboard_in_fen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_718) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_719) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10284_chessboard_in_fen.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10284_chessboard_in_fen.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.i: cmake_force
@@ -10131,7 +10145,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10284_chessboard_in_fen.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.obj: ../UVA/10299_relatives.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_719) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_720) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10299_relatives.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10299_relatives.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.i: cmake_force
@@ -10145,7 +10159,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10299_relatives.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.obj: ../UVA/10305_ordering_tasks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_720) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_721) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10305_ordering_tasks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10305_ordering_tasks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.i: cmake_force
@@ -10159,7 +10173,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10305_ordering_tasks.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.obj: ../UVA/10324_zeros_and_ones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_721) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_722) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10324_zeros_and_ones.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10324_zeros_and_ones.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.i: cmake_force
@@ -10173,7 +10187,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10324_zeros_and_ones.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.obj: ../UVA/10341.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_722) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_723) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10341.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10341.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.i: cmake_force
@@ -10187,7 +10201,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10341.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.obj: ../UVA/10365-Blocks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_723) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_724) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10365-Blocks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10365-Blocks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.i: cmake_force
@@ -10201,7 +10215,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10365-Blocks.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.obj: ../UVA/10385.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_724) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_725) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10385.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10385.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.i: cmake_force
@@ -10215,7 +10229,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10385.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.obj: ../UVA/10422.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_725) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_726) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10422.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10422.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.i: cmake_force
@@ -10229,7 +10243,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10422.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.obj: ../UVA/10445.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_726) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_727) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10445.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10445.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.i: cmake_force
@@ -10243,7 +10257,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10445.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.obj: ../UVA/10452_marcus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_727) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_728) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10452_marcus.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10452_marcus.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.i: cmake_force
@@ -10257,7 +10271,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10452_marcus.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.obj: ../UVA/10469.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_728) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_729) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10469.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10469.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.i: cmake_force
@@ -10271,7 +10285,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10469.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.obj: ../UVA/10474.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_729) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_730) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10474.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10474.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.i: cmake_force
@@ -10285,7 +10299,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10474.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.obj: ../UVA/10514.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_730) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_731) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10514.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10514.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.i: cmake_force
@@ -10299,7 +10313,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10514.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.obj: ../UVA/10550_combination_lock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_731) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_732) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10550_combination_lock.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10550_combination_lock.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.i: cmake_force
@@ -10313,7 +10327,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10550_combination_lock.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.obj: ../UVA/10611.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_732) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_733) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10611.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10611.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.i: cmake_force
@@ -10327,7 +10341,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10611.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.obj: ../UVA/1064_binary_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_733) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_734) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1064_binary_search.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1064_binary_search.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.i: cmake_force
@@ -10341,7 +10355,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1064_binary_search.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.obj: ../UVA/10653.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_734) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_735) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10653.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10653.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.i: cmake_force
@@ -10355,7 +10369,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10653.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.obj: ../UVA/10696_f91.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_735) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_736) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10696_f91.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10696_f91.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.i: cmake_force
@@ -10369,7 +10383,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10696_f91.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.obj: ../UVA/10706_number_sequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_736) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_737) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10706_number_sequence.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10706_number_sequence.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.i: cmake_force
@@ -10383,7 +10397,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.obj: ../UVA/10706_number_sequence2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_737) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_738) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10706_number_sequence2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10706_number_sequence2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.i: cmake_force
@@ -10397,7 +10411,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10706_number_sequence2.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.obj: ../UVA/10709.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_738) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_739) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10709.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10709.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.i: cmake_force
@@ -10411,7 +10425,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10709.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.obj: ../UVA/10773.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_739) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_740) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10773.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10773.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.i: cmake_force
@@ -10425,7 +10439,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10773.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.obj: ../UVA/10783_odd_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_740) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_741) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10783_odd_sum.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10783_odd_sum.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.i: cmake_force
@@ -10439,7 +10453,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10783_odd_sum.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.obj: ../UVA/10807.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_741) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_742) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10807.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10807.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.i: cmake_force
@@ -10453,7 +10467,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10807.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.obj: ../UVA/10827.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_742) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_743) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10827.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10827.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.i: cmake_force
@@ -10467,7 +10481,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10827.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.obj: ../UVA/10827_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_743) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_744) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10827_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10827_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.i: cmake_force
@@ -10481,7 +10495,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10827_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.obj: ../UVA/10868_bungee_jumping.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_744) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_745) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10868_bungee_jumping.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10868_bungee_jumping.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.i: cmake_force
@@ -10495,7 +10509,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10868_bungee_jumping.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.obj: ../UVA/10887_concatenation_of_languages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_745) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_746) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10887_concatenation_of_languages.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10887_concatenation_of_languages.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.i: cmake_force
@@ -10509,7 +10523,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10887_concatenation_of_languages.cpp.s
 CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.obj: ../UVA/10895_matrix_transpose.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_746) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_747) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10895_matrix_transpose.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10895_matrix_transpose.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.i: cmake_force
@@ -10523,7 +10537,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10895_matrix_transpose.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.obj: ../UVA/10902.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_747) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_748) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10902.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10902.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.i: cmake_force
@@ -10537,7 +10551,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10902.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.obj: ../UVA/10911_forming_quiz_teams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_748) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_749) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10911_forming_quiz_teams.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10911_forming_quiz_teams.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.i: cmake_force
@@ -10551,7 +10565,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10911_forming_quiz_teams.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.obj: ../UVA/10922_2_the_9s.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_749) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_750) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10922_2_the_9s.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10922_2_the_9s.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.i: cmake_force
@@ -10565,7 +10579,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10922_2_the_9s.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.obj: ../UVA/10928_my_dear_neigbours.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_750) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_751) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10928_my_dear_neigbours.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10928_my_dear_neigbours.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.i: cmake_force
@@ -10579,7 +10593,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10928_my_dear_neigbours.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.obj: ../UVA/10994_simple_addition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_751) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_752) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\10994_simple_addition.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\10994_simple_addition.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.i: cmake_force
@@ -10593,7 +10607,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/10994_simple_addition.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.obj: ../UVA/11028.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_752) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_753) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11028.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11028.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.i: cmake_force
@@ -10607,7 +10621,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11028.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.obj: ../UVA/11038.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_753) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_754) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11038.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11038.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.i: cmake_force
@@ -10621,7 +10635,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11038.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.obj: ../UVA/1103_ancient_messages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_754) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_755) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1103_ancient_messages.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1103_ancient_messages.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.i: cmake_force
@@ -10635,7 +10649,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1103_ancient_messages.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.obj: ../UVA/11044_searching_for_nessy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_755) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_756) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11044_searching_for_nessy.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11044_searching_for_nessy.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.i: cmake_force
@@ -10649,7 +10663,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11044_searching_for_nessy.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.obj: ../UVA/11057_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_756) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_757) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11057_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11057_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.i: cmake_force
@@ -10663,7 +10677,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11057_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.obj: ../UVA/11057_exact_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_757) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_758) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11057_exact_sum.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11057_exact_sum.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.i: cmake_force
@@ -10677,7 +10691,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11057_exact_sum.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.obj: ../UVA/11085_back_to_the_8_queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_758) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_759) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11085_back_to_the_8_queens.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11085_back_to_the_8_queens.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.i: cmake_force
@@ -10691,7 +10705,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11085_back_to_the_8_queens.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.obj: ../UVA/11090.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_759) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_760) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11090.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11090.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.i: cmake_force
@@ -10705,7 +10719,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11090.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.obj: ../UVA/11093_just_finish_it_up.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_760) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_761) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11093_just_finish_it_up.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11093_just_finish_it_up.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.i: cmake_force
@@ -10719,7 +10733,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11093_just_finish_it_up.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.obj: ../UVA/1112_mice_and_maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_761) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_762) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1112_mice_and_maze.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1112_mice_and_maze.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.i: cmake_force
@@ -10733,7 +10747,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1112_mice_and_maze.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.obj: ../UVA/11150_cola.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_762) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_763) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11150_cola.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11150_cola.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.i: cmake_force
@@ -10747,7 +10761,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11150_cola.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.obj: ../UVA/11172_relational_operator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_763) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_764) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11172_relational_operator.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11172_relational_operator.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.i: cmake_force
@@ -10761,7 +10775,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11172_relational_operator.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.obj: ../UVA/11173_grey_codes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_764) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_765) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11173_grey_codes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11173_grey_codes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.i: cmake_force
@@ -10775,7 +10789,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.obj: ../UVA/11173_grey_codes2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_765) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_766) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11173_grey_codes2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11173_grey_codes2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.i: cmake_force
@@ -10789,7 +10803,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11173_grey_codes2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.obj: ../UVA/11221_magic_square_palindromes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_766) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_767) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11221_magic_square_palindromes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11221_magic_square_palindromes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.i: cmake_force
@@ -10803,7 +10817,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11221_magic_square_palindromes.cpp.s: 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.obj: ../UVA/11246_k_multiple_free_set.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_767) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_768) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11246_k_multiple_free_set.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11246_k_multiple_free_set.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.i: cmake_force
@@ -10817,7 +10831,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11246_k_multiple_free_set.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.obj: ../UVA/1124_celebrity_jeopardy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_768) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_769) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1124_celebrity_jeopardy.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1124_celebrity_jeopardy.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.i: cmake_force
@@ -10831,7 +10845,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1124_celebrity_jeopardy.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.obj: ../UVA/11297_census.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_769) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_770) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11297_census.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11297_census.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.i: cmake_force
@@ -10845,7 +10859,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11297_census.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.obj: ../UVA/11314.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_770) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_771) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11314.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11314.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.i: cmake_force
@@ -10859,7 +10873,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11314.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.obj: ../UVA/11340.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_771) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_772) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11340.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11340.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.i: cmake_force
@@ -10873,7 +10887,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11340.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.obj: ../UVA/11364_parking.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_772) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_773) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11364_parking.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11364_parking.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.i: cmake_force
@@ -10887,7 +10901,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11364_parking.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.obj: ../UVA/11393.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_773) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_774) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11393.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11393.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.i: cmake_force
@@ -10901,7 +10915,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11393.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.obj: ../UVA/11461_square_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_774) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_775) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11461_square_numbers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11461_square_numbers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.i: cmake_force
@@ -10915,7 +10929,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11461_square_numbers.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.obj: ../UVA/11480_jimmys_balls.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_775) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_776) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11480_jimmys_balls.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11480_jimmys_balls.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.i: cmake_force
@@ -10929,7 +10943,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11480_jimmys_balls.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.obj: ../UVA/11498_division_of_nlogonia.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_776) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_777) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11498_division_of_nlogonia.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11498_division_of_nlogonia.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.i: cmake_force
@@ -10943,7 +10957,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11498_division_of_nlogonia.cpp.s: cmak
 CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.obj: ../UVA/11507_bender_b._rodriguez_problem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_777) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_778) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11507_bender_b._rodriguez_problem.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11507_bender_b._rodriguez_problem.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.i: cmake_force
@@ -10957,7 +10971,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11507_bender_b._rodriguez_problem.cpp.
 CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.obj: ../UVA/11516.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_778) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_779) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11516.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11516.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.i: cmake_force
@@ -10971,7 +10985,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11516.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.obj: ../UVA/11547_automatic_answer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_779) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_780) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11547_automatic_answer.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11547_automatic_answer.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.i: cmake_force
@@ -10985,7 +10999,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11547_automatic_answer.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.obj: ../UVA/11550_demanding_dilemma.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_780) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_781) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11550_demanding_dilemma.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11550_demanding_dilemma.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.i: cmake_force
@@ -10999,7 +11013,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11550_demanding_dilemma.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.obj: ../UVA/11559_event_planning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_781) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_782) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11559_event_planning.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11559_event_planning.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.i: cmake_force
@@ -11013,7 +11027,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11559_event_planning.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.obj: ../UVA/11565-simple_equations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_782) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_783) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11565-simple_equations.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11565-simple_equations.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.i: cmake_force
@@ -11027,7 +11041,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11565-simple_equations.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.obj: ../UVA/11572_unique_snowflakes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_783) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_784) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11572_unique_snowflakes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11572_unique_snowflakes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.i: cmake_force
@@ -11041,7 +11055,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11572_unique_snowflakes.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.obj: ../UVA/11581_grid_successors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_784) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_785) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11581_grid_successors.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11581_grid_successors.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.i: cmake_force
@@ -11055,7 +11069,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11581_grid_successors.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.obj: ../UVA/11597_spanning_subtrees.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_785) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_786) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11597_spanning_subtrees.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11597_spanning_subtrees.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.i: cmake_force
@@ -11069,7 +11083,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11597_spanning_subtrees.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.obj: ../UVA/116.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_786) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_787) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\116.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\116.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.i: cmake_force
@@ -11083,7 +11097,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/116.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.obj: ../UVA/11614.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_787) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_788) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11614.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11614.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.i: cmake_force
@@ -11097,7 +11111,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11614.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.obj: ../UVA/11614_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_788) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_789) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11614_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11614_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.i: cmake_force
@@ -11111,7 +11125,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11614_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.obj: ../UVA/11699_rooks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_789) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_790) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11699_rooks.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11699_rooks.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.i: cmake_force
@@ -11125,7 +11139,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11699_rooks.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.obj: ../UVA/11723.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_790) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_791) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11723.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11723.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.i: cmake_force
@@ -11139,7 +11153,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11723.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.obj: ../UVA/11727_cost_cutting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_791) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_792) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11727_cost_cutting.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11727_cost_cutting.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.i: cmake_force
@@ -11153,7 +11167,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11727_cost_cutting.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.obj: ../UVA/11760_brother_arif,_please_feed_us!.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_792) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_793) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11760_brother_arif,_please_feed_us!.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11760_brother_arif,_please_feed_us!.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cpp.i: cmake_force
@@ -11167,7 +11181,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11760_brother_arif,_please_feed_us!.cp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.obj: ../UVA/11799_horror_dash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_793) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_794) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11799_horror_dash.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11799_horror_dash.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.i: cmake_force
@@ -11181,7 +11195,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11799_horror_dash.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.obj: ../UVA/11805.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_794) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_795) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11805.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11805.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.i: cmake_force
@@ -11195,7 +11209,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11805.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.obj: ../UVA/11876.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_795) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_796) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11876.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11876.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.i: cmake_force
@@ -11209,7 +11223,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11876.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.obj: ../UVA/11876N.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_796) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_797) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11876N.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11876N.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.i: cmake_force
@@ -11223,7 +11237,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11876N.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.obj: ../UVA/11926_multitasking.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_797) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_798) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11926_multitasking.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11926_multitasking.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.i: cmake_force
@@ -11237,7 +11251,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11926_multitasking.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.obj: ../UVA/11935.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_798) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_799) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11935.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11935.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.i: cmake_force
@@ -11251,7 +11265,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11935.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.obj: ../UVA/11951.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_799) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_800) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11951.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11951.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.i: cmake_force
@@ -11265,7 +11279,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11951.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.obj: ../UVA/11990.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_800) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_801) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\11990.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\11990.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.i: cmake_force
@@ -11279,7 +11293,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/11990.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.obj: ../UVA/119_greedy_gift_givers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_801) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_802) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\119_greedy_gift_givers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\119_greedy_gift_givers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.i: cmake_force
@@ -11293,7 +11307,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/119_greedy_gift_givers.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.obj: ../UVA/12003.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_802) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_803) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12003.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12003.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.i: cmake_force
@@ -11307,7 +11321,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12003.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.obj: ../UVA/12149_feynman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_803) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_804) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12149_feynman.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12149_feynman.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.i: cmake_force
@@ -11321,7 +11335,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12149_feynman.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.obj: ../UVA/12198_working_at_the_restaurant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_804) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_805) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12198_working_at_the_restaurant.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12198_working_at_the_restaurant.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.i: cmake_force
@@ -11335,7 +11349,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12198_working_at_the_restaurant.cpp.s:
 CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.obj: ../UVA/12232_packing_for_holiday.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_805) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_806) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12232_packing_for_holiday.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12232_packing_for_holiday.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.i: cmake_force
@@ -11349,7 +11363,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12232_packing_for_holiday.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.obj: ../UVA/12250_language_detection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_806) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_807) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12250_language_detection.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12250_language_detection.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.i: cmake_force
@@ -11363,7 +11377,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12250_language_detection.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.obj: ../UVA/12279_emoogle_balance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_807) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_808) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12279_emoogle_balance.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12279_emoogle_balance.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.i: cmake_force
@@ -11377,7 +11391,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12279_emoogle_balance.cpp.s: cmake_for
 CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.obj: ../UVA/12289_one_two_three.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_808) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_809) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12289_one_two_three.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12289_one_two_three.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.i: cmake_force
@@ -11391,7 +11405,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12289_one_two_three.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.obj: ../UVA/12303.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_809) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_810) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12303.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12303.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.i: cmake_force
@@ -11405,7 +11419,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12303.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.obj: ../UVA/12363.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_810) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_811) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12363.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12363.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.i: cmake_force
@@ -11419,7 +11433,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12363.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.obj: ../UVA/12393.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_811) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_812) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12393.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12393.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.i: cmake_force
@@ -11433,7 +11447,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12393.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.obj: ../UVA/12396.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_812) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_813) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12396.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12396.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.i: cmake_force
@@ -11447,7 +11461,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12396.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.obj: ../UVA/12403_save_setu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_813) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_814) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12403_save_setu.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12403_save_setu.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.i: cmake_force
@@ -11461,7 +11475,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12403_save_setu.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.obj: ../UVA/12407.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_814) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_815) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12407.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12407.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.i: cmake_force
@@ -11475,7 +11489,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12407.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.obj: ../UVA/1241_Jollybee_tournament.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_815) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_816) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1241_Jollybee_tournament.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1241_Jollybee_tournament.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.i: cmake_force
@@ -11489,7 +11503,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1241_Jollybee_tournament.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.obj: ../UVA/12439_february_29.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_816) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_817) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12439_february_29.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12439_february_29.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.i: cmake_force
@@ -11503,7 +11517,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12439_february_29.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.obj: ../UVA/12502_three_families.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_817) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_818) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12502_three_families.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12502_three_families.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.i: cmake_force
@@ -11517,7 +11531,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12502_three_families.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.obj: ../UVA/12503_robot_instructions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_818) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_819) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12503_robot_instructions.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12503_robot_instructions.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.i: cmake_force
@@ -11531,7 +11545,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12503_robot_instructions.cpp.s: cmake_
 CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.obj: ../UVA/12577_hajj_e_akbar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_819) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_820) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12577_hajj_e_akbar.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12577_hajj_e_akbar.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.i: cmake_force
@@ -11545,7 +11559,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12577_hajj_e_akbar.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.obj: ../UVA/1258.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_820) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_821) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1258.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1258.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.i: cmake_force
@@ -11559,7 +11573,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1258.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.obj: ../UVA/12703_little_rakin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_821) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_822) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\12703_little_rakin.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\12703_little_rakin.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.i: cmake_force
@@ -11573,7 +11587,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/12703_little_rakin.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.obj: ../UVA/136_ugly_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_822) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_823) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\136_ugly_numbers.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\136_ugly_numbers.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.i: cmake_force
@@ -11587,7 +11601,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/136_ugly_numbers.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.obj: ../UVA/1468.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_823) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_824) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1468.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1468.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.i: cmake_force
@@ -11601,7 +11615,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1468.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.obj: ../UVA/1476.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_824) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_825) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\1476.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\1476.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.i: cmake_force
@@ -11615,7 +11629,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/1476.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.obj: ../UVA/152.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_825) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_826) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\152.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\152.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.i: cmake_force
@@ -11629,7 +11643,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/152.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.obj: ../UVA/191.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_826) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_827) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\191.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\191.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.i: cmake_force
@@ -11643,7 +11657,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/191.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.obj: ../UVA/200.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_827) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_828) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\200.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\200.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.i: cmake_force
@@ -11657,7 +11671,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/200.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.obj: ../UVA/200_rare_order.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_828) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_829) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\200_rare_order.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\200_rare_order.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.i: cmake_force
@@ -11671,7 +11685,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/200_rare_order.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.obj: ../UVA/216.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_829) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_830) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\216.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\216.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.i: cmake_force
@@ -11685,7 +11699,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/216.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.obj: ../UVA/260_il_gioco_dell'x.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_830) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_831) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\CompetitiveProgramming.dir\UVA\260_il_gioco_dell'x.cpp.obj" -c "C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\260_il_gioco_dell'x.cpp"
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.i: cmake_force
@@ -11699,7 +11713,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/260_il_gioco_dell'x.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.obj: ../UVA/272_tex_quotes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_831) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_832) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\272_tex_quotes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\272_tex_quotes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.i: cmake_force
@@ -11713,7 +11727,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/272_tex_quotes.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.obj: ../UVA/273.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_832) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_833) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\273.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\273.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.i: cmake_force
@@ -11727,7 +11741,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/273.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.obj: ../UVA/297_quadtrees.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_833) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_834) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\297_quadtrees.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\297_quadtrees.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.i: cmake_force
@@ -11741,7 +11755,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/297_quadtrees.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.obj: ../UVA/336_a_node_to_far.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_834) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_835) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\336_a_node_to_far.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\336_a_node_to_far.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.i: cmake_force
@@ -11755,7 +11769,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/336_a_node_to_far.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.obj: ../UVA/378.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_835) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_836) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\378.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\378.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.i: cmake_force
@@ -11769,7 +11783,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/378.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.obj: ../UVA/383_shipping_routes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_836) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_837) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\383_shipping_routes.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\383_shipping_routes.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.i: cmake_force
@@ -11783,7 +11797,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/383_shipping_routes.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.obj: ../UVA/388_galactic_import.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_837) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_838) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\388_galactic_import.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\388_galactic_import.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.i: cmake_force
@@ -11797,7 +11811,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/388_galactic_import.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.obj: ../UVA/4110_racing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_838) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_839) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\4110_racing.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\4110_racing.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.i: cmake_force
@@ -11811,7 +11825,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/4110_racing.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.obj: ../UVA/417_word_index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_839) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_840) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\417_word_index.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\417_word_index.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.i: cmake_force
@@ -11825,7 +11839,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/417_word_index.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.obj: ../UVA/429.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_840) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_841) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\429.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\429.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.i: cmake_force
@@ -11839,7 +11853,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/429.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.obj: ../UVA/437.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_841) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_842) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\437.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\437.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.i: cmake_force
@@ -11853,7 +11867,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/437.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.obj: ../UVA/437_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_842) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_843) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\437_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\437_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.i: cmake_force
@@ -11867,7 +11881,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/437_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.obj: ../UVA/439.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_843) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_844) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\439.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\439.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.i: cmake_force
@@ -11881,7 +11895,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/439.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.obj: ../UVA/441_lotto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_844) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_845) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\441_lotto.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\441_lotto.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.i: cmake_force
@@ -11895,7 +11909,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/441_lotto.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.obj: ../UVA/459_graph_connectivity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_845) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_846) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\459_graph_connectivity.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\459_graph_connectivity.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.i: cmake_force
@@ -11909,7 +11923,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/459_graph_connectivity.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.obj: ../UVA/466_mirror,_mirror.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_846) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_847) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\466_mirror,_mirror.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\466_mirror,_mirror.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.i: cmake_force
@@ -11923,7 +11937,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/466_mirror,_mirror.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.obj: ../UVA/469_wetlands_on_florida.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_847) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_848) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\469_wetlands_on_florida.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\469_wetlands_on_florida.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.i: cmake_force
@@ -11937,7 +11951,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/469_wetlands_on_florida.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.obj: ../UVA/4721.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_848) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_849) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\4721.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\4721.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.i: cmake_force
@@ -11951,7 +11965,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/4721.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.obj: ../UVA/482_permutation_arrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_849) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_850) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\482_permutation_arrays.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\482_permutation_arrays.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.i: cmake_force
@@ -11965,7 +11979,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/482_permutation_arrays.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.obj: ../UVA/483_word_scramble.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_850) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_851) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\483_word_scramble.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\483_word_scramble.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.i: cmake_force
@@ -11979,7 +11993,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/483_word_scramble.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.obj: ../UVA/487_boogle_blitz.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_851) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_852) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\487_boogle_blitz.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\487_boogle_blitz.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.i: cmake_force
@@ -11993,7 +12007,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/487_boogle_blitz.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.obj: ../UVA/488_triangle_wave.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_852) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_853) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\488_triangle_wave.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\488_triangle_wave.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.i: cmake_force
@@ -12007,7 +12021,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/488_triangle_wave.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.obj: ../UVA/527.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_853) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_854) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\527.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\527.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.i: cmake_force
@@ -12021,7 +12035,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/527.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.obj: ../UVA/532.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_854) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_855) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\532.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\532.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.i: cmake_force
@@ -12035,7 +12049,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/532.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.obj: ../UVA/539_the_settlers_of_catan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_855) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_856) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\539_the_settlers_of_catan.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\539_the_settlers_of_catan.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.i: cmake_force
@@ -12049,7 +12063,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/539_the_settlers_of_catan.cpp.s: cmake
 CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.obj: ../UVA/541_Error_correction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_856) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_857) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\541_Error_correction.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\541_Error_correction.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.i: cmake_force
@@ -12063,7 +12077,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/541_Error_correction.cpp.s: cmake_forc
 CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.obj: ../UVA/571.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_857) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_858) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\571.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\571.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.i: cmake_force
@@ -12077,7 +12091,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/571.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.obj: ../UVA/573_the_snail.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_858) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_859) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\573_the_snail.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\573_the_snail.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.i: cmake_force
@@ -12091,7 +12105,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/573_the_snail.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.obj: ../UVA/588.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_859) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_860) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\588.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\588.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.i: cmake_force
@@ -12105,7 +12119,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/588.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.obj: ../UVA/599_the_forest_for_the_trees.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_860) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_861) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\599_the_forest_for_the_trees.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\599_the_forest_for_the_trees.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.i: cmake_force
@@ -12119,7 +12133,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.obj: ../UVA/599_the_forest_for_the_trees_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_861) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_862) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\599_the_forest_for_the_trees_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\599_the_forest_for_the_trees_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.i: cmake_force
@@ -12133,7 +12147,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/599_the_forest_for_the_trees_2.cpp.s: 
 CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.obj: ../UVA/610.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_862) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_863) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\610.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\610.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.i: cmake_force
@@ -12147,7 +12161,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/610.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.obj: ../UVA/621_secret_research.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_863) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_864) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\621_secret_research.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\621_secret_research.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.i: cmake_force
@@ -12161,7 +12175,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/621_secret_research.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.obj: ../UVA/624_cd.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_864) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_865) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\624_cd.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\624_cd.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.i: cmake_force
@@ -12175,7 +12189,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/624_cd.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.obj: ../UVA/673_parentheses_balance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_865) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\673_parentheses_balance.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\673_parentheses_balance.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.i: cmake_force
@@ -12189,7 +12203,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/673_parentheses_balance.cpp.s: cmake_f
 CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.obj: ../UVA/679.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_867) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\679.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\679.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.i: cmake_force
@@ -12203,7 +12217,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/679.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.obj: ../UVA/686_goldbach's_conjecture(II).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_867) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_868) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\CompetitiveProgramming.dir\UVA\686_goldbach's_conjecture(II).cpp.obj" -c "C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\686_goldbach's_conjecture(II).cpp"
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.i: cmake_force
@@ -12217,7 +12231,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/686_goldbach's_conjecture(II).cpp.s: c
 CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.obj: ../UVA/725_division.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_868) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_869) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\725_division.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\725_division.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.i: cmake_force
@@ -12231,7 +12245,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/725_division.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.obj: ../UVA/796.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_869) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_870) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\796.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\796.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.i: cmake_force
@@ -12245,7 +12259,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/796.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.obj: ../UVA/836.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_870) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_871) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\836.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\836.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.i: cmake_force
@@ -12259,7 +12273,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/836.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.obj: ../UVA/839_not_so_mobile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_871) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_872) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\839_not_so_mobile.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\839_not_so_mobile.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.i: cmake_force
@@ -12273,7 +12287,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/839_not_so_mobile.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.obj: ../UVA/866.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_872) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_873) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\866.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\866.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.i: cmake_force
@@ -12287,7 +12301,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/866.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.obj: ../UVA/870.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_873) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_874) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\870.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\870.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.i: cmake_force
@@ -12301,7 +12315,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/870.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.obj: ../UVA/871_counting_cells_in_a_blob.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_874) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_875) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\871_counting_cells_in_a_blob.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\871_counting_cells_in_a_blob.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.i: cmake_force
@@ -12315,7 +12329,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/871_counting_cells_in_a_blob.cpp.s: cm
 CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.obj: ../UVA/928.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_875) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_876) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\928.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\928.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.i: cmake_force
@@ -12329,7 +12343,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/928.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.obj: ../UVA/928_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_876) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_877) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\928_2.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\928_2.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.i: cmake_force
@@ -12343,7 +12357,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/928_2.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.obj: ../UVA/929_number_maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_877) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_878) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\929_number_maze.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\929_number_maze.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.i: cmake_force
@@ -12357,7 +12371,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/929_number_maze.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.obj: ../UVA/960.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_878) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_879) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\960.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\960.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.i: cmake_force
@@ -12371,7 +12385,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/960.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.obj: ../UVA/990.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_879) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_880) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\990.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\990.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.i: cmake_force
@@ -12385,7 +12399,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/990.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj: ../UVA/ayo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_880) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_881) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\ayo.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\ayo.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.i: cmake_force
@@ -12399,7 +12413,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.obj: ../UVA/F.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_881) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_882) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\UVA\F.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\UVA\F.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.i: cmake_force
@@ -12413,7 +12427,7 @@ CMakeFiles/CompetitiveProgramming.dir/UVA/F.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.obj: ../wcipeg/COCI_09_Xor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_882) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_883) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\wcipeg\COCI_09_Xor.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\wcipeg\COCI_09_Xor.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.i: cmake_force
@@ -12427,7 +12441,7 @@ CMakeFiles/CompetitiveProgramming.dir/wcipeg/COCI_09_Xor.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.obj: ../wcipeg/PALACINKE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_883) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_884) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\wcipeg\PALACINKE.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\wcipeg\PALACINKE.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.i: cmake_force
@@ -12441,7 +12455,7 @@ CMakeFiles/CompetitiveProgramming.dir/wcipeg/PALACINKE.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.obj: ../yandex/IOI_05_Birthday.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_884) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_885) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\yandex\IOI_05_Birthday.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\yandex\IOI_05_Birthday.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.i: cmake_force
@@ -12455,7 +12469,7 @@ CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Birthday.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.obj: ../yandex/IOI_05_Mountain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_885) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_886) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\yandex\IOI_05_Mountain.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\yandex\IOI_05_Mountain.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.i: cmake_force
@@ -12469,7 +12483,7 @@ CMakeFiles/CompetitiveProgramming.dir/yandex/IOI_05_Mountain.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.obj: ../yandex/ioi_06_pyramid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_886) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_887) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\yandex\ioi_06_pyramid.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\yandex\ioi_06_pyramid.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.i: cmake_force
@@ -12483,7 +12497,7 @@ CMakeFiles/CompetitiveProgramming.dir/yandex/ioi_06_pyramid.cpp.s: cmake_force
 CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.obj: ../yandex/RusOI-reg_16-trains.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_887) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_888) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\yandex\RusOI-reg_16-trains.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\yandex\RusOI-reg_16-trains.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.i: cmake_force
@@ -12497,7 +12511,7 @@ CMakeFiles/CompetitiveProgramming.dir/yandex/RusOI-reg_16-trains.cpp.s: cmake_fo
 CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
 CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/includes_CXX.rsp
 CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.obj: ../ZOJ/2318.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_888) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_889) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\ZOJ\2318.cpp.obj -c C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\ZOJ\2318.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/ZOJ/2318.cpp.i: cmake_force
@@ -12898,6 +12912,7 @@ CompetitiveProgramming_OBJECTS = \
 "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_09_Ograda.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Savez.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj" \
@@ -13790,6 +13805,7 @@ CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_08_t
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_09_Ograda.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Savez.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dunjudge/inheritance/inheritance.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/ans.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/dunjudge/median/grader.cpp.obj
@@ -14294,7 +14310,7 @@ CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/build.make
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/linklibs.rsp
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/objects1.rsp
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_889) "Linking CXX executable CompetitiveProgramming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\USER\Desktop\do-panic\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_890) "Linking CXX executable CompetitiveProgramming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CompetitiveProgramming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

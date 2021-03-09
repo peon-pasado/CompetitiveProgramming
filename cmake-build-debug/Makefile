@@ -17800,6 +17800,33 @@ dmoj/COCI_15_Slon.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/dmoj/COCI_15_Slon.cpp.s
 .PHONY : dmoj/COCI_15_Slon.cpp.s
 
+dmoj/UTSOpen_15_Pogo.obj: dmoj/UTSOpen_15_Pogo.cpp.obj
+
+.PHONY : dmoj/UTSOpen_15_Pogo.obj
+
+# target to build an object file
+dmoj/UTSOpen_15_Pogo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.obj
+.PHONY : dmoj/UTSOpen_15_Pogo.cpp.obj
+
+dmoj/UTSOpen_15_Pogo.i: dmoj/UTSOpen_15_Pogo.cpp.i
+
+.PHONY : dmoj/UTSOpen_15_Pogo.i
+
+# target to preprocess a source file
+dmoj/UTSOpen_15_Pogo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.i
+.PHONY : dmoj/UTSOpen_15_Pogo.cpp.i
+
+dmoj/UTSOpen_15_Pogo.s: dmoj/UTSOpen_15_Pogo.cpp.s
+
+.PHONY : dmoj/UTSOpen_15_Pogo.s
+
+# target to generate assembly for a file
+dmoj/UTSOpen_15_Pogo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/dmoj/UTSOpen_15_Pogo.cpp.s
+.PHONY : dmoj/UTSOpen_15_Pogo.cpp.s
+
 dunjudge/APIO_08_dna.obj: dunjudge/APIO_08_dna.cpp.obj
 
 .PHONY : dunjudge/APIO_08_dna.obj
@@ -26089,6 +26116,9 @@ help:
 	@echo ... dmoj/COCI_15_Slon.obj
 	@echo ... dmoj/COCI_15_Slon.i
 	@echo ... dmoj/COCI_15_Slon.s
+	@echo ... dmoj/UTSOpen_15_Pogo.obj
+	@echo ... dmoj/UTSOpen_15_Pogo.i
+	@echo ... dmoj/UTSOpen_15_Pogo.s
 	@echo ... dunjudge/APIO_08_dna.obj
 	@echo ... dunjudge/APIO_08_dna.i
 	@echo ... dunjudge/APIO_08_dna.s
