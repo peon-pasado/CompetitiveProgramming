@@ -719,6 +719,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/infoarena/mexc.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/password2.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/permsort2.cpp.obj"

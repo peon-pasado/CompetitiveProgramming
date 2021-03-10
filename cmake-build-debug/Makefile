@@ -19582,6 +19582,33 @@ infoarena/lcdr.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.s
 .PHONY : infoarena/lcdr.cpp.s
 
+infoarena/mexc.obj: infoarena/mexc.cpp.obj
+
+.PHONY : infoarena/mexc.obj
+
+# target to build an object file
+infoarena/mexc.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/mexc.cpp.obj
+.PHONY : infoarena/mexc.cpp.obj
+
+infoarena/mexc.i: infoarena/mexc.cpp.i
+
+.PHONY : infoarena/mexc.i
+
+# target to preprocess a source file
+infoarena/mexc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/mexc.cpp.i
+.PHONY : infoarena/mexc.cpp.i
+
+infoarena/mexc.s: infoarena/mexc.cpp.s
+
+.PHONY : infoarena/mexc.s
+
+# target to generate assembly for a file
+infoarena/mexc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/mexc.cpp.s
+.PHONY : infoarena/mexc.cpp.s
+
 infoarena/password2.obj: infoarena/password2.cpp.obj
 
 .PHONY : infoarena/password2.obj
@@ -26314,6 +26341,9 @@ help:
 	@echo ... infoarena/lcdr.obj
 	@echo ... infoarena/lcdr.i
 	@echo ... infoarena/lcdr.s
+	@echo ... infoarena/mexc.obj
+	@echo ... infoarena/mexc.i
+	@echo ... infoarena/mexc.s
 	@echo ... infoarena/password2.obj
 	@echo ... infoarena/password2.i
 	@echo ... infoarena/password2.s

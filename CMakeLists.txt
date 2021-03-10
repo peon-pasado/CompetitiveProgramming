@@ -898,4 +898,5 @@ add_executable(CompetitiveProgramming
         yandex/IOI_05_Mountain.cpp
         yandex/ioi_06_pyramid.cpp
         yandex/RusOI-reg_16-trains.cpp
-        ZOJ/2318.cpp)
+        ZOJ/2318.cpp infoarena/mexc.cpp)
+
