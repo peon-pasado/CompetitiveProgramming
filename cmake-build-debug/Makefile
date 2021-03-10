@@ -17206,6 +17206,33 @@ csacademy/CEOI_18_Cloud.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Cloud.cpp.s
 .PHONY : csacademy/CEOI_18_Cloud.cpp.s
 
+csacademy/CEOI_18_Lottery.obj: csacademy/CEOI_18_Lottery.cpp.obj
+
+.PHONY : csacademy/CEOI_18_Lottery.obj
+
+# target to build an object file
+csacademy/CEOI_18_Lottery.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Lottery.cpp.obj
+.PHONY : csacademy/CEOI_18_Lottery.cpp.obj
+
+csacademy/CEOI_18_Lottery.i: csacademy/CEOI_18_Lottery.cpp.i
+
+.PHONY : csacademy/CEOI_18_Lottery.i
+
+# target to preprocess a source file
+csacademy/CEOI_18_Lottery.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Lottery.cpp.i
+.PHONY : csacademy/CEOI_18_Lottery.cpp.i
+
+csacademy/CEOI_18_Lottery.s: csacademy/CEOI_18_Lottery.cpp.s
+
+.PHONY : csacademy/CEOI_18_Lottery.s
+
+# target to generate assembly for a file
+csacademy/CEOI_18_Lottery.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Lottery.cpp.s
+.PHONY : csacademy/CEOI_18_Lottery.cpp.s
+
 csacademy/RMI_17-D1-Hangman2.obj: csacademy/RMI_17-D1-Hangman2.cpp.obj
 
 .PHONY : csacademy/RMI_17-D1-Hangman2.obj
@@ -26104,6 +26131,9 @@ help:
 	@echo ... csacademy/CEOI_18_Cloud.obj
 	@echo ... csacademy/CEOI_18_Cloud.i
 	@echo ... csacademy/CEOI_18_Cloud.s
+	@echo ... csacademy/CEOI_18_Lottery.obj
+	@echo ... csacademy/CEOI_18_Lottery.i
+	@echo ... csacademy/CEOI_18_Lottery.s
 	@echo ... csacademy/RMI_17-D1-Hangman2.obj
 	@echo ... csacademy/RMI_17-D1-Hangman2.i
 	@echo ... csacademy/RMI_17-D1-Hangman2.s

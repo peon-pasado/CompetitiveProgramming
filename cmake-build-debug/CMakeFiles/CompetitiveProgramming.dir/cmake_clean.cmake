@@ -631,6 +631,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/mmatrix.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/csacademy/Balkan_17_CityAttractions.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Cloud.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/csacademy/CEOI_18_Lottery.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/csacademy/RMI_17-D1-Hangman2.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/csacademy/ROJS_17-cntgigelmat.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/csacademy/ROJS_17_borland.cpp.obj"
