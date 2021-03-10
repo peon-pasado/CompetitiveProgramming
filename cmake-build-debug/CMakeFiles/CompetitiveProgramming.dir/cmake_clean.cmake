@@ -300,6 +300,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/UVA/ayo.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Usaco/16feb_Balancing_plat.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/Usaco/19feb_Cowdate_plat.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Usaco/Gold_19mar_Balancing.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Usaco/USACO_17jan_tallbarn_plat.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Usaco/You_ride_is_here.cpp.obj"

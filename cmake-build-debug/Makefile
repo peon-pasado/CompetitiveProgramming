@@ -8269,6 +8269,33 @@ Usaco/17jansubrev-plat.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Usaco/17jansubrev-plat.cpp.s
 .PHONY : Usaco/17jansubrev-plat.cpp.s
 
+Usaco/19feb_Cowdate_plat.obj: Usaco/19feb_Cowdate_plat.cpp.obj
+
+.PHONY : Usaco/19feb_Cowdate_plat.obj
+
+# target to build an object file
+Usaco/19feb_Cowdate_plat.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Usaco/19feb_Cowdate_plat.cpp.obj
+.PHONY : Usaco/19feb_Cowdate_plat.cpp.obj
+
+Usaco/19feb_Cowdate_plat.i: Usaco/19feb_Cowdate_plat.cpp.i
+
+.PHONY : Usaco/19feb_Cowdate_plat.i
+
+# target to preprocess a source file
+Usaco/19feb_Cowdate_plat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Usaco/19feb_Cowdate_plat.cpp.i
+.PHONY : Usaco/19feb_Cowdate_plat.cpp.i
+
+Usaco/19feb_Cowdate_plat.s: Usaco/19feb_Cowdate_plat.cpp.s
+
+.PHONY : Usaco/19feb_Cowdate_plat.s
+
+# target to generate assembly for a file
+Usaco/19feb_Cowdate_plat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Usaco/19feb_Cowdate_plat.cpp.s
+.PHONY : Usaco/19feb_Cowdate_plat.cpp.s
+
 Usaco/Gold_19mar_Balancing.obj: Usaco/Gold_19mar_Balancing.cpp.obj
 
 .PHONY : Usaco/Gold_19mar_Balancing.obj
@@ -25084,6 +25111,9 @@ help:
 	@echo ... Usaco/17jansubrev-plat.obj
 	@echo ... Usaco/17jansubrev-plat.i
 	@echo ... Usaco/17jansubrev-plat.s
+	@echo ... Usaco/19feb_Cowdate_plat.obj
+	@echo ... Usaco/19feb_Cowdate_plat.i
+	@echo ... Usaco/19feb_Cowdate_plat.s
 	@echo ... Usaco/Gold_19mar_Balancing.obj
 	@echo ... Usaco/Gold_19mar_Balancing.i
 	@echo ... Usaco/Gold_19mar_Balancing.s
