@@ -718,6 +718,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/Fibo4.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/amici2.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/infoarena/eq.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/interact.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/karb.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/infoarena/lcdr.cpp.obj"
