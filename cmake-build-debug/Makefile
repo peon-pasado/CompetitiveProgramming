@@ -8836,6 +8836,33 @@ atcoder/Atcoder160-ABC-F.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder160-ABC-F.cpp.s
 .PHONY : atcoder/Atcoder160-ABC-F.cpp.s
 
+atcoder/Atcoder160-ARC-F.obj: atcoder/Atcoder160-ARC-F.cpp.obj
+
+.PHONY : atcoder/Atcoder160-ARC-F.obj
+
+# target to build an object file
+atcoder/Atcoder160-ARC-F.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder160-ARC-F.cpp.obj
+.PHONY : atcoder/Atcoder160-ARC-F.cpp.obj
+
+atcoder/Atcoder160-ARC-F.i: atcoder/Atcoder160-ARC-F.cpp.i
+
+.PHONY : atcoder/Atcoder160-ARC-F.i
+
+# target to preprocess a source file
+atcoder/Atcoder160-ARC-F.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder160-ARC-F.cpp.i
+.PHONY : atcoder/Atcoder160-ARC-F.cpp.i
+
+atcoder/Atcoder160-ARC-F.s: atcoder/Atcoder160-ARC-F.cpp.s
+
+.PHONY : atcoder/Atcoder160-ARC-F.s
+
+# target to generate assembly for a file
+atcoder/Atcoder160-ARC-F.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder160-ARC-F.cpp.s
+.PHONY : atcoder/Atcoder160-ARC-F.cpp.s
+
 atcoder/AtcoderEduDP-V.obj: atcoder/AtcoderEduDP-V.cpp.obj
 
 .PHONY : atcoder/AtcoderEduDP-V.obj
@@ -25255,6 +25282,9 @@ help:
 	@echo ... atcoder/Atcoder160-ABC-F.obj
 	@echo ... atcoder/Atcoder160-ABC-F.i
 	@echo ... atcoder/Atcoder160-ABC-F.s
+	@echo ... atcoder/Atcoder160-ARC-F.obj
+	@echo ... atcoder/Atcoder160-ARC-F.i
+	@echo ... atcoder/Atcoder160-ARC-F.s
 	@echo ... atcoder/AtcoderEduDP-V.obj
 	@echo ... atcoder/AtcoderEduDP-V.i
 	@echo ... atcoder/AtcoderEduDP-V.s
