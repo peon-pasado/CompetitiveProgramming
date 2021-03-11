@@ -9,10 +9,10 @@
  *
  *          - if w = c^n the answer is n
  *
- *          - in other case w = t^n with |t| > 1
+ *          - in other case w = t^m with |t| > 1
  *          and t is non-periodic then:
  *
- *              w = (t^{n-1} u, c)
+ *              w = (t^{m-1} u, c)
  *
  *          with c a character and u such that t = u c
  *
