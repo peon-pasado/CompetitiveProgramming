@@ -8917,6 +8917,33 @@ atcoder/Atcoder064-ARC-E.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder064-ARC-E.cpp.s
 .PHONY : atcoder/Atcoder064-ARC-E.cpp.s
 
+atcoder/Atcoder064-ARC-F.obj: atcoder/Atcoder064-ARC-F.cpp.obj
+
+.PHONY : atcoder/Atcoder064-ARC-F.obj
+
+# target to build an object file
+atcoder/Atcoder064-ARC-F.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder064-ARC-F.cpp.obj
+.PHONY : atcoder/Atcoder064-ARC-F.cpp.obj
+
+atcoder/Atcoder064-ARC-F.i: atcoder/Atcoder064-ARC-F.cpp.i
+
+.PHONY : atcoder/Atcoder064-ARC-F.i
+
+# target to preprocess a source file
+atcoder/Atcoder064-ARC-F.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder064-ARC-F.cpp.i
+.PHONY : atcoder/Atcoder064-ARC-F.cpp.i
+
+atcoder/Atcoder064-ARC-F.s: atcoder/Atcoder064-ARC-F.cpp.s
+
+.PHONY : atcoder/Atcoder064-ARC-F.s
+
+# target to generate assembly for a file
+atcoder/Atcoder064-ARC-F.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder064-ARC-F.cpp.s
+.PHONY : atcoder/Atcoder064-ARC-F.cpp.s
+
 atcoder/Atcoder149-ABC-F.obj: atcoder/Atcoder149-ABC-F.cpp.obj
 
 .PHONY : atcoder/Atcoder149-ABC-F.obj
@@ -25399,6 +25426,9 @@ help:
 	@echo ... atcoder/Atcoder064-ARC-E.obj
 	@echo ... atcoder/Atcoder064-ARC-E.i
 	@echo ... atcoder/Atcoder064-ARC-E.s
+	@echo ... atcoder/Atcoder064-ARC-F.obj
+	@echo ... atcoder/Atcoder064-ARC-F.i
+	@echo ... atcoder/Atcoder064-ARC-F.s
 	@echo ... atcoder/Atcoder149-ABC-F.obj
 	@echo ... atcoder/Atcoder149-ABC-F.i
 	@echo ... atcoder/Atcoder149-ABC-F.s
