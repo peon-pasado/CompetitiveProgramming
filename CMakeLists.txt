@@ -898,5 +898,5 @@ add_executable(CompetitiveProgramming
         yandex/IOI_05_Mountain.cpp
         yandex/ioi_06_pyramid.cpp
         yandex/RusOI-reg_16-trains.cpp
-        ZOJ/2318.cpp infoarena/mexc.cpp Usaco/19feb_Cowdate_plat.cpp csacademy/CEOI_18_Lottery.cpp infoarena/eq.cpp atcoder/Atcoder060-ARC-E.cpp atcoder/Atcoder060-ARC-F.cpp atcoder/Atcoder061-ARC-E.cpp atcoder/Atcoder062-ARC-E.cpp atcoder/Atcoder063-ARC-E.cpp atcoder/Atcoder064-ARC-E.cpp atcoder/Atcoder064-ARC-F.cpp atcoder/Atcoder065-ARC-E.cpp)
+        ZOJ/2318.cpp infoarena/mexc.cpp Usaco/19feb_Cowdate_plat.cpp csacademy/CEOI_18_Lottery.cpp infoarena/eq.cpp atcoder/Atcoder060-ARC-E.cpp atcoder/Atcoder060-ARC-F.cpp atcoder/Atcoder061-ARC-E.cpp atcoder/Atcoder062-ARC-E.cpp atcoder/Atcoder063-ARC-E.cpp atcoder/Atcoder064-ARC-E.cpp atcoder/Atcoder064-ARC-F.cpp atcoder/Atcoder065-ARC-E.cpp atcoder/Atcoder065-ARC-F.cpp)
 
