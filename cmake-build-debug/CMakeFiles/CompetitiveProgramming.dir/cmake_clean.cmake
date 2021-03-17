@@ -327,6 +327,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder064-ARC-F.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder065-ARC-E.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder065-ARC-F.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder066-ARC-E.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder149-ABC-F.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/Atcoder160-ABC-F.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/atcoder/AtcoderEduDP-V.cpp.obj"
