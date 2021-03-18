@@ -19825,6 +19825,33 @@ infoarena/arb.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/arb.cpp.s
 .PHONY : infoarena/arb.cpp.s
 
+infoarena/arb3.obj: infoarena/arb3.cpp.obj
+
+.PHONY : infoarena/arb3.obj
+
+# target to build an object file
+infoarena/arb3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/arb3.cpp.obj
+.PHONY : infoarena/arb3.cpp.obj
+
+infoarena/arb3.i: infoarena/arb3.cpp.i
+
+.PHONY : infoarena/arb3.i
+
+# target to preprocess a source file
+infoarena/arb3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/arb3.cpp.i
+.PHONY : infoarena/arb3.cpp.i
+
+infoarena/arb3.s: infoarena/arb3.cpp.s
+
+.PHONY : infoarena/arb3.s
+
+# target to generate assembly for a file
+infoarena/arb3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/infoarena/arb3.cpp.s
+.PHONY : infoarena/arb3.cpp.s
+
 infoarena/eq.obj: infoarena/eq.cpp.obj
 
 .PHONY : infoarena/eq.obj
@@ -26719,6 +26746,9 @@ help:
 	@echo ... infoarena/arb.obj
 	@echo ... infoarena/arb.i
 	@echo ... infoarena/arb.s
+	@echo ... infoarena/arb3.obj
+	@echo ... infoarena/arb3.i
+	@echo ... infoarena/arb3.s
 	@echo ... infoarena/eq.obj
 	@echo ... infoarena/eq.i
 	@echo ... infoarena/eq.s
