@@ -15910,6 +15910,33 @@ codeforces/96A_turing_tape.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/96A_turing_tape.cpp.s
 .PHONY : codeforces/96A_turing_tape.cpp.s
 
+codeforces/APIO19_Strange_device.obj: codeforces/APIO19_Strange_device.cpp.obj
+
+.PHONY : codeforces/APIO19_Strange_device.obj
+
+# target to build an object file
+codeforces/APIO19_Strange_device.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/APIO19_Strange_device.cpp.obj
+.PHONY : codeforces/APIO19_Strange_device.cpp.obj
+
+codeforces/APIO19_Strange_device.i: codeforces/APIO19_Strange_device.cpp.i
+
+.PHONY : codeforces/APIO19_Strange_device.i
+
+# target to preprocess a source file
+codeforces/APIO19_Strange_device.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/APIO19_Strange_device.cpp.i
+.PHONY : codeforces/APIO19_Strange_device.cpp.i
+
+codeforces/APIO19_Strange_device.s: codeforces/APIO19_Strange_device.cpp.s
+
+.PHONY : codeforces/APIO19_Strange_device.s
+
+# target to generate assembly for a file
+codeforces/APIO19_Strange_device.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/APIO19_Strange_device.cpp.s
+.PHONY : codeforces/APIO19_Strange_device.cpp.s
+
 codeforces/A_i_love_username.obj: codeforces/A_i_love_username.cpp.obj
 
 .PHONY : codeforces/A_i_love_username.obj
@@ -26311,6 +26338,9 @@ help:
 	@echo ... codeforces/96A_turing_tape.obj
 	@echo ... codeforces/96A_turing_tape.i
 	@echo ... codeforces/96A_turing_tape.s
+	@echo ... codeforces/APIO19_Strange_device.obj
+	@echo ... codeforces/APIO19_Strange_device.i
+	@echo ... codeforces/APIO19_Strange_device.s
 	@echo ... codeforces/A_i_love_username.obj
 	@echo ... codeforces/A_i_love_username.i
 	@echo ... codeforces/A_i_love_username.s

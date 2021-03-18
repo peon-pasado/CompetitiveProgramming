@@ -583,6 +583,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/74A_room_leader.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/75C_modified_gcd.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/96A_turing_tape.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/codeforces/APIO19_Strange_device.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/A_i_love_username.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/A_strong_parentheses_sequence.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/B1_permutations.cpp.obj"
