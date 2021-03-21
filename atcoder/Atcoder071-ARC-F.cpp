@@ -15,7 +15,7 @@
  *
  *          "k1...1(sequence of size t - k - 1)"
  *
- *        with contribution f[t - k - 1]
+ *        with contribution dp(t - k - 1)
  *
  *      - if k >= t-1 have contribution 1:
  *
