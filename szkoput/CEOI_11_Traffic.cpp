@@ -7,8 +7,8 @@
  *
  *      - we can preprocess maximum (minimum) in
  *      O(n+m) if sorting increasing (decreasing).
- *      keeping in a dfs the maximum and minimum
- *      to the right, respectively.
+ *      keeping in a dfs the maximum (minimum)
+ *      to the right.
  *
  *      - In addition, we must remove nodes that
  *      are not reachable from the right
