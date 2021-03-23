@@ -862,6 +862,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/spoj/ZOO.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/spoj/qtree5.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_11_Traffic.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-Maximal.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-04-tournament.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI-05-Double-Row.cpp.obj"

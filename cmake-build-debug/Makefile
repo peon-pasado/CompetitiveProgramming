@@ -23443,6 +23443,33 @@ szkoput/CEOI_10_Tower.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_10_Tower.cpp.s
 .PHONY : szkoput/CEOI_10_Tower.cpp.s
 
+szkoput/CEOI_11_Traffic.obj: szkoput/CEOI_11_Traffic.cpp.obj
+
+.PHONY : szkoput/CEOI_11_Traffic.obj
+
+# target to build an object file
+szkoput/CEOI_11_Traffic.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_11_Traffic.cpp.obj
+.PHONY : szkoput/CEOI_11_Traffic.cpp.obj
+
+szkoput/CEOI_11_Traffic.i: szkoput/CEOI_11_Traffic.cpp.i
+
+.PHONY : szkoput/CEOI_11_Traffic.i
+
+# target to preprocess a source file
+szkoput/CEOI_11_Traffic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_11_Traffic.cpp.i
+.PHONY : szkoput/CEOI_11_Traffic.cpp.i
+
+szkoput/CEOI_11_Traffic.s: szkoput/CEOI_11_Traffic.cpp.s
+
+.PHONY : szkoput/CEOI_11_Traffic.s
+
+# target to generate assembly for a file
+szkoput/CEOI_11_Traffic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/CEOI_11_Traffic.cpp.s
+.PHONY : szkoput/CEOI_11_Traffic.cpp.s
+
 szkoput/POI-04-Maximal.obj: szkoput/POI-04-Maximal.cpp.obj
 
 .PHONY : szkoput/POI-04-Maximal.obj
@@ -27364,6 +27391,9 @@ help:
 	@echo ... szkoput/CEOI_10_Tower.obj
 	@echo ... szkoput/CEOI_10_Tower.i
 	@echo ... szkoput/CEOI_10_Tower.s
+	@echo ... szkoput/CEOI_11_Traffic.obj
+	@echo ... szkoput/CEOI_11_Traffic.i
+	@echo ... szkoput/CEOI_11_Traffic.s
 	@echo ... szkoput/POI-04-Maximal.obj
 	@echo ... szkoput/POI-04-Maximal.i
 	@echo ... szkoput/POI-04-Maximal.s
