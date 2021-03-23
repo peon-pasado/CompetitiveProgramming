@@ -16369,6 +16369,33 @@ codeforces/CDF2-D12-C.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/CDF2-D12-C.cpp.s
 .PHONY : codeforces/CDF2-D12-C.cpp.s
 
+codeforces/CEOI_19_Cubeword.obj: codeforces/CEOI_19_Cubeword.cpp.obj
+
+.PHONY : codeforces/CEOI_19_Cubeword.obj
+
+# target to build an object file
+codeforces/CEOI_19_Cubeword.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/CEOI_19_Cubeword.cpp.obj
+.PHONY : codeforces/CEOI_19_Cubeword.cpp.obj
+
+codeforces/CEOI_19_Cubeword.i: codeforces/CEOI_19_Cubeword.cpp.i
+
+.PHONY : codeforces/CEOI_19_Cubeword.i
+
+# target to preprocess a source file
+codeforces/CEOI_19_Cubeword.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/CEOI_19_Cubeword.cpp.i
+.PHONY : codeforces/CEOI_19_Cubeword.cpp.i
+
+codeforces/CEOI_19_Cubeword.s: codeforces/CEOI_19_Cubeword.cpp.s
+
+.PHONY : codeforces/CEOI_19_Cubeword.s
+
+# target to generate assembly for a file
+codeforces/CEOI_19_Cubeword.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/codeforces/CEOI_19_Cubeword.cpp.s
+.PHONY : codeforces/CEOI_19_Cubeword.cpp.s
+
 codeforces/CF100402-GYM-K.obj: codeforces/CF100402-GYM-K.cpp.obj
 
 .PHONY : codeforces/CF100402-GYM-K.obj
@@ -26605,6 +26632,9 @@ help:
 	@echo ... codeforces/CDF2-D12-C.obj
 	@echo ... codeforces/CDF2-D12-C.i
 	@echo ... codeforces/CDF2-D12-C.s
+	@echo ... codeforces/CEOI_19_Cubeword.obj
+	@echo ... codeforces/CEOI_19_Cubeword.i
+	@echo ... codeforces/CEOI_19_Cubeword.s
 	@echo ... codeforces/CF100402-GYM-K.obj
 	@echo ... codeforces/CF100402-GYM-K.i
 	@echo ... codeforces/CF100402-GYM-K.s

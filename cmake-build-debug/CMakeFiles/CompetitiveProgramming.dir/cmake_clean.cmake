@@ -600,6 +600,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/B_robots_task.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/B_shift_and_push.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/CDF2-D12-C.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/codeforces/CEOI_19_Cubeword.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/CF100402-GYM-K.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/CF1092-D2-F.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/codeforces/CF1182-D2-E.cpp.obj"
