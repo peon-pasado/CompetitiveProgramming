@@ -880,6 +880,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_04_Passage.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_05_Banknote.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07_Flood.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10-Sheep.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_10_sums.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_12-Festival.cpp.obj"

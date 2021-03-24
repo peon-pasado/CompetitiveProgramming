@@ -23929,6 +23929,33 @@ szkoput/POI_07-Weights.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07-Weights.cpp.s
 .PHONY : szkoput/POI_07-Weights.cpp.s
 
+szkoput/POI_07_Flood.obj: szkoput/POI_07_Flood.cpp.obj
+
+.PHONY : szkoput/POI_07_Flood.obj
+
+# target to build an object file
+szkoput/POI_07_Flood.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07_Flood.cpp.obj
+.PHONY : szkoput/POI_07_Flood.cpp.obj
+
+szkoput/POI_07_Flood.i: szkoput/POI_07_Flood.cpp.i
+
+.PHONY : szkoput/POI_07_Flood.i
+
+# target to preprocess a source file
+szkoput/POI_07_Flood.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07_Flood.cpp.i
+.PHONY : szkoput/POI_07_Flood.cpp.i
+
+szkoput/POI_07_Flood.s: szkoput/POI_07_Flood.cpp.s
+
+.PHONY : szkoput/POI_07_Flood.s
+
+# target to generate assembly for a file
+szkoput/POI_07_Flood.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/szkoput/POI_07_Flood.cpp.s
+.PHONY : szkoput/POI_07_Flood.cpp.s
+
 szkoput/POI_10-Sheep.obj: szkoput/POI_10-Sheep.cpp.obj
 
 .PHONY : szkoput/POI_10-Sheep.obj
@@ -27472,6 +27499,9 @@ help:
 	@echo ... szkoput/POI_07-Weights.obj
 	@echo ... szkoput/POI_07-Weights.i
 	@echo ... szkoput/POI_07-Weights.s
+	@echo ... szkoput/POI_07_Flood.obj
+	@echo ... szkoput/POI_07_Flood.i
+	@echo ... szkoput/POI_07_Flood.s
 	@echo ... szkoput/POI_10-Sheep.obj
 	@echo ... szkoput/POI_10-Sheep.i
 	@echo ... szkoput/POI_10-Sheep.s
