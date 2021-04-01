@@ -85,7 +85,7 @@
  * 
  *          s.size() + dist[node(j-1, len(s)-j)]
  * 
- * @complexity O(sum(s) \log (max(len(s)))) 
+ * @complexity O(max(len(s)) \log (max(len(s)))) 
  */
 
 #include <bits/stdc++.h>
