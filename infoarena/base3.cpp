@@ -25,66 +25,6 @@
  * 
  *          s.size() + dist[node(j-1, len(s)-j)]
  * 
- * @complexity O(sum(s) \log (max(len(s)))) 
- */
-
-/**
- * @author Miguel Mini 
- * @tag dijkstra
- * @idea
- *      - if we use an one in position j
- *      we can represent the problem with
- *      this one in the middle with state:
- *  
- *          (j - 1, len(s) - j)
- * 
- *      - we can reduce states if instead use:
- * 
- *          (x, y) -> (x - min(x, y), y - min(x, y))
- * 
- *      - this states are of the form (0, y) or (x, 0)
- *      with x, y <= max len of a string.
- * 
- *      - we need minimum distance from every
- *      state to state (0, 0).
- * 
- *      - we can reverse the graph and run a  
- *      dijsktra algorithm.
- * 
- *      - the answer is minimum:
- * 
- *          s.size() + dist[node(j-1, len(s)-j)]
- * 
- * @complexity O(sum(s) \log (max(len(s)))) 
- */
-
-/**
- * @author Miguel Mini 
- * @tag dijkstra
- * @idea
- *      - if we use an one in position j
- *      we can represent the problem with
- *      this one in the middle with state:
- *  
- *          (j - 1, len(s) - j)
- * 
- *      - we can reduce states if instead use:
- * 
- *          (x, y) -> (x - min(x, y), y - min(x, y))
- * 
- *      - this states are of the form (0, y) or (x, 0)
- *      with x, y <= max len of a string.
- * 
- *      - we need minimum distance from every
- *      state to state (0, 0).
- * 
- *      - we can reverse the graph and run a  
- *      dijsktra algorithm.
- * 
- *      - the answer is minimum:
- * 
- *          s.size() + dist[node(j-1, len(s)-j)]
- * 
  * @complexity O(max(len(s)) \log (max(len(s)))) 
  */
 
