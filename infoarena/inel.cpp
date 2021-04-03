@@ -1,0 +1,109 @@
+/**
+ * @author Miguel Mini
+ * @tag backtracking, bitmask
+ * @idea
+ *      - find primes, use
+ *      backtracking, with a
+ *      bitmask.
+ */ 
+#include <bits/stdc++.h>
+#define sz(x) ((int)x.size())
+#define trav(v, x) for (auto v : x)
+#define reu(x, y, z) for (int x=y; x<z; ++x)
+#define rep(i, n) for (int i = 0; i < n; ++i)
+#define all(x) x.begin(), x.end()
+#define rall(x) x.rbegin(), x.rend()
+#define eb emplace_back
+using namespace std;
+using ll = long long;
+using ii = pair<int, int>;
+using vi = vector<int>;
+using vii = vector<ii>;
+const int mod = 1e9 + 7;
+
+int add(int a, int b, int m=mod) {
+    return a+b < mod? a+b : a+b-mod;
+}
+
+int mul(ll a, ll b, int m=mod) {
+    return a*b%mod;
+}
+
+int ex(int a, int b, int m=mod) {
+    int r=1;
+    while (b > 0) {
+        if (b&1) r = mul(r, a);
+        a = mul(a, a);
+        b >>= 1;
+    }
+    return r;
+}
+
+const int inf = INT_MAX / 2.2;
+const int maxn = 40;
+bool comp[maxn];
+int Log[1<<19];
+vector<int> pr;
+
+void sieve(int n) {
+  for (int i = 2; i <= n; ++i) {
+    if (!comp[i]) pr.push_back(i);
+    for (int p : pr) {
+      if (p * i > n) break;
+      comp[p * i] = 1;
+      if (i % p == 0) break;
+    }
+  }
+}
+
+int n;
+int bt(int mask, int last) {
+  if (mask == 0) return !comp[last+1];
+  int ans = 0;
+  int tmask = mask;
+  while (mask > 0) {
+    int lso = mask & -mask;  
+    if (!comp[last + Log[lso]])
+      ans += bt(tmask ^ lso, Log[lso]);
+    mask ^= lso;
+  }
+  return ans;
+}
+
+
+class Solver {
+public:
+    void solveOne(istream& in, ostream& out) {
+      in >> n;
+      sieve(2 * n + 1);
+      for (int i = 1; i <= n; ++i) Log[1<<i] = i;
+      out << bt((1<<(n+1)) - 4, 1) << '\n';
+    }
+    void solve(istream& in, ostream& out) {
+        out.precision(10);
+        out << fixed;
+        int testNumber = 1;
+        //in >> testNumber;
+        rep(tc, testNumber) {
+            //out << "Case #" << tc+1 << ": ";
+            solveOne(in, out);
+        }
+    }
+};
+
+int main() {
+    Solver solver;
+    string file = "inel";
+    if (!file.empty()) {
+      ifstream in(file + ".in");
+      ofstream out(file + ".out");
+      in.tie(nullptr);
+      in.exceptions(in.failbit);
+      solver.solve(in, out);
+    } else {
+      ios_base::sync_with_stdio(false);
+      cin.tie(nullptr);
+      solver.solve(cin, cout);
+    }
+    return 0;
+}
