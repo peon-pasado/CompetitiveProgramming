@@ -9,7 +9,7 @@
  *      - we can use a set for each 
  *      distinct length and solve 
  *      in O(\sqrt\sum s_i x \log m)
- *      by query.
+ *      by position.
  * @complexity O(n \sqrt(\sum s_i) \log m)
  */ 
 
