@@ -3,13 +3,13 @@
  * @tag grundy, brute_force, dfs
  * @idea
  *      - if the graph doesnt has cycles
- *      we can use grundy number to 
+ *      we can use grundy number algorithm to 
  *      obtain values.
  *  
  *      - in other case, nodes in a cycle
- *      can have two values: (let be s 
+ *      can have two values: (let be s the
  *      set of mex out of cycle) mex(s)
- *      of mex(mex(s) union s).
+ *      or mex(mex(s) union s).
  * 
  *      - I can force this values for one
  *      node in the cycle and verify. 
