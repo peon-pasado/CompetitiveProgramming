@@ -20,6 +20,9 @@
  * 
  * @complexity O(n\log n)
  */
+#include <bits/stdc++.h>
+using namespace std;
+
 const int maxn = 2e5 + 10;
 struct Node {
     int sum;
@@ -66,7 +69,7 @@ int main() {
     a[n] = inf;
     for (int i = 0; i < n; ++i) cin >> a[i];
     build();
-    using iii = pair<int, pair<int, int>>;
+    using iii = pair<int, pair<int, int>>;  
     priority_queue<iii, vector<iii>, greater<iii>> Q;
     Q.push({a[st[1].e], {0, n-1}});
     for (int i = 0; i < n / 2; ++i) {
