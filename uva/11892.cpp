@@ -13,7 +13,7 @@
  * 
  *              - first k-1 take a[i]-1
  * 
- *              - with last > 1, select a[i]
+ *              - with last element, select a[i]
  *              or a[i]-1 to force win. 
  * 
  * @complexity O(t n)
