@@ -3,9 +3,9 @@
 *.out
 *in
 *out
-/*.exe
 csacademy/a.exe
 infoarena/a.exe
+*.exe
 *.exe
 *.exe
 *.exe
