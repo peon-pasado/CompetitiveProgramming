@@ -13,7 +13,7 @@
  *		the vector in the form system_reference += 
  *		vector[cur_position] - new_vector.
  *
- *		note: the axis is independent.	
+ *		note: the axis are independent.	
  *
  *		O((n + q) log(1e8)) with unordered_map.
  */
