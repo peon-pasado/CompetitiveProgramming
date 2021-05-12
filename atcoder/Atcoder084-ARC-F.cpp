@@ -64,14 +64,12 @@ int main() {
     long long ans = 0;
     row r;
     for (int i = maxn-1; i >= 0; --i) {
-        if (x[i] && !r[i] && !vis[i]) ans += pot[sz];
-        if (x[i] && vis[i]) ans += pot[sz-1];
-        if (x[i] != r[i]) {
+        ans += x[i] * (r[i] <= vis[i]) * pot[sz -= vis[i]];
+        if (x[i] ^ r[i]) {
             if (vis[i]) r ^= basis[i];
             else break;
         }
-        if (vis[i]) sz--;
-        if (i == 0) ans += 1;
+        ans += !i;
     }
     ans %= mod;
     cout << ans << endl;
