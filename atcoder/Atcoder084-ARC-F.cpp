@@ -64,7 +64,7 @@ int main() {
     long long ans = 0;
     row r;
     for (int i = maxn-1; i >= 0; --i) {
-        ans += x[i] * (r[i] <= vis[i]) * pot[sz -= vis[i]];
+        ans += x[i] * (!r[i] || vis[i]) * pot[sz -= vis[i]];
         if (x[i] ^ r[i]) {
             if (vis[i]) r ^= basis[i];
             else break;
