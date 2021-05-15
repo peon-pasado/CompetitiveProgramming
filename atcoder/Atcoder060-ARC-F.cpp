@@ -121,3 +121,68 @@ int main() {
     cout << ans << '\n';
     return 0;
 }
+
+/**
+O(n) solution
+
+a prefix is good if borde[i] == 0 || i isnt divided to i - borde[i]
+
+#include <bits/stdc++.h>
+using namespace std;
+
+using vi = vector<int>;
+vi prefix(string& s) {
+    vi b(s.size() + 1);
+    b[0] = -1;
+    for (int i = 1; i <= s.size(); ++i) {
+        int& j = b[i] = b[i-1];
+        while (~j && s[i-1] != s[j]) j = b[j];
+        ++j;
+    }
+    return b;
+}
+
+const int maxn = 5e5 + 10;
+int dpl[maxn], dpr[maxn];
+
+int main() {
+    string w;
+    cin >> w;
+    auto bl = prefix(w);
+    reverse(w.begin(), w.end());
+    auto br = prefix(w);
+    int n = w.size();
+    if (bl[n] == n-1) {
+        cout << n << '\n';
+        cout << 1 << '\n';
+        return 0;
+    }
+    int mb = n;
+    while (~mb) {
+        if (n % (n - bl[mb]) == 0) {
+            mb = n - bl[mb];
+            break;
+        }
+        mb = bl[mb];
+    }
+    if (mb == n) {
+        cout << 1 << '\n';
+        cout << 1 << '\n';
+        return 0;
+    }
+    for (int i = 1; i <= n; ++i) {
+    	dpl[i] = i % (i - bl[i]) > 0 || 0 == bl[i];
+    	dpr[i] = i % (i - br[i]) > 0 || 0 == br[i];
+    }
+    int ans = 0;
+    for (int i = 1; i < n; ++i) {
+        if (dpl[i] && dpr[n-i]) {
+            ans += 1;
+        }
+    }
+    cout << 2 << '\n';
+    cout << ans << '\n';
+    return 0;
+}
+**/
+
