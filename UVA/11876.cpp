@@ -1,42 +1,40 @@
-#include <bits/stdc++.h>
+#include <cstdio>
+const int N = 1000002;
 
-using namespace std;
+int p[N], solve[N];
+int n, a, b, term = 1, nc = 1, nd, f, c, i, j;
+short v[N];
 
-const int N = 1000000 + 5;
-
-int p[N]; 
-int f[N];
-int solve[N];
-int n, a, b;
-bool v[N];
+#define getcx getchar_unlocked
+inline void inp( int &n )//fast input function
+{
+   n=0;
+   int ch=getcx();int sign=1;
+   while( ch < '0' || ch > '9' ){if(ch=='-')sign=-1; ch=getcx();}
+ 
+   while(  ch >= '0' && ch <= '9' )
+           n = (n<<3)+(n<<1) + ch-'0', ch=getcx();
+   n=n*sign;
+}
 
 void criba(){
-    for(int i = 4; i < N; i += 2) p[i] = 2;
-    for(int i = 3; i*i < N; i += 2)
-        if(!p[i]) for(int j = i*i; j < N; j += 2*i) 
-            if(!p[j])
+    for(i = 4; i < N; i += 2) p[i] = 2;
+    for(i = 3; i*i < N; i += 2)
+        if(!p[i]) for(j = i*i; j < N; j += 2*i) 
                 p[j] = i;
 }
 
 int fact(int n){
-    if(n == 1) return 1;
-    int F = 0;
+    nd = 1;
     while(p[n]){
-        f[F++] = p[n]; 
-        n /= p[n];
-    }
-    if(n != 1)
-        f[F++] = n;
-
-    int nd = 1, t = 1;
-    for(int i = 1; i < F; ++i){
-        if(f[i] == f[i-1]) ++t;
-        else{
-            nd *= (t+1);
-            t = 1;
+        f = p[n]; c = 1;
+        while(n%f == 0){
+            c++;
+            n /= f;
         }
+        nd *= c;
     }
-    nd *= (t+1);
+    if(n > 1) nd <<= 1;
 
     return nd;
 }
@@ -47,34 +45,19 @@ int fact(int n){
 int main(){
     
     criba();
-    long long term = 1;
-    while(term <= 1000000){
-        int t = term;
-        v[t] = true;
-        term = t + fact(t);
+    while(term < N){
+        v[term] = 1;
+        term += fact(term);
     }
     
-    for(int i = 1; i <= 1000000; ++i)
+    for(i = 1; i < N; ++i)
         solve[i] = solve[i-1] + v[i];       
 
-    scanf("%d", &n);
-    for(int i = 1; i <= n; ++i){
-        scanf("%d %d", &a, &b);
-        printf("Case %d: %d\n", i, solve[b] - solve[a-1]);
+    inp(n);
+    while(n--){
+        inp(a); inp(b);
+        printf("Case %d: %d\n", nc++, solve[b] - solve[a-1]);
     }
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

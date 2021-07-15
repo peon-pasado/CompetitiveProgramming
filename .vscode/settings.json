@@ -9,6 +9,12 @@
         "iosfwd": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "bitset": "cpp"
-    }
+        "bitset": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
