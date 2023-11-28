@@ -1,3 +1,9 @@
+/**
+ * @idea backtracking is enough
+ * 
+**/
+
+
 #include <iostream>
 #include <utility>
 #include <vector>
