@@ -1,3 +1,10 @@
+/***
+ * @idea
+ *  - backtracking over primes and using
+ *  #distinct digits prune.
+ * 
+*/
+
 #include <iostream>
 #include <vector>
 #include <cstring>
