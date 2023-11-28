@@ -31,21 +31,29 @@ struct Point {
     bool operator==(const P& p) const {return x == p.x && y == p.y;}
 };
 
-const int maxn = 1e5 + 10;
+const int maxn = 502;
 Point<long long> P[maxn];
-ll id[maxn];
+int id[maxn];
 void solve(int l, int r) {
     if (r <= l + 1) return;
-
-    auto pivot = partition(id+l+1, id+r, [&](int idx) {
-        return P[id[idx]] > P[id[l]]; 
-    });
-    
-    auto cmp = [&](int idx) {
-        return 
-    };
-    sort(id+l+1, pivot, cmp);
-    sort(pivot, id+r, cmp);
+    auto s = P[id[l]];
+    auto m = P[id[l+1]];
+    stack<int> L, R;
+    for (int i=l+2; i<r; ++i) {
+        if (ccw(P[id[i]] - s, m - s) > 0) {
+            R.push(id[i]);
+        } else {
+            L.push(id[i]);
+        }
+    }
+    if (ccw(P[id[r]] - s, m - s) < 0) swap(L, R);
+    int mid = id[l+1];
+    int idx = l;
+    while (!L.empty()) id[++idx] = L.top(), L.pop();   
+    id[++idx] = mid;
+    mid = idx;
+    while (!R.empty()) id[++idx] = R.top(), R.pop();
+    solve(l, mid); solve(mid, r);
 }
 
 
@@ -55,10 +63,12 @@ int main() {
     while (t--) {
         int n;
         cin>>n;
-        vector<Point<long long>> P(n);
         for (int i=0; i<n; ++i) cin>>P[i];
-
-
+        iota(id, id+n, 0);
+        solve(0, n-1);
+        for (int i=0; i<n; ++i) {
+            cout << id[i]+1 << " \n"[i+1==n];
+        }
     }
     return 0;
 }
