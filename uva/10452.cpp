@@ -1,3 +1,9 @@
+/**
+ * @idea backtracking
+ * 
+ *  - generate every path with backtracking.
+**/
+
 #include <bits/stdc++.h>
 #define N 10
 
