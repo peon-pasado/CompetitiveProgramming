@@ -1,3 +1,10 @@
+/**
+ * @idea backtracking
+ * 
+ * - simule every "path", dont need optimization.
+ * 
+**/
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
