@@ -1,3 +1,11 @@
+/***
+ * @idea backtracking
+ * 
+ * - solve once with backtracking and then 
+ * use the 92 configurations for tests.
+ * 
+**/
+
 #include <iostream>
 #include <algorithm>
 #include <cstdio>
