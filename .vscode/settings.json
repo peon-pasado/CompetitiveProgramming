@@ -28,7 +28,8 @@
         "unordered_set": "cpp",
         "valarray": "cpp",
         "random": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__locale": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
