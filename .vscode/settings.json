@@ -29,7 +29,8 @@
         "valarray": "cpp",
         "random": "cpp",
         "ios": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "complex": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
