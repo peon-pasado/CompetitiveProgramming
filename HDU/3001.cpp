@@ -1,11 +1,3 @@
-/**
- * @idea backtracking, prune
- * 
- *  - simule with backtracking, I assume that
- *  number of repeated nodes is at most n/2 - 1.
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

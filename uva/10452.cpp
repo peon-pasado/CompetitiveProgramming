@@ -1,77 +1,54 @@
-/**
- * @idea backtracking
- * 
- *  - generate every path with backtracking.
-**/
+#include <iostream>
+using namespace std;
 
-#include <bits/stdc++.h>
-#define N 10
+int di[] = {0, 0, -1};
+int dj[] = {1, -1, 0};
+string dd[] = {"right", "left", "forth"};
+const int N = 500;
+string T[N];
+int n, m, t;
 
-using namespace::std;
-
-typedef pair<int, int> ii;
-
-const string S = "IEHOVA#";
-int di[8] = {0, -1, 0},
-    dj[8] = {1, 0, -1},
-    n, m, t, s1, s2, f1, f2;
-char M[N][N];
-string line;
-vector<ii> path;
-ii padre[N][N];
-bool visit[N][N];
+//depth first search
+string p = "IEHOVA#";
 
 
-void dfs(int s1, int s2, int times){
-
-    visit[s1][s2] = true;
-    if(times == 7)
-        {f1 = s1; f2 = s2; return;}
-
-    for(int i = 0; i < 3; ++i){
-        int a = s1 + di[i], b = s2 + dj[i];
-        if(a >= 0 && a < n && b >= 0 && b < m && !visit[a][b] && M[a][b] == S[times]){
-            padre[a][b] = ii(s1, s2);  
-            dfs(a, b, times + 1);
-        }
-    }
+bool valid(int i, int j){
+	return i >= 0 and i < n and j >= 0 and j < m;
 }
 
-int main(){
+void dfs(int i, int j, int h){
+	
+	if(h == p.size()){
+		cout << endl;
+		return;
+	}
+	else if(h) cout << " ";
+	
+	for(int k = 0; k < 3; ++k){
+		int ni = i + di[k];
+		int nj = j + dj[k];
+		
+		if(valid(ni,nj) and T[ni][nj] == p[h]){
+			cout << dd[k];
+			dfs(ni, nj, h+1);
+		}
+	}	
+	
+}
 
-    scanf("%d", &t);
-    while(t--){
-        scanf("%d %d", &n, &m);
-        getline(cin, line);
-        memset(visit, false, sizeof visit);       
-        for(int i = 0; i < n; ++i){
-            getline(cin, line);
-            //cout << line << endl;
-            for(int j = 0; j < m; ++j)
-                if((M[i][j] = line[j]) == '@')
-                    s1 = i, s2 = j;                   
-            //getchar();
-        }
-        dfs(s1, s2, 0);
-        
-        ii s(s1, s2), v(f1, f2);
-        while(s != v){
-            path.push_back(v);
-            v = padre[v.first][v.second];
-        }
-        for(vector<ii>::reverse_iterator it = path.rbegin(); it != path.rend(); ++it){
-            if(s.first != it->first)
-                printf("forth");
-            else if(s.second == it->second + 1)
-                printf("left");
-            else
-                printf("right");
+int main() {
+	
+	cin >> t;
+	while(t--){
+		cin >> n >> m;
+		for(int i = 0; i < n; ++i)
+			cin >> T[i];
 
-            putchar((M[it->first][it->second] == '#' ? '\n' : ' '));
-            s = *it;
-        }
-        path.clear();
-    }
+		for(int i = 0; i < n; ++i)
+			for(int j = 0; j < m; ++j)
+				if(T[i][j] == '@')
+					dfs(i, j, 0);
+	}
 
-    return 0;
+	return 0;
 }

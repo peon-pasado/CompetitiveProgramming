@@ -1,10 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag nim
- * @idea 
- *      - simple nim.
- */ 
-
 #include <bits/stdc++.h>
 using namespace std;
 

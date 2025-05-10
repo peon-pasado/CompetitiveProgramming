@@ -1,54 +1,64 @@
 #include <bits/stdc++.h>
-using namespace::std;
+using namespace std;
 
-const int N = 22,
-    di[8] = {0, -1, -1, -1, 0, 1, 1, 1},
-    dj[8] = {1, 1, 0, -1, -1, -1, 0, 1};
+int di[] = {0, -1, 1, 0, -1, 1, -1, 1};
+int dj[] = {1, 1, 1, -1, -1, -1, 0, 0};
+
+struct cmp{ 
+    bool operator()(const string& p, const string& q){
+         return p.size() < q.size() or p.size() == q.size() and p < q;
+    }
+};
+
+const int N = 50;
 int t, n;
-char T[N][N];
-string S;
-vector<string> solve;
+string T[N];
+set<string, cmp> sol; 
+string s;
 
-bool compare(const string& a, const string& b){
-    return a.size() < b .size() || a.size() == b.size() && a < b;
+bool valid(int i, int j){
+	return i >= 0 and i < n and j >= 0 and j < n;
 }
 
-int dfs(string& set, int s1, int s2){
 
-    if(set.size() >= 3) solve.push_back(set);
+void backtrack(int i, int j){
 
-    for(int i = 0; i < 8; ++i){
-        int a = s1 + di[i], b = s2 + dj[i];
-        if(a >= 0 && b >= 0 && a < n && b < n && set.back() < T[a][b]){
-            set.push_back(T[a][b]);
-            dfs(set, a, b);
-            set.pop_back();
-        }
-    }
+	if(s.size() >= 3) sol.insert(s);
+	
+	for(int k = 0; k < 8; ++k){
+		int ni = i + di[k];
+		int nj = j + dj[k];
+			
+		if(valid(ni, nj) and T[ni][nj] > s.back()){
+			s.push_back(T[ni][nj]);
+			backtrack(ni, nj);
+			s.pop_back();
+		}
+	}
 }
 
-int main(){
 
-    scanf("%d", &t);
-    while(t--){
-        solve.clear();
-
-        scanf("%d", &n);
-        for(int i = 0; i < n; ++i) scanf("%s", T[i]);
-        
-        for(int i = 0; i < n; ++i)
-            for(int j = 0; j < n; ++j){
-                S.push_back(T[i][j]);
-                dfs(S, i, j);
-                S.pop_back();
-            }
-
-        sort(solve.begin(), solve.end(), compare);        
-        solve.resize(unique(solve.begin(), solve.end()) - solve.begin());
-        
-        for(int i = 0; i < solve.size(); ++i) puts(solve[i].c_str());   
-        if(t) putchar('\n');
-    }
-
-    return 0;
+int main() {
+	
+	cin >> t;
+	while(t--){
+		sol.clear();
+		cin >> n;
+		for(int i = 0; i < n; ++i)
+			cin >> T[i];
+		
+		for(int i = 0; i < n; ++i)
+			for(int j = 0; j < n; ++j){
+				s.push_back(T[i][j]);
+				backtrack(i, j);
+				s.pop_back();
+			}
+			
+		for(string a : sol)		
+			cout << a << endl;
+		
+		if(t) cout << endl;
+	}
+	
+	return 0;
 }

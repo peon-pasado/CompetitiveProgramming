@@ -1,47 +1,34 @@
-#include <iostream>
-#include <stack>
-#include <cstdio>
+#include <bits/stdc++.h>
+using namespace std;
 
-using namespace::std;
-
-int t;
-string A;
-char c;
-stack<char> P;
-
-int main(){
-
-    cin >> t;
-    getline(cin, A);
-    while(t--)
-    {
-        getline(cin, A);
-        for(string::const_iterator it = A.cbegin(); it != A.cend(); ++it)
-            if(*it == '(' || *it == '[')
-                P.push(*it);
-            else if(*it == ')')
-            {   
-                if(P.empty() || P.top() != '('){
-                    P.push('+');
-                    break;
-                }
-                P.pop();
-            }
-            else if(*it == ']')
-            {
-                if(P.empty() || P.top() != '['){
-                    P.push('+');
-                    break;
-               }
-               P.pop();
-            }
-        
-        if(P.empty())
-            cout << "Yes" << endl;
-        else
-            cout << "No" << endl;
-
-        while(not P.empty()) P.pop(); 
-    }
-    return 0;
+int main() {
+	int t;
+	cin >> t;
+	cin.get();
+	for (int i = 0; i < t; ++i) {
+		string s;
+		getline(cin, s);
+		stack<char> p;
+		bool good = true;
+		for (auto c : s) {
+			if (c == '(' || c == '[') {
+				p.push(c);
+			} else if (!p.empty()) {
+				if ((c == ')' && p.top() == '(') || (c == ']' && p.top() == '[')) {
+					p.pop();
+				} else {
+					good = false;	
+				} 
+			} else {
+				good = false;
+			}
+			if (!good) {
+				break;
+			}
+		}
+		if (!p.empty()) good = false;
+		if (good) cout << "Yes" << '\n';
+		else cout << "No" << '\n';
+	}
+	return 0;
 }

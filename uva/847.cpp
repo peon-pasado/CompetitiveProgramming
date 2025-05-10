@@ -1,17 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag dp, win-lose
- * @idea
- *      - number of states
- *      is small. 
- * 
- *          O(log(n)^4 / (log(2) * log(3) * log(5) * log(7)))
- * 
- *          ~ O(log(n)^4 / 10)
- * 
- * @complexity O(log(n)^4)
- */ 
-
 #include <bits/stdc++.h>
 using namespace std;
 

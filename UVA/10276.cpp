@@ -1,12 +1,3 @@
-/**
- * @idea backtracking + heavy-pruning
- * 
- *  - simule with backtracking.
- * 
- *  - prune 1: order dont import in sticks.
- *  
- *  - prune 2: only put a new element if is necessary.
-**/
 #include <bits/stdc++.h>
 using namespace std;
 

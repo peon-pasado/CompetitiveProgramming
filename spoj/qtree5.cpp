@@ -1,13 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag centroid decomposition {data structure mode}
- * @idea
- *		- solve the problem without setting the nodes to 0
- *			- see codeforces 342 div2 E
- * 
- *		- use a multiset to keep the node closest.
- */
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -18,7 +8,6 @@ struct CentroidDecomposition {
 	vector<bool> block;
 	vector<vector<int>> dist;
 	vector<multiset<int>> res;
-	vector<int> color;
 	int root;
 	CentroidDecomposition(int n):
 		T(n)
@@ -27,11 +16,10 @@ struct CentroidDecomposition {
 		, block(n)
 		, rank(n)
 		, root(0)
-		, dist((int)log2(n) + 1, vector<int>(n))
+		, dist(18, vector<int>(n))
 		, res(n)
-		, color(n)
 	{}
-	void add_edge(int a, int b) {
+	void addEdge(int a, int b) {
 		T[a].emplace_back(b);
 		T[b].emplace_back(a);
 	}
@@ -40,28 +28,22 @@ struct CentroidDecomposition {
 	}
 	int dfs(int x, int p=-1) {
 		sz[x] = 1;
-		for (int v : T[x]) {
-			if (valid(v, p)) {
+		for (int v : T[x])
+			if (valid(v, p))
 				sz[x] += dfs(v, x);
-			}
-		}
 		return sz[x];
 	}
 	int get_centroid(int x, int p, int n) {
-		for (int v : T[x]) {
-			if (valid(v, p) and sz[v] > n>>1) {
+		for (int v : T[x])
+			if (valid(v, p) and sz[v] > n>>1)
 				return get_centroid(v, x, n);
-			}
-		}
 		return x;
 	}
 	void calc_dist(int x, int r, int p=-1, int h=0) {
 		dist[r][x] = h;
-		for (int v : T[x]) {
-			if (valid(v, p)) {
+		for (int v : T[x])
+			if (valid(v, p))
 				calc_dist(v, r, x, h+1);
-			}
-		}
 	}
 	void decompose(int x, int p=-1, int r=0) {
 		int n = dfs(x);
@@ -78,49 +60,56 @@ struct CentroidDecomposition {
 	int query(int x) {
 		int ans = inf, root = x;
 		while (root != -1) {
-			if (!res[root].empty()) {
+			if (not res[root].empty())
 				ans = min(ans, dist[rank[root]][x] + *res[root].begin());
-			}
 			root = P[root];
 		}
 		return ans;
 	}
 	void update(int x) {
 		int root = x;
-		color[x] ^= 1;
 		while (root != -1) {
-			if (color[x]) {
-				res[root].insert(dist[rank[root]][x]);
-			} else {
-				res[root].erase(res[root].lower_bound(dist[rank[root]][x]));
-			}
+			res[root].insert(dist[rank[root]][x]);
+			root = P[root];
+		}
+	}
+	void remove(int x) {
+		int root = x;
+		while (root != -1) {
+			res[root].erase(res[root].lower_bound(dist[rank[root]][x]));
 			root = P[root];
 		}
 	}
 };
 
 int main() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(nullptr);
 	int n;
-	cin >> n;
-	CentroidDecomposition tree(n);
-	for (int i = 0; i < n-1; ++i) {
-		int u, v;
-		cin >> u >> v;
-		tree.add_edge(u-1, v-1);
+	scanf("%d", &n);
+	CentroidDecomposition solver(n);
+	for (int i = 1; i <= n-1; ++i) {
+		int a, b;
+		scanf("%d %d", &a, &b);
+		solver.addEdge(a-1, b-1);
 	}
-	tree.decompose(tree.root);
+	solver.decompose(0);
+	vector<int> color(n);
 	int q;
-	cin >> q;
+	scanf("%d", &q);
 	while (q--) {
-		int type, v;
-		cin >> type >> v;
-		if (!type) {
-			tree.update(v-1);
+		int type, x;
+		scanf("%d %d", &type, &x);
+		x -= 1;
+		if (type == 0) {
+			if (not color[x]) {
+				solver.update(x);
+			} else {
+				solver.remove(x);
+			}
+			color[x] ^= 1;
 		} else {
-			int ans = tree.query(v-1);
-			cout << (ans != inf ? ans : -1) << endl;
+			int ans = solver.query(x);
+			if (ans == inf) puts("-1");
+			else printf("%d\n", ans);
 		}
 	}
 	return 0;

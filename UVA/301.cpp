@@ -1,15 +1,3 @@
-/**
- *  @idea backtracking, pruning 
- * 
- *  - we can simulate, and pruning 
- *  simulate travel in order of stations,
- *  we need to prune by passengers.
- * 
- *  - we can also prune adding a sum
- *  all picks in before parades.
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

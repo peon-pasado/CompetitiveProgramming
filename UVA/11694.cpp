@@ -1,13 +1,3 @@
-/***
- * @idea backtracking, cycles
- * 
- * - You can simule put slashes row by row
- * 
- * - You need cycle verification for every new edge
- * 
- * - I use dsu rollback, but dfs is enough.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

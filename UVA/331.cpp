@@ -1,16 +1,3 @@
-/**
- * @idea backtracking, math
- * 
- *  - the minimum number of swaps is the number 
- *  of inversions
- * 
- *  - simule swaps and map this:
- * 
- *      v0, v1, ..., vk
- * 
- *  with \sum_{i=0}^k vi x n^{k-i} 
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

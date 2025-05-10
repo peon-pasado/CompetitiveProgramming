@@ -1,64 +1,67 @@
-#include <iostream>
-#include <cstdio>
-#include <cmath>
+#include <bits/stdc++.h>
+#define ones(s) __builtin_popcount(s)
+#define max_pos(s) (31 - __builtin_clz(s))
 using namespace std;
 
-const int N = 10;
-int n, target;
-int X[N], Y[N], p[260][N];
-double dis[N][N],
-	   dp[260][N];
+const int maxn = 10;
+double dp[1<<maxn][maxn]; //comenzando en el elemento de menor indice
+double w[maxn][maxn];
+const double inf = 1e10;
+int x[maxn], y[maxn];
+int n;
 
-double matching(int bitmask, int front){
-	if(dp[bitmask][front] > -0.5) return dp[bitmask][front];
-	if(bitmask == target) return dp[bitmask][front] = 0.0;
-	double ans = 10000000.0;
-
-	for(int i = 0; i < n; ++i)
-		if(!(bitmask & (1<<i))){
-			double temp = dis[front][i] + matching(bitmask | (1<<i), i);
-			if(ans > temp){
-				ans = temp;
-				p[bitmask][front] = i;
+int main() {
+	cout << setprecision(2) << fixed;
+	int tc = 1;
+	while (cin >> n, n) {
+		for (int i = 0; i < n; ++i) {
+			cin >> x[i] >> y[i];
+		}
+		for (int i = 0; i < n; ++i) {
+			for (int j = 0; j < n; ++j) {
+				w[i][j] = 16 + hypot(x[i] - x[j], y[i] - y[j]);
 			}
 		}
-
-	return dp[bitmask][front] = ans;
-}
-
-int main(){
-
-	int nc = 1;
-	while(scanf("%d", &n), n){
-		for(int i = 0; i < n; ++i)
-			scanf("%d %d", X+i, Y+i);
-		
-		for(int i = 0; i < n; ++i)
-			for(int j = 0; j < n; ++j)
-				dis[i][j] = 16.0 + hypot(double(X[i]-X[j]), double(Y[i]-Y[j]));
-
-		for(int i = 0; i < (1<<n); ++i)
-			for(int j = 0; j < n; ++j) dp[i][j] = -1.0;
-		
-		int in;
-		target = (1<<n)-1;
-		double mini = 10000000.0;
-		for(int i = 0; i < n; ++i){
-			double temp = matching((1<<i), i);
-			if(mini > temp){
-				mini = temp;
-				in = i;
+		for (int s = 1; s < 1<<n; ++s) {
+			if (ones(s) == 1) {
+				for (int i = 0; i < n; ++i) {
+					dp[s][i] = (s == (1<<i)) ? 0. : inf;
+				}
+			}	else {
+				for (int i = 0; i < n; ++i) {
+					dp[s][i] = inf;
+					if (~s & (1<<i)) continue;
+					for (int j = 0; j < n; ++j) {
+						if (~s & (1<<j)) continue;
+						if (i == j) continue;
+						dp[s][i] = min(dp[s][i], dp[s ^ (1<<i)][j] + w[j][i]);
+					}
+				}
 			}
 		}
-		int mask = (1<<in);
-		puts("**********************************************************");
-		printf("Network #%d\n", nc++);
-		for(int j = in, k = p[mask][j], i = 1; i < n; ++i){
-			printf("Cable requirement to connect (%d,%d) to (%d,%d) is %.2lf feet.\n", X[j], Y[j], X[k], Y[k], dis[j][k]);
-			j = k; mask |= (1<<k); k = p[mask][j];
+		cout << "**********************************************************\n";
+		cout << "Network #" << tc << endl;
+		tc += 1;
+		int target = (1<<n) - 1;
+		int v = min_element(dp[target], dp[target] + n) - dp[target];
+		int s = target;
+		for (int i = 0; i < n - 1; ++i) {
+			double res = dp[s][v];
+			s ^= (1<<v);
+			int u = -1;
+			for (int j = 0; j < n; ++j) {
+				if (abs(dp[s][j] + w[j][v] - res) < 1e-4) {
+					u = j;
+					break;
+				}
+			}
+			cout << "Cable requirement to connect " 
+				<< "(" << x[v] << "," << y[v] << ") to " 
+				<< "(" << x[u] << "," << y[u] << ") is "
+				<< w[u][v] << " feet.\n";
+			v = u;
 		}
-		printf("Number of feet of cable required is %.2lf.\n", mini);
+		cout << "Number of feet of cable required is " << dp[target][v] << ".\n";
 	}
-
 	return 0;
 }

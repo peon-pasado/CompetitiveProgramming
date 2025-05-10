@@ -1,18 +1,3 @@
-/**
- * @idea backtracking, IDA-star, math
- * 
- * - we can simulate movements with backtracking.
- * 
- * - to minimize we can bound the max number of movements
- * with iterative deepening technique.
- * 
- * - we can use a-star heuristics (manhattan distance + 2 x number of linear conflicts).
- * 
- * - note that we need compare with final position (not use mapping)
- * 
- * - board with no solution are these with odd number of inversions.
- *  
-**/
 #include <iostream>
 #include <string>
 using namespace std;

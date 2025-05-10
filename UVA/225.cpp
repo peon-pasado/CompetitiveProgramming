@@ -1,13 +1,4 @@
-/**
- * @backtracking
- * 
- * - simule routes
- * 
- * - check in O(blocks)
- * 
- * - [important] don't repeat nodes.
-*/
-#include <iostream>
+#include<iostream>
 #include <vector>
 #include <cstring>
 #include <algorithm>
@@ -43,7 +34,9 @@ void road(int x,int y,int numero,int movimiento,char road_array[],int comp_usado
 		if(x==0&&y==0){
             for (int i=0; i<numero; ++i) tp[T][i] = road_array[i];
             tp[T][numero] = 0;
-            T++;	
+            T++;
+			//printArray(road_array,numero);
+			//cout<<endl;	
 			contador[0]++;
 			return;
 		}
@@ -52,6 +45,8 @@ void road(int x,int y,int numero,int movimiento,char road_array[],int comp_usado
 	else if(movimiento==1||(x!=0||y!=0)){
         if (vis[O + x][O + y]) return;
         vis[O + x][O + y] = 1;
+        //if (ss.count({x, y})) return;
+        //ss.insert({x, y});
 		aux1=comp_usado[0];
 		aux2=comp_usado[1];
 		for(int i=0;i<4;i++){

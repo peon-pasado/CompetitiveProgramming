@@ -1,10 +1,3 @@
-/**
- * @idea backtracking
- * 
- *  - simple simulation
- * 
- **/
-
 #include <bits/stdc++.h>
 using namespace std;
 const int maxN = 16;

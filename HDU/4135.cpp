@@ -1,11 +1,3 @@
-/**
- * @idea backtracking, PIE
- * 
- * - use inclusin-exclusion-principle over primes of N.
- * The sets are A_i = {n | a <= n <= b s.t. n = 0 (mod p_i)} 
- * 
- * - use backtracking for enumerate the sets.
-**/
 #include <iostream>
 #include <vector>
 using namespace std;

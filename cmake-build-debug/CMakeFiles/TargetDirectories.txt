@@ -1,3 +1,0 @@
-C:/Users/USER/Desktop/do-panic/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir
-C:/Users/USER/Desktop/do-panic/CompetitiveProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/USER/Desktop/do-panic/CompetitiveProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

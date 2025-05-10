@@ -1,10 +1,3 @@
-/**
- * @idea backtracking
- * 
- * - simule with backtracking (take / dont take)
- * - careful with the upper case
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,12 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag hashing, sets
- * @idea
- *      - use rolling hashing to 
- *      obtain k-length hashes.
- *  
- * @complexity O(n(\log n + \log B + \log sigma))
- */ 
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -38,7 +29,8 @@ int main() {
         scanf("%d%d", &n, &k);
         scanf("%s", s);
         set<ll> hashes;
-        ll h = s[0], bk = 1;
+        ll h = s[0];
+        ll bk = 1;
         for (int i=1; i<k; ++i) {
             h=add(mul(h, B), s[i]);
             bk = mul(bk, B);

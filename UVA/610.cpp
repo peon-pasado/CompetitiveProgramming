@@ -1,61 +1,73 @@
-/**
- *	UVA 610
- *	@overview minimum edge of directed graph with strong orientation
- *		
- *	# bridge always has its two directions
- *	# front edge of dfs tree is necesary
- *	# back edge of dfs tree only if its bridge
- *	# in other case front edge not is necesary
- */
-
-
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cstring>
+#include <cstdlib>
+#include <cstdio>
+#include <string>
+#include <sstream>
+#include <numeric>
 using namespace std;
 
-const int MAX_N = 1005;
-bool edge[MAX_N][MAX_N];
-bool vis[MAX_N];
-int tin[MAX_N], fup[MAX_N];
-vector<int> adj[MAX_N];
-int n, m, nc=1;
-int timer;
+const int maxn = 1010;
+vector<int> g[maxn];
+char state[maxn];
+int depth[maxn];
+int low[maxn];
+int T;
+vector<pair<int, int>> edges;
 
-void dfs(int x, int p) {
-	vis[x] = 1;
-	tin[x] = fup[x] = timer++;
-	for (int v : adj[x]) {
-		if (v == p) continue;
-		if (not edge[x][v]) continue;
-		if (vis[v])
-			fup[x] = min(fup[x], tin[v]), edge[v][x] = 0;
-		else {
-			dfs(v, x);
-			fup[x] = min(fup[x], fup[v]);
-			if (fup[v] <= tin[x]) edge[v][x] = 0; 
-		}
-	}
+void dfs(int x, int p = 0) {
+    depth[x] = low[x] = T++;
+    state[x] = 1;
+    for (int v : g[x]) {
+        if (v == p)
+            continue;
+        if (state[v] == 0) {
+            edges.push_back({x, v});
+            dfs(v, x);
+            low[x] = min(low[x], low[v]);
+            if (low[v] > depth[x]) {
+                edges.push_back({v, x});
+            }
+        }
+        else {
+            if (state[v] == 1) edges.push_back({x, v});
+            low[x] = min(low[x], depth[v]);
+        }
+    }
+    state[x] = 2;
 }
 
-int main () {
+void init(int n)
+{
+    T = 0;
+    for (int i = 1; i <= n; ++i) {
+        state[i] = 0;
+    }
+    edges.clear();
+}
 
-	while (scanf ("%d %d", &n, &m), n+m) {
-		for (int i = 1; i <= n; ++i) adj[i].clear();
-		memset(vis, 0, sizeof vis);
-		for (int i = 1; i <= m; ++i) {
-			int u, v;
-			scanf ("%d %d", &u, &v);
-			adj[u].emplace_back(v);
-			adj[v].emplace_back(u);
-			edge[u][v] = edge[v][u] = 1;
-		}
-
-		dfs(1, 0);
-		printf("%d\n\n", nc++);
-
-		for (int i = 1; i <= n; ++i)
-			for (int v : adj[i])
-				if (edge[i][v]) printf ("%d %d\n", i, v);
-		puts("#");
-	}
-	return 0;
+int main()
+{
+    int n, m;
+    int tc=1;
+    while (cin >> n >> m, n + m) {
+        for (int i = 1; i <= n; ++i)
+            g[i].clear();
+        init(n);
+        for (int i = 1; i <= m; ++i) {
+            int a, b;
+            cin >> a >> b;
+            g[a].emplace_back(b);
+            g[b].emplace_back(a);
+        }
+        dfs(1, 0);
+        cout << tc++ << "\n\n";
+        for (auto e : edges) {
+            cout << e.first << " " << e.second << '\n';
+        }
+        cout << "#\n";
+    }
+    return 0;
 }

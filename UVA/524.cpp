@@ -1,8 +1,3 @@
-/**
- * @idea:
- *  - exhaustive backtracking.
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

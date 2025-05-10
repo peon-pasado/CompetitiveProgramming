@@ -1,20 +1,3 @@
-/**
- * @idea:
- * 
- *  - given the constraints, dont exist solution
- *  if s(mod 2) = 1 o s/2 (need value) dont divide
- *  gcd(n, m). 
- * 
- *  - suppose that we want reach xn + ym, we can
- *  make (x, y) = (1, 0) and (0, 1). 
- * 
- *  - if n > m: (1, -1) ... (1, -2) ... n - qm = (n%m)
- *  
- *  - m % (n % m) ... 
- * 
- *  - until gcd(n, m). 
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

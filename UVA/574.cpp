@@ -1,12 +1,3 @@
-/**
- * @idea backtracking
- * 
- * - note that backtracking take and !take, 
- * generate sequences in decreasing lexicographic order.
- * 
- * - use a flag for not repeat values.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

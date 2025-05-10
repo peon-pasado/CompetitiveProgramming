@@ -80,16 +80,20 @@ struct Point
     P perp() const { return P(-y, x); }                             // rotates +90 degrees
     P normal() const { return perp().unit(); }
     // returns point rotated 'a' radians ccw around the origin
-    P rotate(double a) const {
+    P rotate(double a) const
+    {
         return P(x * cos(a) - y * sin(a), x * sin(a) + y * cos(a));
     }
-    P rotate(Point other, double a) const {
+    P rotate(Point other, double a) const
+    {
         return (*this - other).rotate(a) + other;
     }
-    friend istream &operator>>(istream &is, P &other) {
+    friend istream &operator>>(istream &is, P &other)
+    {
         return is >> other.x >> other.y;
     }
-    friend ostream &operator<<(ostream &os, P other) {
+    friend ostream &operator<<(ostream &os, P other)
+    {
         return os << other.x << " " << other.y;
     }
 };
@@ -100,7 +104,7 @@ bool is_above(Point<T> const &iPoint) {
 }
 
 template <typename T>
-bool projective_order(Point<T> const &iLeft, Point<T> const &iRight) {
+bool projectiveOrder(Point<T> const &iLeft, Point<T> const &iRight) {
     return (is_above(iLeft) == is_above(iRight)) ^ ((iLeft ^ iRight) > 0);
 }
 
@@ -114,22 +118,22 @@ struct Solver {
         vector<Point<int>> v(n);
         forn(i, n) in >> v[i];
         auto count = [&](vector<Point<int>>& p, Point<int>& o)->ll {
-            vector<Point<int>> translated_p;
+            vector<Point<int>> traslated_p;
             trav(point, p) if (point != o) {
-                translated_p.emb(point - o);
+                traslated_p.emb(point - o);
             }
-            sort(all(translated_p), projective_order<int>);
-            int n_points[2][2] = {0};
-            trav(point, translated_p) {
+            sort(all(traslated_p), projectiveOrder<int>);
+            int nPoints[2][2] = {0};
+            trav(point, traslated_p) {
                 bool is_a = is_above(point);
-                n_points[is_a][is_a]++;
+                nPoints[is_a][is_a]++;
             }
             ll triangles = 0;
-            trav(point, translated_p) {
+            trav(point, traslated_p) {
                 bool is_a = is_above(point);
-                triangles += n_points[0][!is_a] * n_points[1][!is_a];
-                n_points[is_a][is_a]--;
-                n_points[!is_a][is_a]++;
+                triangles += nPoints[0][!is_a] * nPoints[1][!is_a];
+                nPoints[is_a][is_a]--;
+                nPoints[!is_a][is_a]++;
             }
             return triangles;
         };

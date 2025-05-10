@@ -1,10 +1,3 @@
-/**
- * @idea backtracking, graphs
- * 
- * - simule all paths, mark nodes.
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

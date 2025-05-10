@@ -1,20 +1,3 @@
-/**
- * @idea backtracking + pruning
- * 
- * - n <= 60 (hardcoding)
- * 
- * - iterate over divisors.
- * 
- * - build sticke  in order.
- * 
- * - don't repeat elements in a level of backtracking.
- * 
- * - if exist solution, then any elemenet put first is 
- * good.
- * 
- * - if an element is the last too.
- * 
-**/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -39,6 +22,7 @@ bool bt(int pos, int f, int s) {
         if (bt(pos, f+a[i], i+1)) return 1;
         vis[i] = 0;
         if (f == 0) return 0;
+        //vis[i] = 0;
     }   
     return 0;
 }
@@ -60,6 +44,7 @@ int main() {
         int sum = accumulate(a, a+n, 0);
         int mx = *max_element(a, a+n);
         int ans = sum;
+        //cout<<sum<<endl;
         for (int i = mx; i < sum; ++i) {
             if (sum % i == 0) {
                 if (check(i, sum / i)) {

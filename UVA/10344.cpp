@@ -1,10 +1,6 @@
-/**
- * @idea: just simule this with backtracking.
- * 
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
+
 
 int a[6];
 int cal(int x, int y, int op) {
@@ -13,6 +9,7 @@ int cal(int x, int y, int op) {
     if (op == 2) return x * y;
     abort();
 }
+
 
 bool gen(int mask, int pos, int val, int op) {
     if (pos == 9) return val == 23;

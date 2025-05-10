@@ -1,9 +1,3 @@
-/**
- * @idea backtracking, graphs
- * 
- * - we can use backtracking to find every n-path
- * 
-*/
 #include <bits/stdc++.h>
 using namespace std;
 

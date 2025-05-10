@@ -158,7 +158,7 @@ int main() {
         solver.solve(in, out);
     } else {
         cin.tie(nullptr)->sync_with_stdio(false);
-        //  
+        //cin.exceptions(cin.failbit);
         solver.solve(cin, cout);
     }
     return 0;

@@ -1,13 +1,3 @@
-/**
- * @idea backtracking, heavy pruning
- * 
- * - we can set the answer (pesimistic) to n-1
- *
- * - we can simulate movements and use a lower bound,  
- * that is the number of blocks of consecutive elements
- * divide by two.
- * 
-*/
 #include <bits/stdc++.h>
 using namespace std;
 

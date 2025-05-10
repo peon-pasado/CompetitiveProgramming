@@ -1,18 +1,3 @@
-/**
- * @idea backtracking, iterative-deepening, prune
- * 
- *  - we can simule the process for select every character.
- * 
- *  - we can use iterative-deepening to get the minimum length.
- * 
- *  - we can prune with:
- * 
- *      - ceil(missing characters / n)
- * 
- *      - sum of maximum of every character in the sequences.
- * 
-**/
-
 #include <iostream>
 #include <algorithm>
 using namespace std;

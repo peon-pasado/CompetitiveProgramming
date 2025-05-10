@@ -1,23 +1,17 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-int n, c;
-int A, D;
-
-int main(){
-
-	scanf("%d%*c", &n);
-	for(int i = 0; i < n; ++i)
-		if(getchar() == 'A') A++;
-		else D++;
-
-	if(A > D)
-		puts("Anton");
-	else if(D > A)
-		puts("Danik");
-	else
-		puts("Friendship");
- 
-
+int main() {
+	int a, b;
+	cin >> a >> b;
+	int velas = a, velas_malogradas = 0;
+	int res = 0;
+	while (velas > 0) {
+		res += velas;
+		velas_malogradas += velas;
+		velas = velas_malogradas / b;
+		velas_malogradas %= b;
+	}
+	cout << res << '\n';
 	return 0;
 }

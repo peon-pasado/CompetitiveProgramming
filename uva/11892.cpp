@@ -1,24 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag grundy_number, constructive
- * @idea
- *      - if all elements are
- *      1, n odd is win to first
- *      player
- * 
- *      - strategy:
- * 
- *          - suppose k >= 1 elements
- *          > 1:
- * 
- *              - first k-1 take a[i]-1
- * 
- *              - with last element, select a[i]
- *              or a[i]-1 to force win. 
- * 
- * @complexity O(t n)
- */ 
-
 #include <bits/stdc++.h>
 using namespace std;
 

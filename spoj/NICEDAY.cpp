@@ -1,33 +1,22 @@
-/**
- *  NICEDAY - SPOJ
- *  @overview let A < B only if A.x < B.x and A.y < B.y and A.z < B.z, 
- *  find number of elements A without do there exist C such that C < A.
- *  
- *  - sort by x for less
- *  - consider element y < cur_y in sweep line traverse
- *  - then there exist C if cur_min in range [1, cur_y) is such that cur_z > z.
- */ 
-
-
 #include <bits/stdc++.h>
 using namespace std;
+const int maxn = 1e5 + 10;
 
-const int N = 1e5 + 10;
-int ft[N];
-int n, t;
-struct node {
-	int x, y, z;
-	bool operator<(node p) {
-		return x < p.x;
-	}
-} P[N];
+struct Participant {
+	int a, b, c;
+} p[maxn];
+int n;
+pair<int, int> ranking_a[maxn];
 
-void upd(int pos, int v) {
-	while (pos < N) {
+int ft[maxn];
+
+void update(int pos, int v) {
+	while (pos < maxn) {
 		ft[pos] = min(ft[pos], v);
 		pos += pos&-pos;
 	}
 }
+
 int query(int pos) {
 	int ans = INT_MAX;
 	while (pos > 0) {
@@ -37,26 +26,25 @@ int query(int pos) {
 	return ans;
 }
 
-
 int main() {
-	
+	int t;
 	scanf("%d", &t);
 	while (t--) {
-		scanf ("%d", &n);
-		for (int i = 0; i < n; ++i) {
-			int x, y, z;
-			scanf ("%d %d %d", &x, &y, &z);
-			P[i] = {x, y, z};
+		scanf("%d", &n);
+		for (int i = 0; i < n; ++i) {		
+			scanf("%d %d %d", &p[i].a, &p[i].b, &p[i].c);
+			ranking_a[p[i].a] = {p[i].b, p[i].c};
 		}
-		sort(P, P+n);
-		for (int i = 1; i <= n; ++i) ft[i] = INT_MAX;
-		int ans = 0;
-		for (int i = 0; i < n; ++i) {
-			if (query(P[i].y) > P[i].z) ans += 1;
-			upd(P[i].y, P[i].z);
+		memset(ft, 1, sizeof ft);
+		int cnt = 0;
+		for (int i = 1; i <= n; ++i) {
+			int temp = query(ranking_a[i].first);
+			if (temp > ranking_a[i].second) {
+				cnt += 1;
+			}
+			update(ranking_a[i].first, ranking_a[i].second);
 		}
-		printf("%d\n", ans);
+		printf("%d\n", cnt);
 	}
-	
 	return 0;
 }

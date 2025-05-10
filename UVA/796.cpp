@@ -1,66 +1,75 @@
-/**
- *	UVA 796
- *	@overview typical bridge problem
- */
-
-
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cstring>
+#include <cstdlib>
+#include <cstdio>
+#include <string>
+#include <sstream>
+#include <numeric>
 using namespace std;
 
-const int MAX_N = 5e5 + 10;
-bool vis[MAX_N];
-int fup[MAX_N], tin[MAX_N];
-vector<int> adj[MAX_N];
-vector<pair<int, int>> brid;
-int n, timer;
+const int maxn = 1010;
+vector<int> g[maxn];
+char state[maxn];
+int depth[maxn];
+int low[maxn];
+int T;
+vector<pair<int, int>> edges;
 
-void dfs(int x, int p) {
-	vis[x] = 1;
-	tin[x] = fup[x] = timer++;
-	for (int v : adj[x]) {
-		if (v == p) continue;
-		if (vis[v]) fup[x] = min(fup[x], tin[v]); 
-		else {
-			dfs(v, x);
-			fup[x] = min(fup[x], fup[v]);
-			if (fup[v] > tin[x]) {
-				int a = x, b = v;
-				if (a > b) swap(a, b);
-				brid.push_back({a, b});
-			}
-		}
-	}
+void dfs(int x, int p = -1) {
+    depth[x] = low[x] = T++;
+    state[x] = 1;
+    for (int v : g[x]) {
+        if (v == p)
+            continue;
+        if (state[v] == 0) {
+            dfs(v, x);
+            low[x] = min(low[x], low[v]);
+            if (low[v] > depth[x]) {
+                edges.push_back({min(v, x), max(x, v)});
+            }
+        } else {
+            low[x] = min(low[x], depth[v]);
+        }
+    }
+    state[x] = 2;
 }
 
-int main () {
+void init(int n) {
+    T = 0;
+    for (int i = 0; i < n; ++i) {
+        state[i] = 0;
+    }
+    edges.clear();
+}
 
-	while (scanf ("%d", &n) == 1) {
-		for (int i = 0; i < n; ++i) adj[i].clear();
-
-		for (int i = 1; i <= n; ++i) {
-			int u, k;
-			scanf ("%d (%d)", &u, &k);
-			for (int j = 1; j <= k; ++j) {
-				int v; scanf ("%d", &v);
-				adj[u].emplace_back(v);
-			}
-		}
-
-		for (int i = 0; i < n; ++i)
-			vis[i] = 0;
-		brid.clear();
-		for (int i = 0; i < n; ++i) {
-			if (not vis[i]) {
-				timer = 0;
-				dfs(i, -1);
-			}
-		}
-		printf ("%d critical links\n", (int)brid.size());
-		sort(brid.begin(), brid.end());
-		for (auto e : brid)
-			printf ("%d - %d\n", e.first, e.second);
-		puts("");
-	}
-
-	return 0;
+int main()
+{
+    int n;
+    int tc = 1;
+    while (cin >> n) {
+        for (int i = 0; i < n; ++i)
+            g[i].clear();
+        init(n);
+        for (int i = 0; i < n; ++i) {
+            int u, m, v;
+            scanf("%d (%d)", &u, &m);
+            for (int j = 0; j < m; ++j) {
+                cin >> v;
+                g[u].push_back(v);
+            }
+        }
+        for (int i = 0; i < n; ++i) {
+            if (state[i] == 0)
+                dfs(i);
+        }
+        cout << edges.size() << " critical links\n";
+        sort(edges.begin(), edges.end());
+        for (auto e : edges) {
+            cout << e.first << " - " << e.second << '\n';
+        }
+        cout << "\n";
+    }
+    return 0;
 }

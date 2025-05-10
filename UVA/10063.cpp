@@ -1,10 +1,3 @@
-/**
- * @idea recursion
- * 
- * - we can simulate with recursion, 
- *  in this case I implement a list approach.
- * 
-*/
 #include <bits/stdc++.h>
 using namespace std;
 

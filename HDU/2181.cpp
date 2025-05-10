@@ -1,10 +1,3 @@
-/**
- * @idea backtracking
- * 
- *  - sorting by neighbor and simule with backtracking every 
- * Hamiltonian cycle.
- * 
-*/
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,16 +1,3 @@
-/**
- * @idea backtracking, math
- * 
- * - we can count the number of sequences of 
- * digits 0-9 with #digits of r.
- * 
- * - the number of sequences is \binom{18 + 9}{9} 
- * 
- * - we can check in O(\log^2{r}) or O(\log(r))
- * if a configuration is between l and r.
- * 
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

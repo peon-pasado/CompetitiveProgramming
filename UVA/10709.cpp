@@ -1,10 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag geometry, segments and lines
- * @idea
- *      we need a good segment and lines interception.
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

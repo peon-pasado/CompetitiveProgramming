@@ -1,50 +1,67 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 1005;
-bool adj[N][N], vis[N][N];
-int dis[N][N]; 
-int n, m, t, r, c, x;
-const int dx[] = {1, 0, -1, 0},
-		  dy[] = {0, -1, 0, 1};
+const int maxn = 1005;
+int A[maxn][maxn];
+int d[maxn][maxn];
+bool vis[maxn][maxn];
+int n, m;
 
-int bfs(int x, int y, int xf, int yf){
-	queue<int> Q;
-	Q.push(x); Q.push(y); 
-	dis[x][y] = 0; vis[x][y] = true;
-	while(not Q.empty()){
-		int q1 = Q.front(); Q.pop();
-		int q2 = Q.front(); Q.pop();
-		if(q1 == xf and q2 == yf) return dis[xf][yf];
-		for(int a, b, i = 0; i < 4; ++i){
-			a = q1+dy[i]; b = q2+dx[i];
-			if(a >= 0 and a < n and b >= 0 and b < m and not vis[a][b] and not adj[a][b]){
-				vis[a][b] = true;
-				dis[a][b] = dis[q1][q2] + 1;
-				Q.push(a);
-				Q.push(b);
-			}
-		}
-	}
+bool valid(int x, int y) {
+	return x >= 0 && x < n && y >= 0 && y < m;
 }
 
-int main(){
-	
-	while(scanf("%d %d", &n, &m), n+m){
-		scanf("%d", &t);
-		while(t--){
-			scanf("%d %d", &r, &c);		
-			for(int i = 0; i < c; ++i){
-				scanf("%d", &x);
-				adj[r][x] = true;		
+int dx[4] = {-1, 1, 0, 0};
+int dy[4] = {0, 0, 1, -1};
+
+void bfs(int x, int y) {
+	for (int i = 0; i < n; ++i)
+		for (int j = 0; j < m; ++j)
+			vis[i][j] = 0;
+			
+    vis[x][y] = 1;
+    d[x][y] = 0;
+    queue<pair<int, int>> Q;
+    Q.push({x, y});
+    while (!Q.empty()) {
+        auto u = Q.front(); Q.pop();
+        for (int i = 0; i < 4; ++i) {
+        	int vx = dx[i] + u.first;
+        	int vy = dy[i] + u.second;
+        	if (!valid(vx, vy)) continue;
+        	if (A[vx][vy]) continue;
+            if (vis[vx][vy] == 0) {
+                vis[vx][vy] = 1;
+                d[vx][vy] = d[u.first][u.second] + 1;
+                Q.push({vx, vy});
+            }
+        }
+    }
+}
+
+
+int main() {
+	while (cin >> n >> m, n + m) {
+		for (int i = 0; i < n; ++i)
+			for (int j = 0; j < m; ++j)
+				A[i][j] = 0;
+		int k;
+		cin >> k;
+		for (int i = 0; i < k; ++i) {
+			int r, c; 
+			cin >> r >> c;
+			for (int j = 0; j < c; ++j) {
+				int b;
+				cin >> b;
+				A[r][b] = 1;
 			}
 		}
-		int x, y, xf, yf;		
-		scanf("%d %d %d %d", &x, &y, &xf, &yf);
-		printf("%d\n", bfs(x, y, xf, yf));
-		memset(adj, false, sizeof adj);
-		memset(vis, false, sizeof vis);
+		int xs, ys;
+		cin >> xs >> ys;
+		int xf, yf;
+		cin >> xf >> yf;
+		bfs(xs, ys);
+		cout << d[xf][yf] << '\n';
 	}
-
 	return 0;
 }

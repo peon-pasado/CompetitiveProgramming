@@ -18,10 +18,15 @@ int dfs(int i, int j, int l) {
 	for (int k=0; k<4; ++k) {
 		int ni = i + dx[k];
 		int nj = j + dy[k];
-		if (ni<0||nj<0||ni>=n||nj>=m||vis[ni][nj]) {
+		if (ni<0||nj<0) {
 			sum[k/2] += 1;
 			continue;
 		}
+		if (ni>=n||nj>=m) {
+			sum[k/2] += 1;
+			continue;
+		}
+		sum[k/2] += vis[ni][nj];
 	}
 	if (sum[0] == 2 && sum[1] == 0) return 0;
 	if (sum[1] == 2 && sum[0] == 0) return 0;

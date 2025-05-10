@@ -1,66 +1,56 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-vector<vector<int>> sol;
-void backtrack(int row, int r[8], set<int>& col, set<int>& d1, set<int>& d2) {
-	if (row == 8) {
-		vector<int> d(8);
-		for (int i = 0; i < 8; ++i) d[i] = r[i];
-		sol.push_back(d);
-		//cout << "***" << endl;
-		//for (int i = 0; i < 8; ++i) {
-		//	for (int j = 0; j < 8; ++j) {
-		//		if (r[i] == j) {
-		//			cout << "Q";
-		//		} else {
-		//			cout << "_";
-		//		}
-		//	}
-		//	cout << endl;
-		//}
-		return;
+char arr[9][9];
+char Q='1',EMPTY='0';
+int ans=0,ci,fi;
+bool valid(int f,int c)
+{	for(int i=1;i<9;i++)
+	{	for(int j=1;j<9;j++)
+		{	if(arr[i][j]==Q and (f==i or c==j or (abs(f-i) == abs(c-j))))
+			{return false;}
+		}
 	}
-	for (int c = 0; c < 8; ++c) {
-		if (col.count(c)) continue;
-		if (d1.count(row + c)) continue;
-		if (d2.count(row - c)) continue;
-		col.insert(c);
-		d1.insert(row + c);
-		d2.insert(row - c);
-		r[row] = c;
-		backtrack(row+1, r, col, d1, d2);
-		col.erase(c);
-		d1.erase(row + c);
-		d2.erase(row - c);
-		r[row] = -1;
-	}
+	return true;
 }
-
-
-int main() {
-	int r[8]; 
-	set<int> c, d1, d2;
-	backtrack(0, r, c, d1, d2);
-	int m;
-	cin >> m;
-	while (m--) {
-		int x, y;
-		cin >> x >> y;
-		x -= 1; y -= 1;
-		cout << "SOLN       COLUMN" << endl;
-		cout << " #      1 2 3 4 5 6 7 8" << endl;
-		cout << endl;
-		int t = 1;
-		for (auto v : sol) {
-			if (v[y] == x) {
-				printf("%2d      ", t);
-				t += 1;
-				for (int i = 0; i < 8; ++i) {
-					cout << v[i] + 1 << " \n"[i==7];
-				}
+void backtrack(int col=1)
+{	
+	if(col==ci)
+	{col++;}
+	if(col==9)
+	{	printf("%2i      ",++ans);
+		for(int col=1;col<9;col++)
+		{	for(int fil=1;fil<9;fil++)
+			{	if(arr[fil][col]==Q)
+				{cout<<fil<<" \n"[col==8];break;}
 			}
 		}
-		if (m) cout << endl;
+		return;
+	}
+	
+	for(int fil=1;fil<9;fil++)
+	{	if(valid(fil,col))
+		{	arr[fil][col]=Q;
+			backtrack(col+1);
+			arr[fil][col]=EMPTY;
+		}
+	}
+}
+int main() {
+	int ntest;
+	cin>>ntest;
+	for(int i=0;i<ntest;i++)
+	{	cin>>fi>>ci;
+		memset(arr,'0',sizeof arr);
+		arr[fi][ci]=Q;
+		cout<<"SOLN       COLUMN"<<endl;
+		cout<<" #      ";
+		for(int i=1;i<=8;i++)
+		{	cout<<i<<" \n"[i==8];
+		}
+		cout<<endl;
+		backtrack();
+		if (i+1 != ntest) cout << endl;
+		ans=0;
 	}
 	return 0;
 }

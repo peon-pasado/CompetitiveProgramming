@@ -1,8 +1,3 @@
-/**
- * @idea:
- *  simule with backtracking every path.
-*/
-
 #include <iostream>
 #include <vector>
 #include <utility>

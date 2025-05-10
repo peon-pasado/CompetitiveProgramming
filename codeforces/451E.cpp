@@ -1,22 +1,3 @@
-/**
- * @idea backtracking + IEP
- * 
- *  - we can count the number of elements
- *  with n restrictions.
- * 
- *  - we can solve with IEP for intersection of restrictions,
- *  
- *  xi <= ri -> ri < x  <-> ri+1 <= x and reduce ri+1 in final sum.
- * 
- *  - final problem is a combinatorial problem x1+...xn = s'
- * 
- *      answer is \binom{s' + n - 1}{n - 1}
- * 
- *  note that binomial coefficient take O(n) for calculation.
- * 
- *  final complexity: O(2^n x n)
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
  

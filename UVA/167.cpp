@@ -1,12 +1,3 @@
-/**
- * @idea: backtracking
- * 
- *  - simule every posibility.
- * 
- *  - we can reduce complexity if solve every possible scenario and 
- *  check in 91 * 8 steps.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 const int maxn = 10;

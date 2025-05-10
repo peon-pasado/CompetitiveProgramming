@@ -1,13 +1,3 @@
-/**
- * @idea backtracking, memoization 
- * 
- *  - simule with backtracking.
- * 
- *  - note that every cell have n x 8 possibilities
- *  to explote. 
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

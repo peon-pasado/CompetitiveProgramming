@@ -1,14 +1,3 @@
-/**
- * @idea backtracking
- * 
- * - simule sequence with backtracking
- * 
- * - verify in O(len^2), is enough.
- * 
- * - we can reduce complexity of check using z-algorithm.
- * in O(len) the check. 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

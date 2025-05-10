@@ -1,4 +1,4 @@
-nclude <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 const int N = 3e5 + 5;
@@ -41,7 +41,7 @@ int query(int l, int r, int v){
 			int lo = 0, hi = (int)block[i].size() - 1;
 			while(lo < hi){
 				int mid = lo + (hi-lo+1)/2;
-				if(block[i][mid] < v) lo = mid;
+				if(block[i][mid] < v) lo = mid;			
 				else hi = mid-1;
 			}
 
@@ -58,9 +58,9 @@ int query(int l, int r, int v){
 
 void update(int p, long long v){
 
-	p -= 1;
+	p -= 1;	
 
-	vector<long long> B;
+	vector<long long> B;	
 	B.push_back(v);
 	int bi = p / sq;
 
@@ -87,11 +87,11 @@ void solve(){
 
 	for(int i = 0; i < m; ++i){
 		int l, r, v, p;
-		scanf("%d %d %d %d", &l, &r, &v, &p);
+		scanf("%d %d %d %d", &l, &r, &v, &p);		
 
 		update(p, 1ll*u*query(l, r, v) / (r - l + 1));
 	}
-
+	
 	for(int i = 0; i < n; ++i)
 		printf("%lld\n", A[i]);
 }

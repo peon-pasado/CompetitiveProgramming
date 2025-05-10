@@ -1,21 +1,3 @@
-/**
- * @idea:
- * 
- *  - if a vertex is isolated, take it.
- * 
- *  - if backtrack over a vertex, complexity is:
- * 
- *      T(n) = T(n-1) + T(n-2) [fibonacci]
- *      
- *   where left branch is dont take and right take.
- * 
- *  - we can use meet in the middle and use dp
- *  over nodes with id < n/2.
- * 
- *  - complexity is O(sqrt(2)^n + qfib(n/2)) for q
- *  cases.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

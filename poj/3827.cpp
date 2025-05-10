@@ -1,8 +1,3 @@
-/**
- * @idea solve with backtracking for every
- *      swimming. dp is slow for memory.
-**/
-
 #include <cstdio>
 #include <cstdlib>
 #include <cctype>
@@ -56,11 +51,14 @@ int bt(int k, int px, int py, int v) {
 
 int main() {
     while (n=readint(), m=readint(), K=readint(), n+m+K > 0) {
-        for (int i=0; i<n; ++i)
+        for (int i=0; i<n; ++i) {
             for (int j=0; j<m; ++j) {
-                mn[i][j] = (readchar() == '$');
-                t[i][j] = readint();
+                char c = readchar();
+                int x = readint();
+                mn[i][j] = (c == '$');
+                t[i][j] = x;
             }
+        }
         res[m-1] = mn[0][m-1] ? t[0][m-1] : 0;
         for (int i=m-2; i>=0; --i)
             res[i] = bt(K, i, 0, 0);

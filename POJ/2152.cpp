@@ -1,16 +1,3 @@
-/**
- * @author Miguel Mini
- * @tag tree, dp, steiner tree
- * @idea:
- *    - first we calculate the distance from each node to the others, 
- *    after that we can express the dp(x, y) = the best way to cover 
- *    the subtree of x with the node y, each time we incorporate a 
- *    new subtree we can choose between the best way to cover that 
- *    subtree or cover it with the same node and removing the 
- *    contribution of that node in the choice.
-**/
-
-
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,10 +1,3 @@
-/**
- * @idea backtracking
- * 
- * - we can simule constraints with backtracking.
- * 
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

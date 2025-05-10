@@ -1,25 +1,3 @@
-/**
- * @idea meet-in-the-middle, backtracking, bitmask
- * 
- *  - we can divide the problem in two halves, and
- *  generate partial sum of the big set and partial
- *  sum of the subset with sum == sum set / 2. 
- * 
- *  - that sums are A, a and B, b in the other group.
- *  we can calculate A - 2a and -B + 2b, and compare
- *  these for equal. 
- * 
- *  - we can enumerate every sum A - 2a for A. in O(sqrt(3)^n)
- *  and for -B + 2b.
- * 
- *  - for every of that we can make a bitset with every set
- *  in a group with the same value.
- * 
- *  - and in the other group we intersect every bitset with a
- *  same value. en O(sqrt(2)^n / 32))
- *   
- * - final complexity: O(sqrt(6)^n / 32)
-**/
 #include <bits/stdc++.h>
 using namespace std;
 

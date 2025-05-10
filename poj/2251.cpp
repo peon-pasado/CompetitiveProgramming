@@ -1,8 +1,3 @@
-/**
- * @idea Use manhatan relaxation to prune. 
-**/
-
-
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -40,7 +35,6 @@ void bt(int x, int y, int z, int t) {
 }
 
 int main() {
-    cin.tie(0)->sync_with_stdio(0);
     while (cin>>n>>m>>p, n+m+p!=0) {
         for (int i=0; i<n; ++i) {
             for (int j=0; j<m; ++j) {

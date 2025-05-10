@@ -1,19 +1,3 @@
-/**
- * @idea inclusion-exclusion principle, bactracking (brute_force + bitmask), binary_search
- * 
- * if we denote A_i = {n <= N | n is multiple of v_i}, then we target set
- * if the numbers that appear exactly in one of the A_i and not in the others.
- * This problem can solve with generalize inclusion exclusion principle.
- * 
- * the answer is \sum_{k = r}^{m} (-1)^{k - r} \binom{k}{r} \sum_{|X| = k} A_X
- * 
- * where A_S = \vert A_{i_1} \cap A_{i_2} \cdots \cap A_{i_k} \vert and S = {i_1, ..., i_k}
- * 
- * the core idea is use binary search over N and calculate the first time such that the answer
- * is n, and generate every intersection with backtracking.
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 

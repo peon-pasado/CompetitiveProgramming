@@ -1,8 +1,3 @@
-/**
- *  @idea: assign for each row, row by row,
- *         use a mask to avoid duplicates. 
-**/
-
 #include <cstdio>
 using namespace std;
 

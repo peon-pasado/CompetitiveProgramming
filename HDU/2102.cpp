@@ -1,14 +1,3 @@
-/**
- * @idea backtracking, heuristic
- * 
- *  - simule with backtracking
- * 
- *  - use manhatan prune
- * 
- *  - assume that path is a simple path.
- * 
-**/
-
 #include <iostream>
 #include <cstring>
 using namespace std;

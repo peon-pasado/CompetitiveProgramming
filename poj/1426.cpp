@@ -1,18 +1,3 @@
-/**
- * @idea
- *
- *  - si n tiene multiplos de 2 o de 5, entonces
- *  tiene a lo mas 7 0s finales.
- * 
- *  - luego si phi(n) es pequeño, entonces
- *  entonces podemos encontrar -1 (mod n) y 
- *  le colocamos un 1 al final. 
- * 
- *  - en otro caso, cada 10^1, ..., 10^k son 
- *  todos distintos. Se cree que no hacen falta
- *  muchos.
-**/
-
 #include <iostream>
 using namespace std;
 

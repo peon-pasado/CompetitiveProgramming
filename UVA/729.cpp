@@ -1,8 +1,3 @@
-/**
- * @idea use backtracking to generate secuence.
- * 
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
 
